@@ -1,5 +1,4 @@
-"""
-ASGI config for goal3 project.
+"""ASGI config for goal3 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

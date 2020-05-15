@@ -1,5 +1,4 @@
-"""
-WSGI config for goal3 project.
+"""WSGI config for goal3 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
