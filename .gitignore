@@ -1,6 +1,7 @@
 # FILES
 **/**/.pyc
 .DS_Store
+.env
 
 # DIRECTORIES
 **/**/__pycache__
