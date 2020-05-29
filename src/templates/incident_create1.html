@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+            <h1>Accident Form</h1>
+    </header>
+    <main>
+        <form>
+            <fieldset>
+                <div>
+                    <label for="location"> Please choose your location</label>
+                    <select id="location">
+                        <option value="Abia"> Abia</option>
+                        <option value="Adamawa"> Adamawa</option>
+                        <option value="Akwa Ibom"> Akwa Ibom</option>
+                        <option value="Anambra"> Anambra</option>
+                        <option value="Bauchi"> Bauchi</option>
+                        <option value="Benue"> Benue</option>
+                        <option value="Borno"> Borno</option>
+                        <option value="Cross River"> Cross River</option>
+                        <option value="Damaturu"> Damaturu</option>
+                        <option value="Ebonyi"> Ebonyi</option>
+                        <option value="Enugu"> Enugu</option>
+                        <option value="Lagos"> Lagos</option>
+                        <option value="Ogun"> Ogun</option>
+                    </select>
+                </div>
+                
+                <div>
+                    <label for="date">Date of accident</label>
+                    <input type="date" id="date" name="date">
+                </div>
+
+                <div>
+                    <label for="time">Time of accident</label>
+                    <input type="time" id="time" name="time">
+                </div>
+    
+                <div>
+                    <label for="number_of_vehicles">Number of vehicles in the accident</label>
+                    <input type="number" id="number_of_vehicles" name="number_of_vehicles_involved">
+                </div>
+
+                <div>
+                    <p>Please choose vehicle(s) type</p>
+
+                    <input type="checkbox" id="Carsaloon" name="vehicle_type" value="Car saloon">
+                    <label for="Carsaloon">Car saloon</label><br/>
+    
+                    <input type="checkbox" id="Microbus" name="vehicle_type" value="Microbus">
+                    <label for="Microbus">Microbus (< 10 seater)</label><br/>
+    
+                    <input type="checkbox" id="Minibus" name="vehicle_type" value="Minibus">
+                    <label for="Minibus">Minibus (< 15 seater)</label><br/>
+    
+                    <input type="checkbox" id="Coaster" name="vehicle_type" value="Coaster">
+                    <label for="Coaster">Coaster (< 15 > 35 seater)</label><br/>
+    
+                    <input type="checkbox" id="Bus" name="vehicle_type" value="Bus">
+                    <label for="Bus">Bus (> 35 seater)</label><br/>
+    
+                    <input type="checkbox" id="Pickup" name="vehicle_type" value="Pickup">
+                    <label for="Pickup">Pickup</label><br/>
+    
+                    <input type="checkbox" id="SUV" name="vehicle_type" value="SUV">
+                    <label for="SUV">SUV (Jeep)</label><br/>
+    
+                    <input type="checkbox" id="Lightlorry" name="vehicle_type" value="Light lorry">
+                    <label for="Lightlorry">Light lorry (< 3.5 t)</label><br/>
+    
+                    <input type="checkbox" id="Heavylorry" name="vehicle_type" value="Heavylorry">
+                    <label for="Heavylorry">Heavy lorry (> 3.5 t)</label><br/>
+    
+                    <input type="checkbox" id="Tanker" name="vehicle_type" value="Tanker">
+                    <label for="Tanker">Tanker</label><br/>
+    
+                    <input type="checkbox" id="Trailer" name="vehicle_type" value="Trailer">
+                    <label for="Trailer">Trailer</label><br/>
+    
+                    <input type="checkbox" id="Motorcycle" name="vehicle_type" value="Motorcycle">
+                    <label for="Motorcycle">Motorcycle</label><br/>
+    
+                    <input type="checkbox" id="Tricycle" name="vehicle_type" value="Tricycle">
+                    <label for="Tricycle">Tricycle</label><br/>
+    
+                    <input type="checkbox" id="Bicycle" name="vehicle_type" value="Bicycle">
+                    <label for="Bicycle">Bicycle</label><br/>
+    
+                    <input type="checkbox" id="Unknown" name="vehicle_type" value="Unknown">
+                    <label for="Unknown">Unknown</label><br/>
+        
+                </div>
+
+    
+                <div>
+                    <p>Vehicle(s) precrash factors</p>
+
+                    <input type="checkbox" id="tyreburst" name="vehicle_precrash_factors" value="Car saloon">
+                    <label for="tyreburst">Tyre burst</label><br/>
+    
+                    <input type="checkbox" id="Mechanicaldeficiency" name="vehicle_precrash_factors" value="Mechanical deficiency">
+                    <label for="Mechanicaldeficiency">Mechanical deficiency</label><br/>
+    
+                    <input type="checkbox" id="Overloaded" name="vehicle_precrash_factors" value="Overloaded">
+                    <label for="Overloaded">Overloaded</label><br/>
+    
+                    <input type="checkbox" id="defectivelight" name="vehicle_precrash_factors" value="Defective light">
+                    <label for="defectivelight">Defective light</label><br/>
+    
+                    <input type="checkbox" id="nothingnotable" name="vehicle_precrash_factors" value="Nothing notable">
+                    <label for="nothingnotable">Nothing notable</label><br/>
+                </div>
+        
+
+                <div>
+                    <label for="damagedvehicles">Number of damaged vehicles</label>
+                    <input type="number" id="damagedvehicles" name="numnber_of_damaged_vehicles">
+                </div>
+
+                <div>
+                    <label for="roadgeometry"> Road Geometric design</label>
+                    <select id="roadgeometry" name="road_geometry">
+                        <option value="Straight road"> Straight road</option>
+                        <option value="Curve"> Curve</option>
+                        <option value="Roundabout"> Roundabout</option>
+                        <option value="T-junction"> T-junction</option>
+                        <option value="Y-junction"> Y-junction</option>
+                        <option value="+-junction"> +-junction</option>
+                        <option value="Bridge"> Bridge</option>
+                        <option value="Road works"> Road works</option>
+                        <option value="Other"> Other</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="roadtype">Choose road type</label>
+                    <select id="roadtype" name="road_type">
+                        <option value="Dual carriageway"> Dual carriageway</option>
+                        <option value="Single carriageway"> Single carriageway</option>
+                        <option value="Expressway"> Expressway</option>
+                        <option value="Street"> Street</option>
+                        <option value="Other"> Other</option>
+                    </select>
+                </div>
+        
+                <div>
+                    <p>Driver(s) precrash factors</p>
+                    
+                    <input type="checkbox" id="Nothingnotable" name="driver_precrash_factor" value="Nothing notable">
+                    <label for="Nothingnotable">Nothing notable</label><br/>
+
+                    <input type="checkbox" id="fatigue" name="driver_precrash_factor" value="fatigue/Sleepiness">
+                    <label for="fatigue">Fatigue/Sleepiness</label><br/>
+    
+                    <input type="checkbox" id="suddenillness" name="driver_precrash_factor" value="sudden illness">
+                    <label for="suddenillness">Sudden illness</label><br/>
+    
+                    <input type="checkbox" id="speeding" name="driver_precrash_factor" value="speeding">
+                    <label for="Speeding">Speeding</label><br/>
+    
+                    <input type="checkbox" id="carelessovertaking" name="driver_precrash_factor" value="careless overtaking">
+                    <label for="carelessovertaking">Careless overtaking</label><br/>
+    
+                    <input type="checkbox" id="tailgating" name="driver_precrash_factor" value="tailgating">
+                    <label for="tailgating">Tailgating</label><br/>
+    
+                    <input type="checkbox" id="suddenturn" name="driver_precrash_factor" value="sudden turn">
+                    <label for="suddenturn">Sudden Turn</label><br/>
+    
+                    <input type="checkbox" id="risktaking" name="driver_precrash_factor" value="other calculated risk taking">
+                    <label for="risktaking">Other calculated risk-taking</label><br/>
+    
+                    <input type="checkbox" id="phonewhiledriving" name="driver_precrash_factor" value="Use of phone while driving">
+                    <label for="phonewhiledriving">Use of phone while driving</label><br/>
+    
+                    <input type="checkbox" id="alcohol" name="driver_precrash_factor" value="influence of alcohol">
+                    <label for="alcohol">Influence of alcohol</label><br/>
+    
+                    <input type="checkbox" id="drugs" name="driver_precrash_factor" value="influence of drugs">
+                    <label for="drug">Influence of drug</label><br/>
+
+                    <input type="checkbox" id="distractions" name="driver_precrash_factor" value="distraction/inattentiveness">
+                    <label for="distractions">Other distractions/inattentiveness</label><br/>
+
+                </div>
+
+                <div>
+                    <label for="Collisiontype"> Collision type</label>
+                    <select id="Collisiontype" name="Collision_type">
+                        <option value="Mv/mv head on"> Moving vehicles, head on</option>
+                        <option value="Mv/mv rear end"> Moving vehicles, rear end</option>
+                        <option value="Mv/mv intersecting"> Moving vehicles, intersecting</option>
+                        <option value="Mv/mv overtake"> Moving vehicles, overtake</option>
+                        <option value="Mv/mv turn"> Moving vehicles, turn</option>
+                        <option value="Single mv, hit object"> Single moving vehicle, hit object</option>
+                        <option value="Single mv, run off"> Single moving vehicle, run off</option>
+                        <option value="Single mv, falling off"> Single moving vehicle, falling off</option>
+                        <option value="Mv/pedestrian"> Moving vehicle with pedestrian</option>
+                        <option value="Mv/bicyclist"> Moving vehicle with bicyclist</option>
+                        <option value="Other"> Other</option>
+                    </select>
+                </div>
+
+                <div>
+                        <label for="numberofvictims">Number of victims</label>
+                        <input type="number" id="numberofvictims" name="numnber_of_victims">
+                    </div>
+
+                    <div>
+                        <label for="number_of_injured">Number of injured</label>
+                        <input type="number" id="number_of_injured" name="number_of_injured">
+                    </div>
+
+                    <div>
+                        <label for="numberofdeaths">Number of deaths</label>
+                        <input type="number" id="numberofdeaths" name="numnber_of_deaths">
+                    </div>
+
+                    <div>
+                        <p>Category of victim(s)</p>
+
+                        <input type="checkbox" id="driver" name="category_of_victims" value="driver">
+                        <label for="driver">Driver</label><br/>
+        
+                        <input type="checkbox" id="passenger" name="passenger" value="passenger">
+                        <label for="passenger">Passenger</label><br/>
+        
+                        <input type="checkbox" id="motorcyclist" name="motorcyclist" value="motorcyclist">
+                        <label for="motorcyclist">Motorcyclist</label><br/>
+        
+                        <input type="checkbox" id="bicyclist" name="bicyclist" value="bicyclist">
+                        <label for="bicyclist">Bicycle</label><br/>
+        
+                        <input type="checkbox" id="pedestrian" name="pedestrian" value="pedestrian">
+                        <label for="pedestrian">pedestrian</label><br/>
+                    </div>
+
+                    <div>
+                            <p>Gender of victim(s)</p>
+
+                            <input type="checkbox" id="male" name="gender_of_victims" value="male">
+                            <label for="male">Male</label><br/>
+
+                            <input type="checkbox" id="female" name="gender_of_victims" value="female">
+                            <label for="female">Female</label><br/>
+            
+                    </div>
+
+                    <div>
+                            <p>Age group of victim(s)</p>
+
+                            <input type="checkbox" id="baby" name="victims_age_group" value="baby">
+                            <label for="baby">Baby</label><br/>
+
+                            <input type="checkbox" id="toddler" name="victims_age_group" value="toddler">
+                            <label for="toddler">Toddler</label><br/>
+
+                            <input type="checkbox" id="child" name="victims_age_group" value="child">
+                            <label for="child">Child</label><br/>
+
+                            <input type="checkbox" id="tenager" name="victims_age_group" value="tenager">
+                            <label for="tenager">Tenager</label><br/>
+
+                            <input type="checkbox" id="adult" name="victims_age_group" value="adult">
+                            <label for="adult">Adult</label><br/>
+                            
+                            <input type="checkbox" id="middleaged" name="victims_age_group" value="middle aged">
+                            <label for="middleaged">Middle aged</label><br/>
+
+                            <input type="checkbox" id="elderly" name="victims_age_group" value="elderly">
+                            <label for="elderly">Elderly</label><br/>
+                    </div>
+
+                    <div>
+                            <p>Victim(s) current location</p>
+
+                            <input type="checkbox" id="accidentscene" name="victims_current_location" value="accident scene">
+                            <label for="accidentscene">Accident Scene</label><br/>
+
+                            <input type="checkbox" id="hospital" name="victims_current_location" value="hospital">
+                            <label for="hospital">Hospital</label><br/>
+
+                            <input type="checkbox" id="other" name="victims_current_location" value="other">
+                            <label for="other">Other</label><br/>
+                    </div>
+
+                    <div>
+                        <label for="moreaccidentinfo">More Accident Info</label>
+                        <input id="moreaccidentinfo" type="text" name="more_accident_info">
+                    </div>
+
+                    <div>
+                        <button class="button" type="submit">Submit</button>
+                    </div>
+
+            </fieldset>
+
+        </form>
+
+    </main>
+    
+</body>
+</html>
+

@@ -60,10 +60,11 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'goal3.urls'
 
+#Include templates into TEMPLATES 'DIRS' as a base directory
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR,'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
