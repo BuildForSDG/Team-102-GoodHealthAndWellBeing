@@ -46,7 +46,14 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'bootstrap4',
+    'bootstrap_datepicker_plus',
 ]
+
+# Creating Bootstrap4 block and turning jquery to true
+BOOTSTRAP4 = {
+    'include_jquery': True,
+}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

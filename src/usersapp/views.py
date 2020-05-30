@@ -11,17 +11,27 @@ def  home (request):
 
 def incident_create(request):
     if request.method == 'POST':
-        form = IncidentForm(request.POST)
         
-        if form.is_valid():
-            form.save()
+        #form = IncidentForm(request.POST)
+        userform = IncidentForm(request.POST)
+
+        #if form.is_valid():
+        if userform.is_valid():
+
+            #form.save()
+            userform.save()
+            
             print('form submitted')
             return redirect('incident_create')
     else:
         print('unable to submit')
-        form = IncidentForm()
+        
+        #form = IncidentForm()
+        userform = IncidentForm()
+    
     return render(request,
     'incident_create.html',
     {
-        'form': form
+        #'form': form
+        'form': userform
     })
