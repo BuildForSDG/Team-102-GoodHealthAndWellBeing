@@ -3,18 +3,9 @@
 {% bootstrap_javascript jquery='full' %}  {# Embed Bootstrap JS+jQuery #}
 
 
-<!--
-<h1>Accident Form</h1>
-<form action="{% url 'incident_create' %}"
-      method="post">
-      {% csrf_token %}
-      {{ form.as_p }}
-<button class="button" type="submit">Submit</button>
-</form>
--->
 <div class="container">
 <h1>Accident Form</h1>
-<p>It is our collective responsibility to report an accident. By reporting accidents, relevant agencies monitor problems and identify their root causes. Reporting road accidents enable actions to be taken to reduce future ocurences, and at LifeShield it takes about 5 minutes to report an accident.</p>
+<p>It is our collective responsibility to report an accident. By reporting accidents, relevant agencies monitor problems and identify their root causes. Reporting road accidents enable actions to be taken to reduce future ocurrences, and at LifeShield it takes about 5 minutes to report an accident.</p>
 <form action="{% url 'incident_create' %}"
       method="post">
       {% csrf_token %}
@@ -24,4 +15,10 @@
             <button type="submit" class="btn btn-primary">Submit</button>
         {% endbuttons %}
 </form>
+
+<div>
+    {% for message in messages %}
+    <h3> {{message}}</h3>
+    {% endfor %}
+</div>
 <div>

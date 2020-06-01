@@ -1,4 +1,5 @@
 from django.shortcuts import render, redirect
+from django.contrib import messages
 from .forms import IncidentForm
 from .models import Incident
 from django.views.decorators.http import require_POST
@@ -22,6 +23,7 @@ def incident_create(request):
             userform.save()
             
             print('form submitted')
+            messages.info(request, 'Thank you for reporting')
             return redirect('incident_create')
     else:
         print('unable to submit')
