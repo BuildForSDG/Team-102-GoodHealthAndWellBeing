@@ -14,9 +14,13 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import path
+
+#connecting incident_create to usersapp
+from .views import home, incident_create
+
 
 urlpatterns = [
-    path('', include('usersapp.urls')),
-    path('admin/', admin.site.urls),
+    path('', home, name='home'),
+    path('incident/create/', incident_create, name='incident_create'),
 ]
