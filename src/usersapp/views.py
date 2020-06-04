@@ -26,8 +26,9 @@ def incident_create(request):
             messages.info(request, 'Thank you for reporting')
             return redirect('incident_create')
     else:
-        print('unable to submit')
-        
+        print('Unable to submit')
+        messages.info(request, 'Unable to submit, some fields cannot be empty')
+
         #form = IncidentForm()
         userform = IncidentForm()
     
@@ -36,4 +37,12 @@ def incident_create(request):
     {
         #'form': form
         'form': userform
+    })
+
+def responder(request):
+    detail=Incident.objects.all()
+    return render(request,
+    'responder.html',
+    {
+        'detail': detail
     })

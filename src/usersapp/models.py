@@ -9,7 +9,7 @@ VEHICLE_CHOICES = (('Car saloon', 'Car saloon'),
             ('Coaster', 'Coaster (< 15 > 35 seater)'),
             ('Bus', 'Bus (> 35 seater)'),
             ('Pickup', 'Pickup'),
-            ('SUV', 'SUV (Jeep'),
+            ('SUV', 'SUV (Jeep)'),
             ('Light lorry', 'Light lorry (< 3.5 t)'),
             ('Heavy lorry', 'Heavy lorry (> 3.5 t)'),
             ('Tanker', 'Tanker'),
@@ -148,8 +148,8 @@ class Incident(models.Model) :
     number_of_vehicles_involved=models.IntegerField(null=False,blank=False, db_column='vehicles involved')
     vehicle_type=MultiSelectField(choices=VEHICLE_CHOICES,max_length=50,null=False,blank=False)
     if_other_vehicle_specify=models.CharField(max_length=50,null=True,blank=True, db_column='other vehicle type')
-    vehicles_number_plates=models.CharField(max_length=100,null=True,blank=True, help_text="You can add more than one vehicle number plate.")
-    vehicle_precrash_factors=MultiSelectField(choices=VEHICLE_PRECRASH_CHOICES,max_length=50,null=False,blank=False)
+    vehicles_number_plates=models.CharField(max_length=100,null=True,blank=True, help_text="You can add more than one vehicle number plate seperated by a comma.")
+    vehicles_precrash_factors=MultiSelectField(choices=VEHICLE_PRECRASH_CHOICES,max_length=50,null=False,blank=False)
     number_of_damaged_vehicles=models.IntegerField(null=False,blank=False, help_text="Number of damaged vehicles can be zero or more.")
     road_geometry=models.CharField(choices=GEOMETRY_CHOICES,max_length=30,null=False,blank=False)
     road_type=models.CharField(choices=ROAD_TYPE_CHOICES,max_length=30,null=False,blank=False)
@@ -167,3 +167,4 @@ class Incident(models.Model) :
     if_hospital_specify=models.CharField(max_length=50,null=True,blank=True, db_column='hospital location')
     if_other_location_specify=models.CharField(max_length=50,null=True,blank=True, db_column='other location')
     more_accident_info=models.TextField(blank=True,null=True)
+    objects = models.Manager()

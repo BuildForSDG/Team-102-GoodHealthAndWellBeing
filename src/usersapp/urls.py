@@ -17,10 +17,11 @@ from django.contrib import admin
 from django.urls import path
 
 #connecting incident_create to usersapp
-from .views import home, incident_create
+from .views import home, incident_create, responder
 
 
 urlpatterns = [
     path('', home, name='home'),
     path('incident/create/', incident_create, name='incident_create'),
+    path('responder', responder, name='responder'),
 ]
