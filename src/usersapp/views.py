@@ -32,7 +32,7 @@ def incident_create(request):
             return redirect('incident_create')
     else:
         print('Unable to submit')
-        messages.info(request, 'Unable to submit, some fields cannot be empty')
+        #messages.info(request, 'Unable to submit, some fields cannot be empty')
 
         #form = IncidentForm()
         userform = IncidentForm()
@@ -53,9 +53,6 @@ def responder(request):
         'detail': detail
     })
 
-
-#datetz = Incident.objects.filter('date_of_accident')
-#timetz = Incident.objects.filter('time_of_accident')
 
 
 #writing a function for ResponsesFilter in filters.py

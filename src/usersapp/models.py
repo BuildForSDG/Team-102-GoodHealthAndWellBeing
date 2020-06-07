@@ -1,5 +1,8 @@
 from django.db import models
 from multiselectfield import MultiSelectField
+from django.core.exceptions import ValidationError
+import pytz
+from datetime import date
 
 # Create your models here.
 
@@ -145,10 +148,11 @@ class Incident(models.Model) :
     ]
 
     accident_location=models.CharField(choices=USER_LOCATION,max_length=45,null=False,blank=False)
+    local_government_area=models.CharField(max_length=25,null=False,blank=False, db_column='LGA')
     nearest_landmark=models.CharField(max_length=50,null=True,blank=True, help_text="By landmark we mean somewhere notable such as bustop, market, hotel, hospital etc.")
     date_of_accident=models.DateField(auto_now=False)
     time_of_accident=models.TimeField(auto_now=False)
-    number_of_vehicles_involved=models.IntegerField(null=False,blank=False, db_column='vehicles involved', help_text="Number of vehicles can be zero or more.")
+    number_of_vehicles_involved=models.PositiveIntegerField(null=False,blank=False, db_column='vehicles involved', help_text="Number of vehicles can be zero or more.")
     vehicle_type=MultiSelectField(choices=VEHICLE_CHOICES,max_length=50,null=False,blank=False)
     if_other_vehicle_specify=models.CharField(max_length=50,null=True,blank=True, db_column='other vehicle type')
     vehicles_number_plates=models.CharField(max_length=100,null=True,blank=True, help_text="You can add more than one vehicle number plate seperated by a comma.")
@@ -157,17 +161,53 @@ class Incident(models.Model) :
     road_type=models.CharField(choices=ROAD_TYPE_CHOICES,max_length=30,null=False,blank=False)
     driver_precrash_factors=MultiSelectField(choices=DRIVER_PRECRASH_CHOICES,max_length=50,null=False,blank=False, help_text="This field is required")
     collision_type=models.CharField(choices=COLLISION_CHOICES,max_length=70,null=False,blank=False)
-    number_of_victims=models.IntegerField(null=False,blank=False, help_text="Number of victims can be zero or more.")
-    number_of_injured=models.IntegerField(null=False,blank=False, help_text="Number of injured can be zero or more.")
-    number_of_deaths=models.IntegerField(null=False,blank=False, help_text="Number of dead can be zero or more.")
+    number_of_victims=models.PositiveIntegerField(null=False,blank=False, help_text="Number of victims can be zero or more.")
+    number_of_injured=models.PositiveIntegerField(null=False,blank=False, help_text="Number of injured can be zero or more.")
+    number_of_deaths=models.PositiveIntegerField(null=False,blank=False, help_text="Number of dead can be zero or more.")
     category_of_victims=MultiSelectField(choices=VICTIM_CATEGORY,max_length=40,null=True,blank=True, help_text="If no victim, leave boxes unticked.")
     victims_age_group=MultiSelectField(choices=VICTIM_AGE_GROUP,max_length=50,null=True,blank=True,help_text="If no victim, leave boxes unticked.")
-    number_of_male_victims=models.IntegerField(null=False,blank=False, help_text="Number of male victims can be zero or more.")
-    number_of_female_victims=models.IntegerField(null=False,blank=False, help_text="Number of female victims can be zero or more")
-    number_of_child_victims=models.IntegerField(null=False,blank=False, help_text="Number of child victims can be zero or more")
+    number_of_male_victims=models.PositiveIntegerField(null=False,blank=False, help_text="Number of male victims can be zero or more.")
+    number_of_female_victims=models.PositiveIntegerField(null=False,blank=False, help_text="Number of female victims can be zero or more")
+    number_of_child_victims=models.PositiveIntegerField(null=False,blank=False, help_text="Number of child victims can be zero or more")
     victims_current_location=MultiSelectField(choices=VICTIMS_LOCATIONS,max_length=50,null=True,blank=True,help_text="If no victim, leave box unticked.")
     if_hospital_specify=models.CharField(max_length=50,null=True,blank=True, db_column='hospital location')
     if_other_location_specify=models.CharField(max_length=50,null=True,blank=True, db_column='other location')
     more_accident_info=models.TextField(blank=True,null=True)
-    #calling objects used in responder function from views.py
+    #calling objects used in responder and search_responses function from views.py
     objects = models.Manager()
+
+    #writing validation function
+    def clean(self) -> None:
+        today = date.today()
+        if self.date_of_accident > today:
+                raise ValidationError(
+                    'Date of accident cannot be in the future'
+                )
+        
+        if self.number_of_injured > self.number_of_victims:
+                raise ValidationError(
+                    'Number of injured cannot be greater than number of victims'
+                )
+        if self.number_of_deaths > self.number_of_victims:
+                raise ValidationError(
+                    'Number of deaths cannot be greater than number of victims'
+                )
+
+        if (self.number_of_injured + self.number_of_deaths)  > self.number_of_victims:
+                raise ValidationError(
+                    'Number of injured and deaths cannot be greater than number of victims'
+                )
+
+        if self.vehicle_type == '':
+                raise ValidationError(
+                    'Vehicle type cannot be empty'
+                )
+
+        if self.vehicles_precrash_factors == '':
+                raise ValidationError(
+                    'Vehicles precrash factors cannot be empty'
+                )
+        if self.driver_precrash_factors == '':
+                raise ValidationError(
+                    'Driver precrash factors cannot be empty'
+                )
