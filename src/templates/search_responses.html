@@ -1,0 +1,27 @@
+{% load bootstrap4 %}       {# import bootstrap4 #}
+{% bootstrap_css %}         {# Embed Bootstrap CSS #}
+{% bootstrap_javascript jquery='full' %}  {# Embed Bootstrap JS+jQuery #}
+
+
+<div class="container-fluid">
+    <div class="container">
+        <h1>Accident Search</h1>
+     <form method="GET">
+            {% bootstrap_form filter.form %}
+            {{ form.media }}      {# Adds date-picker required JS and CSS #}
+                {% buttons %}
+                    <button type="submit" class="btn btn-primary">Search</button>
+                    <a class="btn btn-warning" href="{% url 'search_responses' %}">Reset</a>
+                {% endbuttons %}
+
+                
+        </form>
+
+        <ul>
+            {% for response in filter.qs %}
+            <li>{{ response.accident_location }} - {{ response.nearest_landmark }} - {{ response.time_of_accident }} - {{ response.date_of_accident }} - {{response.vehicles_number_plates}} - {{response.vehicles_precrash_factors}} - {{response.road_geometry}} - {{response.road_type}} - {{response.driver_precrash_factors}} - {{response.collision_type}} - {{response.number_of_victims}} - {{response.number_of_injured}} - {{response.number_of_deaths}} {{response.vehicle_type}} </li>
+            {% endfor %}
+        </ul>
+
+    </div>
+</div>
