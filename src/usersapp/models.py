@@ -143,7 +143,8 @@ class Incident(models.Model) :
         ('Single mv run off', 'Single moving vehicle, run off'),
         ('Single mv falling off', 'Single moving vehicle, falling off'),
         ('Mv/pedestrian', 'Moving vehicle with pedestrian'),
-        ('Mv/bicyclist', 'Moving vehicle with pedestrian'),
+        ('Mv/motorcyclist', 'Moving vehicle with motorcyclist'),
+        ('Mv/bicyclist', 'Moving vehicle with bicyclist'),
         ('Other', 'Other')
     ]
 
@@ -211,3 +212,31 @@ class Incident(models.Model) :
                 raise ValidationError(
                     'Driver precrash factors cannot be empty'
                 )
+        if self.number_of_male_victims > self.number_of_victims:
+                raise ValidationError(
+                    'Number of male victims cannot be greater than number of victims'
+                )
+        if self.number_of_female_victims > self.number_of_victims:
+                raise ValidationError(
+                    'Number of female victims cannot be greater than number of victims'
+                )
+        if self.number_of_child_victims > self.number_of_victims:
+                raise ValidationError(
+                    'Number of child victims cannot be greater than number of victims'
+                )
+        if (self.number_of_male_victims + self.number_of_female_victims)  > self.number_of_victims:
+                raise ValidationError(
+                    'Sum of male and female victims cannot be greater than number of victims'
+        )
+        if (self.number_of_male_victims + self.number_of_child_victims)  > self.number_of_victims:
+                raise ValidationError(
+                    'Sum of male and child victims cannot be greater than number of victims'
+        )
+        if (self.number_of_female_victims + self.number_of_child_victims)  > self.number_of_victims:
+                raise ValidationError(
+                    'Sum of female and child victims cannot be greater than number of victims'
+        )
+        if (self.number_of_male_victims + self.number_of_female_victims + self.number_of_child_victims)  > self.number_of_victims:
+                raise ValidationError(
+                    'Sum of male, female and child victims cannot be greater than number of victims'
+        )
