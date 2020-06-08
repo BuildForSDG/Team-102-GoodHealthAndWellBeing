@@ -13,15 +13,72 @@
                     <button type="submit" class="btn btn-primary">Search</button>
                     <a class="btn btn-warning" href="{% url 'search_responses' %}">Reset</a>
                 {% endbuttons %}
-
-                
-        </form>
-
-        <ul>
-            {% for response in filter.qs %}
-            <li>{{ response.accident_location }} - {{ response.nearest_landmark }} - {{ response.time_of_accident }} - {{ response.date_of_accident }} - {{response.vehicles_number_plates}} - {{response.vehicles_precrash_factors}} - {{response.road_geometry}} - {{response.road_type}} - {{response.driver_precrash_factors}} - {{response.collision_type}} - {{response.number_of_victims}} - {{response.number_of_injured}} - {{response.number_of_deaths}} {{response.vehicle_type}} </li>
-            {% endfor %}
-        </ul>
-
+    </form>
+    <table class="table table-bordered table-hover table-condensed">
+            <thead>
+                <tr>
+                        <th>Accident location</th>
+                        <th>Nearest Landmark</th>
+                        <th>Date of Accident</th>
+                        <th>Time of Accident</th>
+                        <th>Number of vehicles Involved</th>
+                        <th>Vehicle type</th>
+                        <th>Other vehicle (if any)</th>
+                        <th>Vehicles Number Plates</th>
+                        <th>Vehicles precrash factors</th>
+                        <th>Number of damaged vehicles</th>
+                        <th>Road Geometry</th>
+                        <th>Road type</th>
+                        <th>Drivers Precrash factors</th>
+                        <th>Collision type</th>
+                        <th>Number of victims</th>
+                        <th>Number of injured </th>
+                        <th>Number of deaths</th>
+                        <th>Category of victims</th>
+                        <th>Victims age group</th>
+                        <th>Number of male victims</th>
+                        <th>Number of female victims</th>
+                        <th>Number of child victims</th>
+                        <th>Victims current location</th>
+                        <th>Hospital Location</th>
+                        <th>Other Location (if any)</th>
+                        <th>More accident info</th>        
+                </tr>
+            </thead>
+            {% for item in filter.qs %}
+            <tbody>>
+                <tr>
+                        <td>{{item.accident_location}}</td>
+                        <td>{{item.nearest_landmark}}</td>
+                        <td>{{item.date_of_accident|date:"Y-m-d"}}</td>  
+                        <td>{{item.time_of_accident}}</td>                  
+                        <td>{{vehicles_involved}}</td>
+                        <td>{{item.vehicle_type}}</td>
+                        <td>{{item.other_vehicle_type}}</td>
+                        <td>{{item.vehicles_number_plates}}</td>
+                        <td>{{item.vehicles_precrash_factors}}</td>
+                        <td>{{item.number_of_damaged_vehicles}}</td>
+                        <td>{{item.road_geometry}}</td>
+                        <td>{{item.road_type}}</td>
+                        <td>{{item.drivers_precrash_factors}}</td>
+                        <td>{{item.collision_type}}</td>
+                        <td>{{item.number_of_victims}}</td>
+                        <td>{{item.number_of_injured}}</td>
+                        <td>{{item.number_of_deaths}}</td>
+                        <td>{{item.category_of_victims}}</td>
+                        <td>{{item.victims_age_group}}</td>
+                        <td>{{item.number_of_male_victims}}</td>
+                        <td>{{item.number_of_female_victims}}</td>
+                        <td>{{item.number_of_child_victims}}</td>
+                        <td>{{item.victims_current_location}}</td>
+                        <td>{{hospital_location}}</td>
+                        <td>{{item.other_location}}</td>
+                        <td>{{item.more_accident_info}}</td>
+                </tr>
+            </tbody>
+            {% endfor %}     
+        </table>
     </div>
 </div>
+{% load tz_detect %}
+{% tz_detect %}

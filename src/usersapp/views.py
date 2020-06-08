@@ -6,7 +6,6 @@ from django.contrib import messages
 from .forms import IncidentForm
 from .models import Incident
 from django.views.decorators.http import require_POST
-
 from .filters import ResponsesFilter
 
 # Create your views here.
@@ -44,6 +43,8 @@ def incident_create(request):
         'form': userform
     })
 
+
+#this function generates users' report responses into a single table
 def responder(request):
     #detail=Incident.objects.all().filter(accident_location__exact='Adamawa')
     detail=Incident.objects.all()
@@ -53,9 +54,16 @@ def responder(request):
         'detail': detail
     })
 
+'''
+#getting responders timezone when searching users responses 
 
+def convert_to_localtime(utctime):
+    utc = utctime.replace(tzinfo=pytz.UTC)
+    localtz = utc.astimezone(timezone.get_current_timezone())
+    return localtz
+'''
 
-#writing a function for ResponsesFilter in filters.py
+#writing a function that would filter fields in ResponsesFilter in filters.py
 def search_responses(request):
     responses = Incident.objects.all()
     response_filter = ResponsesFilter(request.GET, queryset=responses)
