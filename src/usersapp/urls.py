@@ -14,13 +14,15 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, re_path
 
 #connecting incident_create to usersapp
-from .views import home, incident_create
+from .views import home, incident_create, responder, search_responses
 
 
 urlpatterns = [
     path('', home, name='home'),
     path('incident/create/', incident_create, name='incident_create'),
+    path('responder', responder, name='responder'),
+    path('search/responses/', search_responses, name='search_responses'),
 ]

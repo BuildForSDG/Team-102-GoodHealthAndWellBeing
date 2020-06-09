@@ -48,12 +48,15 @@ INSTALLED_APPS = [
     'rest_framework',
     'bootstrap4',
     'bootstrap_datepicker_plus',
+    'tz_detect',
 ]
 
 # Creating Bootstrap4 block and turning jquery to true
 BOOTSTRAP4 = {
     'include_jquery': True,
 }
+
+import django
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -63,6 +66,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'tz_detect.middleware.TimezoneMiddleware',
 ]
 
 ROOT_URLCONF = 'goal3.urls'

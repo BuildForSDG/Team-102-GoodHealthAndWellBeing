@@ -23,8 +23,8 @@
               <div class="row">
                 <div class=" col-md-8 col-md-10 mx-auto">
                   <div class="site-heading">
-                    <h3 class=" site-heading my-4 mt-3 text-white"> Welcome to my awesome Blog </h3>
-                    <p class="text-light">We Love YOU As much as you do..! &nbsp
+                    <h3 class=" site-heading my-4 mt-3 text-white"> WELCOME TO ZOIT NEWSROOM </h3>
+                    <p class="text-light">We Love YOU As much as you do..!
                     </p>
                 </div>
                     </div>
@@ -72,3 +72,10 @@
   </nav>
 </div>
 {% endif %}
+<h1>Django Image Uploading</h1>
+<ul>
+  {% for post in object_list %}
+    <h2>{{ post.title }}</h2>
+    <img src="{{ post.cover.url}}" alt="{{ post.title }}">
+  {% endfor %}
+</ul>

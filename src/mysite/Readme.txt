@@ -12,3 +12,4 @@ cd mysite
 2. create your own virtual env or try 'workon zoitblog'
 3 Create superuser in other to access the admin
 4. Run server with python manage.py runserver
+5. Run python -m pip install Pillow to enable the app access ImageField
