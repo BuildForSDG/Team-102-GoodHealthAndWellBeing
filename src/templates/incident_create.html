@@ -5,9 +5,15 @@
 
 <div class="container-fluid">
     <div class="container">
+        <div>
+                {% for message in messages %}
+                <h3> {{message}}</h3>
+                {% endfor %}
+    
+        </div>
         <h1>Accident Form</h1>
         <p>It is our collective responsibility to report an accident. By reporting accidents, relevant agencies monitor problems and identify their root causes. Reporting road accidents enable actions to be taken to reduce future ocurrences, and at LifeShield it takes less than 5 minutes to report an accident.</p>
-        <form action="{% url 'incident_create' %}"
+        <form  enctype="multipart/form-data" method="POST" action="{% url 'incident_create' %}"
             method="post">
             {% csrf_token %}
             {% bootstrap_form form %}
@@ -17,11 +23,5 @@
                 {% endbuttons %}
         </form>
 
-        <div>
-            {% for message in messages %}
-            <h3> {{message}}</h3>
-            {% endfor %}
-
-        </div>
     </div>
 <div>
