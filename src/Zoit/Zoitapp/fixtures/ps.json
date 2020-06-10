@@ -1,0 +1,589 @@
+[
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "1",
+        "fields":{
+            "division": "Eziama Police Station Aba",
+            "address": "Aba North",
+            "phone": "07069441296",
+            "id": "1"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "2",
+        "fields":{
+            "division": "Divisional Police Headquarters Ogborhill Aba",
+            "address": "Ogborhill",
+            "phone": "0706944129",
+            "id": "2"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "3",
+        "fields":{
+            "division": "Uratta Police Station Aba",
+            "address": "Aba South",
+            "phone": "07069441296",
+            "id": "3"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "4",
+        "fields":{
+            "division": "Bende Divisional Police Headquarters Bende",
+            "address": "Aba",
+            "phone": "08035415405",
+            "id": "4"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "5",
+        "fields":{
+            "division": "Ozu Abam Police Station Arochukwu",
+            "address": "Arochukwu",
+            "phone": "08079210003",
+            "id": "5"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "6",
+        "fields":{
+            "division": "Agboakoli Police Station Bende",
+            "address": "Bende",
+            "phone": "07069441296",
+            "id": "6"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "7",
+        "fields":{
+            "division": "Amaeke Police Station Bende",
+            "address": "Amaeke",
+            "phone": "07069441296",
+            "id": "7"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "8",
+        "fields":{
+            "division": "Itumbauzo Police Station Bende",
+            "address": "Bende",
+            "phone": "07069441296",
+            "id": "8"
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "9",
+        "fields":{
+            "division": "Police Station Ganye Division Adamawa",
+            "address": "Ganye",
+            "phone": "08089671313",
+            "id": "9"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "10",
+        "fields":{
+            "division": "Gombi police station Adamawa",
+            "address": "Balda",
+            "phone": "08085208086",
+            "id": "10"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "11",
+        "fields":{
+            "division": "Girei Police Station  Adamawa",
+            "address": "Yola, Mubi Rd, Girei ",
+            "phone": "08089671313",
+            "id": "11"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "12",
+        "fields":{
+            "division": "Gombi police station",
+            "address": "Balda",
+            "phone": "08089671313",
+            "id": "12"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "13",
+        "fields":{
+            "division": "Adamawa State Police HQ",
+            "address": "1 Justice Buba Ardo Road, Jimeta",
+            "phone": "08089671313",
+            "id": "13"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "14",
+        "fields":{
+            "division": "Area Command, Yola Division ",
+            "address": "Abuja Road, Wuro Hausa, Yola",
+            "phone": "08089671313",
+            "id": "14"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "15",
+        "fields":{
+            "division": "Shagari Police Station",
+            "address": "Madumari, Yola",
+            "phone": "08089671313",
+            "id": "15"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "16",
+        "fields":{
+            "division": "Mararaba Mubi Police Division",
+            "address": "Marraraba",
+            "phone": "08089671313",
+            "id": "16"
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "17",
+        "fields":{
+            "division": "A' Division Uyo",
+            "address": "A' Divisional command Barrack Road Uyo",
+            "phone": "07069441296",
+            "id": "17"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "18",
+        "fields":{
+            "division": "Abak Police Division Uyo",
+            "address": "Abak Divisional Police headquarters",
+            "phone": "0706944129",
+            "id": "18"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "19",
+        "fields":{
+            "division": "C Police Division Uyo",
+            "address": "C Divisional Command Ikot Akpan",
+            "phone": "07069441296",
+            "id": "19"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "20",
+        "fields":{
+            "division": "Estern Obolo Police Station",
+            "address": "Eastern Obolo Divisional command",
+            "phone": "08035415405",
+            "id": "20"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "21",
+        "fields":{
+            "division": "Eket Police Division",
+            "address": "Etim Ekpo Divisional Command",
+            "phone": "08079210003",
+            "id": "21"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "22",
+        "fields":{
+            "division": "Ibeno Police Division",
+            "address": "Ibeno Divisional Command",
+            "phone": "07069441296",
+            "id": "22"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "23",
+        "fields":{
+            "division": "Ika Police Division",
+            "address": "Ika Divisional Command",
+            "phone": "07069441296",
+            "id": "23"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "24",
+        "fields":{
+            "division": "Oron Police Division",
+            "address": "Divisional Police Headquarters, Oron",
+            "phone": "07069441296",
+            "id": "24"
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "25",
+        "fields":{
+            "division": "Area Command Headquarters",
+            "address": "Abakaliki Rd, New Haven, Enugu",
+            "phone": "08037157768",
+            "id": "25"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "26",
+        "fields":{
+            "division": "Igboeze Police Station",
+            "address": "Igbo-etiti            ",
+            "phone": "08037157786",
+            "id": "26"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "27",
+        "fields":{
+            "division": "Uwani Police Station",
+            "address": "46 Zik Ave, Uwani, Enugu",
+            "phone": "08037157786",
+            "id": "28"   
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "28",
+        "fields":{
+            "division": "Railway Police Station",
+            "address": "Enugu North",
+            "phone": "08035415405",
+            "id": "28"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "29",
+        "fields":{
+            "division": "Okpuje Police Station",
+            "address": "Nsukka",
+            "phone": "08079210003",
+            "id": "29"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "30",
+        "fields":{
+            "division": "Ibagwa Aka Police Station",
+            "address": "Igbo-Eze-South",
+            "phone": "07069441296",
+            "id": "30"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "31",
+        "fields":{
+            "division": "Igbo Eze North Police Station",
+            "address": "Amaeke",
+            "phone": "07069441296",
+            "id": "31"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "32",
+        "fields":{
+            "division": "Awkunanaw Police Station",
+            "address": "Enugu South",
+            "phone": "07069441296",
+            "id": "32"
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "33",
+        "fields":{
+            "division": "Nigerian Police Force Headquarters",
+            "address": "Shehu Shagari Way, Force Head Quarters, Louise Edet  House, Central ,Abuja",
+            "phone": "092340868",
+            "id": "33"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "34",
+        "fields":{
+            "division": "Asokoro Division Police Station",
+            "address": "Kef/Nyanya Road, A.Y.A, Asokoro, Abuja",
+            "phone": "093148360",
+            "id": "34"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "35",
+        "fields":{
+            "division": "Federal Secretariat  Police Station",
+            "address": "Federal Secretariat  Complex, Shehu Shagari Way, Central Business District, Abuja",
+            "phone": "095234252",
+            "id": "35"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "36",
+        "fields":{
+            "division": "Gwagwalada Police Station",
+            "address": "Specialist Hospital Road, Gwagwalada, Abuja",
+            "phone": "098821296",
+            "id": "36"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "37",
+        "fields":{
+            "division": "Maitama Police Station",
+            "address": "30,Nile Street,Off Alvan Ikoku Way, Maitama, Abuja.",
+            "phone": "094134683",
+            "id": "37"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "38",
+        "fields":{
+            "division": "National Assembly Police Station",
+            "address": "National Assembly, Three Arms Zone Maitama,Abuja",
+            "phone": "092340241",
+            "id": "38"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "39",
+        "fields":{
+            "division": "Federal Highway Patrol Office Abuja",
+            "address": "F.C.T",
+            "phone": "092349403",
+            "id": "39"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "40",
+        "fields":{
+            "division": "Central Police Station",
+            "address": "Abuja Central",
+            "phone": "07069441296",
+            "id": "40"
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "41",
+        "fields":{
+            "division": "Kam Salem House Nigeria Police Hq Annex",
+            "address": "Obalende, Moloney St, Lagos",
+            "phone": "08033183477",
+            "id": "41"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "42",
+        "fields":{
+            "division": "Ijora Badia Police Station Fadaini Street",
+            "address": "Fadaini Street Ijora, Apapa",
+            "phone": "08056250710",
+            "id": "42"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "43",
+        "fields":{
+            "division": "Bode Thomas Police Station",
+            "address": "Bode Thomas St, Alaka, Lagosh",
+            "phone": "08033011052",
+            "id": "43"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "44",
+        "fields":{
+            "division": "Alakara Police Station",
+            "address": "Agege Motor Rd, Idi Oro, Lagos",
+            "phone": "08033183477",
+            "id": "44"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "45",
+        "fields":{
+            "division": "Ikotun Police Divisional Hq",
+            "address": "Ikotun – Idimu Rd, Ikotun, Lagos",
+            "phone": "08056250710",
+            "id": "45"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "46",
+        "fields":{
+            "division": "Airport Police Command",
+            "address": "Alhaji Azeez St",
+            "phone": "08033183477",
+            "id": "46"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "47",
+        "fields":{
+            "division": "Police Divisional Hq Victoria Island",
+            "address": "VI, Police Barracks, Bar–Beach, Ahmadu Bello Way, Lagos",
+            "phone": "08033183477",
+            "id": "47"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "48",
+        "fields":{
+            "division": "Marina Leventis Police Station",
+            "address": "Marina, Lagos Island",
+            "phone": "08056250710",
+            "id": "48"
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "49",
+        "fields":{
+            "division": "Oginigba Police Station",
+            "address": "Adjacent glass industry, oginigba road Trans-Amadi, Port-Harcourt",
+            "phone": "08032003514",
+            "id": "49"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "50",
+        "fields":{
+            "division": "Elekahia Police Station",
+            "address": "Elekahia Rd, Rumumasi, Port Harcourt",
+            "phone": "08028915460",
+            "id": "50"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "51",
+        "fields":{
+            "division": "Old GRA Police Station",
+            "address": "Old GRA police divisional head quarters",
+            "phone": "08028915462",
+            "id": "51"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "52",
+        "fields":{
+            "division": "GRA Police Station",
+            "address": "10 Sani Abacha Road, Rumueme, Port Harcourt",
+            "phone": "08032003514",
+            "id": "52"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "53",
+        "fields":{
+            "division": "Elelewon Police Station",
+            "address": "54-56 Elelenwo Rd, Umurolu, Port Harcourt",
+            "phone": "08028915460",
+            "id": "53"
+            
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "54",
+        "fields":{
+            "division": "The Nigeria Police Divisional Headquarters",
+            "address": "Ikwerre Road, Rumuepirikom, Port Harcourt, Rivers",
+            "phone": "08032003514",
+            "id": "54"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "55",
+        "fields":{
+            "division": "Rumuomasi Police Post",
+            "address": "7A Arochukwu Street, Rumuomasi, Port Harcourt",
+            "phone": "08032003510",
+            "id": "55"    
+        }
+    },
+    {
+        "model": "Zoitapp.policestation",
+        "pk": "56",
+        "fields":{
+            "division": "Oyibgo Police Station",
+            "address": "Police Station, Kings Ave, Oyigbo",
+            "phone": "08160723892",
+            "id": "56"
+        }
+    }
+]

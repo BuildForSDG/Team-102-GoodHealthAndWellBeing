@@ -1,0 +1,409 @@
+[
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "1",
+        "fields":{
+            "command": "rs9.3.abia@frsc.gov.ng",
+            "address": "No 57, Asaba Street, Behind General Sani Abacha, Recreation Park Amuzukwu, Umuahia",
+            "email": "rs9.3.abia@frsc.gov.ng",
+            "phone": " 08077690903",
+            "id": "1"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "2",
+        "fields":{
+            "command": "rs3.1.adamawa@frsc.gov.ng",
+            "address": "Numan Road, Jimeta, Yola",
+            "email": "rs3.1.adamawa@frsc.gov.ng",
+            "phone": "08077690301",
+            "id": "2"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "3",
+        "fields":{
+            "command": "rs6.3.akwaibom@frsc.gov.ng",
+            "address": "7C, Ben Udo Street, Off Nwaniba Road, Uyo",
+            "email": "rs6.3.akwaibom@frsc.gov.ng",
+            "phone": " 08077690603",
+            "id": "3"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "4",
+        "fields":{
+            "command": "rs5.3.anambra@frsc.gov.ng",
+            "address": "No.98 Enugu – Agidi Road, Awka",
+            "email": "rs5.3.anambra@frsc.gov.ng",
+            "phone": "08077690503",
+            "id":"4" 
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "5",
+        "fields":{
+            "command": "rs12.1.bauchi@frsc.gov.ng",
+            "address": "Jos Road, Gidan Mai, Bauchi",
+            "email": "rs12.1.bauchi@frsc.gov.ng",
+            "phone": "08077690121",
+            "id": "5"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "6",
+        "fields":{
+            "command": "rs6.4.bayelsa@frsc.gov.ng",
+            "address": "No.1 Road Safety Road, Yenagoa",
+            "email": "rs6.4.bayelsa@frsc.gov.ng",
+            "phone": "080776906",
+            "id": "6"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "7",
+        "fields":{
+            "command": "rs4.2.benue@frsc.gov.ng",
+            "address": "No. 2 Victor Malu Road, New GRA, Makurdi",
+            "email": "rs4.2.benue@frsc.gov.ng",
+            "phone": "08077690402",
+            "id": "7"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "8",
+        "fields":{
+            "command": "rs12.2.borno@frsc.gov.ng",
+            "address": "Damboa Road, Former SDP Secretariat, Maiduguri",
+            "email": "rs12.2.borno@frsc.gov.ng",
+            "phone": "08077690122",
+            "id": "8"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "9",
+        "fields":{
+            "command": "rs6.2.crossriver@frsc.gov.ng",
+            "address": "71 Mariam Road, Calabar",
+            "email": "rs6.2.crossriver@frsc.gov.ng",
+            "phone": "08077690602",
+            "id": "9"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "10",
+        "fields":{
+            "command": "rs5.2.delta@frsc.gov.ng",
+            "address": "Km 4 Asaba – Benin Road, Asaba",
+            "email": "rs5.2.delta@frsc.gov.ng",
+            "phone": "08077690502",
+            "id": "10"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "11",
+        "fields":{
+            "command": "rs9.2.ebonyi@frsc.gov.ng",
+            "address": "Km 2, Enugu-Abakiliki Road, Abakaliki",
+            "email": "rs9.2.ebonyi@frsc.gov.ng",
+            "phone": "08077690902",
+            "id": "11"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "12",
+        "fields":{
+            "command": "rs5.1.edo@frsc.gov.ng",
+            "address": "Ikpoba Hill Layout, Off Auchi Road, Benin-City",
+            "email": "rs5.1.edo@frsc.gov.ng",
+            "phone": "08077690501",
+            "id": "12"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "13",
+        "fields":{
+            "command": "rs8.2.ekiti@frsc.gov.ng",
+            "address": "Ajalosun Street, Akure Road, Ado-Ekiti",
+            "email": " rs8.2.ekiti@frsc.gov.ng",
+            "phone": "08077690802",
+            "id": "13"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "14",
+        "fields":{
+            "command": "rs9.1.enugu@frsc.gov.ng",
+            "address": "5, Bridgeway Road GRA, Enugu",
+            "email": "rs9.1.enugu@frsc.gov.ng",
+            "phone": "08077690901",
+            "id": "14"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "15",
+        "fields":{
+            "command": " rs7.1.fct@frsc.gov.ng",
+            "address": "Olusegun Obasanjo Way, Zone 7, Wuse, Abuja",
+            "email": "rs7.1.fct@frsc.gov.ng",
+            "phone": "08077690701",
+            "id": "15"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "16",
+        "fields":{
+            "command": "rs3.2.gombe@frsc.gov.ng ",
+            "address": "New GRA Gombe",
+            "email": "rs3.2.gombe@frsc.gov.ng",
+            "phone": "08077690302",
+            "id": "16"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "17",
+        "fields":{
+            "command": "rs9.4.imo@frsc.gov.ng",
+            "address": "Egbu-Awaka Junction, Owerri",
+            "email": "rs9.4.imo@frsc.gov.ng",
+            "phone": "08077690904",
+            "id": "17"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "18",
+        "fields":{
+            "command": "rs1.4.jigawa@frsc.gov.ng",
+            "address": "Kiyama Road, Dutse",
+            "email": "rs1.4.jigawa@frsc.gov.ng",
+            "phone": "08077690014",
+            "id": "18"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "19",
+        "fields":{
+            "command": "rs1.1.kaduna@frsc.gov.ng",
+            "address": "12 Ahmadu Bello Way, Kaduna",
+            "email": "rs1.1.kaduna@frsc.gov.ng",
+            "phone": "08077690011",
+            "id": "19"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk":"20",
+        "fields":{
+            "command": "rs1.2.kano@frsc.gov.ng",
+            "address": "Lawan Danbazau Road, Kano, off Zaria Road, Kano",
+            "email": "rs1.2.kano@frsc.gov.ng",
+            "phone": "08077690012",
+            "id": "20"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "21",
+        "fields":{
+            "command": "rs1.3.katsina@frsc.gov.ng",
+            "address": "Murtala Mohammed Way, Sokoto Rima Premises, Katsina",
+            "email": "rs1.3.katsina@frsc.gov.ng",
+            "phone": "08077690013",
+            "id": "21"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "22",
+        "fields":{
+            "command": "rs10.2.kebbi@frsc.gov.ng",
+            "address": "Haliu Abdul Old Secretariat Complex, Birnin Kebbi",
+            "email": "rs10.2.kebbi@frsc.gov.ng",
+            "phone": "08077690102",
+            "id": "22"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "23",
+        "fields":{
+            "command": "rs8.3.kogi@frsc.gov.ng",
+            "address": "Oba Michael Olobayo, Lokoja",
+            "email": "rs8.3.kogi@frsc.gov.ng",
+            "phone": "08077690803",
+            "id": "23"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "24",
+        "fields":{
+            "command": "rs8.1.kwara@frsc.gov.ng",
+            "address": "1 Abdu Kareem Adisa Rd, Fate, Ilorin",
+            "email": "rs8.1.kwara@frsc.gov.ng",
+            "phone": "08077690801",
+            "id": "24"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "25",
+        "fields":{
+            "command": "rs2.1.lagos@frsc.gov.ng",
+            "address": "Ojodu-Isheri Road, Ikeja, Lagos",
+            "email": "rs2.1.lagos@frsc.gov.ng",
+            "phone": "08077690201",
+            "id": "25"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "26",
+        "fields":{
+            "command": "rs4.3.nasarawa@frsc.gov.ng",
+            "address": "Makurdi Road,Lafia",
+            "email": "rs4.3.nasarawa@frsc.gov.ng",
+            "phone": "08077690403",
+            "id": "26"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "27",
+        "fields":{
+            "command": "rs7.2.niger@frsc.gov.ng",
+            "address": "No. 3 Paiko Road, Minna",
+            "email": "rs7.2.niger@frsc.gov.ng",
+            "phone": "08077690702",
+            "id": "27"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "28",
+        "fields":{
+            "command": "rs2.2.ogun@frsc.gov.ng",
+            "address": "8 Oba Ademola Road, GRA, Ibara, Abeokuta",
+            "email": "rs2.2.ogun@frsc.gov.ng",
+            "phone": "08077690202",
+            "id": "28"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "29",
+        "fields":{
+            "command": "rs11.2.ondo@frsc.gov.ng",
+            "address": "Akure – Ilesa Highway, Akure",
+            "email": "rs11.2.ondo@frsc.gov.ng",
+            "phone": "08077690112",
+            "id": "29"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "30",
+        "fields":{
+            "command": "rs11.1.osun@frsc.gov.ng",
+            "address": "Km 4 Gbogan Road, Osogbo",
+            "email": "rs11.1.osun@frsc.gov.ng",
+            "phone": "08077690111",
+            "id": "30"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "31",
+        "fields":{
+            "command": "rs11.3.oyo@frsc.gov.ng",
+            "address": "Eleyele, Ibadan",
+            "email": "rs11.3.oyo@frsc.gov.ng",
+            "phone": "08077690113",
+            "id": "31"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "32",
+        "fields":{
+            "command": "rs4.1.plateau@frsc.gov.ng",
+            "address": "Km 9 Zaria Road, Jos",
+            "email": "rs4.1.plateau@frsc.gov.ng",
+            "phone": "08077690401",
+            "id": "32"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "33",
+        "fields":{
+            "command": "rs6.1.rivers@frsc.gov.ng ",
+            "address": "39 Aba Road, Port-Harcourt",
+            "email": "rs6.1.rivers@frsc.gov.ng",
+            "phone": "08077690601",
+            "id": "33"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "34",
+        "fields":{
+            "command": "rs3.3.taraba@frsc.gov.ng",
+            "address": "Jalingo, Taraba State",
+            "email": "rs3.3.taraba@frsc.gov.ng",
+            "phone": "08077690303",
+            "id": "34"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "35",
+        "fields":{
+            "command": "rs10.1.sokoto@frsc.gov.ng",
+            "address": "Ali Akilu Road, Off Sani Abacha Way,Sokoto",
+            "email": "rs10.1.sokoto@frsc.gov.ng",
+            "phone": "08077690101",
+            "id": "35"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "36",
+        "fields":{
+            "command": "rs12.3.yobe@frsc.gov.ng",
+            "address": "Phase 1 State Secretariat, Maiduguri Road, Damaturu",
+            "email": "rs12.3.yobe@frsc.gov.ng",
+            "phone": "08077690123",
+            "id": "36"
+        }
+    },
+    {
+        "model": "Zoitapp.frsc",
+        "pk": "37",
+        "fields":{
+            "command": "rs10.3.zamfara@frsc.gov.ng",
+            "address": "Sokoto Road, Gusau",
+            "email": "rs10.3.zamfara@frsc.gov.ng",
+            "phone": "08077690103",
+            "id": "37"
+        }
+    }
+]

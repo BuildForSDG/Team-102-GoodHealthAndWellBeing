@@ -1,0 +1,372 @@
+[
+    {
+        "model": "Zoitapp.state",
+        "pk": "1",
+        "fields": {
+            "name": "Abia State",
+            "capital": "Umuahia",
+            "zone": "South-East",
+            "id": 1
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "2",
+        "fields": {
+            "name": "Adamawa State",
+            "capital": "Yola",
+            "zone": "North-East",
+            "id": 2
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "3",
+        "fields": {
+            "name": "Akwa Ibom State",
+            "capital": "Uyo",
+            "zone": "South-South",
+            "id": 3
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "4",
+        "fields": {
+            "name": "Anambra State",
+            "capital": "Awka",
+            "zone": "South-East",
+            "id": 4
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "5",
+        "fields": {
+            "name": "Bauchi State",
+            "capital": "Bauchi",
+            "zone": "North-East",
+            "id": 5
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "6",
+        "fields": {
+            "name": "Bayelsa State",
+            "capital": "Yenagoa",
+            "zone": "South-South",
+            "id": 6
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "7",
+        "fields": {
+            "name": "Benue State",
+            "capital": "Makurdi",
+            "zone": "North-Central",
+            "id": 7
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "8",
+        "fields": {
+            "name": "Borno State",
+            "capital": "Maiduguri",
+            "zone": "North-East",
+            "id": 8
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "9",
+        "fields": {
+            "name": "Cross River State",
+            "capital": "Calabar",
+            "zone": "South-South",
+            "id": 9
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "10",
+        "fields": {
+            "name": "Delta State",
+            "capital": "Asaba",
+            "zone": "South-South",
+            "id": 10
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "11",
+        "fields": {
+            "name": "Ebonyi State",
+            "capital": "Abakaliki",
+            "zone": "South-East",
+            "id": 11
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "12",
+        "fields": {
+            "name": "Edo State",
+            "capital": "Benin City",
+            "zone": "South-South",
+            "id": 12
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "13",
+        "fields": {
+            "name": "Ekiti State",
+            "capital": "Ekiti",
+            "zone": "South-West",
+            "id": 13
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "14",
+        "fields": {
+            "name": "Enugu State",
+            "capital": "Enugu",
+            "zone": "South-East",
+            "id": 14
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "15",
+        "fields": {
+            "name": "Federal Capital Territory",
+            "capital": "Abuja",
+            "zone": "North-Central",
+            "id": 15
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "16",
+        "fields": {
+            "name": "Gombe State",
+            "capital": "Gombe",
+            "zone": "North-East",
+            "id": 16
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "17",
+        "fields": {
+            "name": "Imo State",
+            "capital": "Owerri",
+            "zone": "South-East",
+            "id": 17
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "18",
+        "fields": {
+            "name": "Jigawa State",
+            "capital": "Dutse",
+            "zone": "North-East",
+            "id": 18
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "19",
+        "fields": {
+            "name": "Kaduna State",
+            "capital": "Kaduna",
+            "zone": "North-West",
+            "id": 19
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "20",
+        "fields": {
+            "name": "Kano State",
+            "capital": "Kano",
+            "zone": "North-West",
+            "id": 20
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "21",
+        "fields": {
+            "name": "Katsina State",
+            "capital": "Katsina",
+            "zone": "North-West",
+            "id": 21
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "22",
+        "fields": {
+            "name": "Kebbi State",
+            "capital": "Birin-Kebbi",
+            "zone": "North-West",
+            "id": 22
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "23",
+        "fields": {
+            "name": "Kogi State",
+            "capital": "Lokoja",
+            "zone": "North-Central",
+            "id": 23
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "24",
+        "fields": {
+            "name": "Kwara State",
+            "capital": "Ilorin",
+            "zone": "North-Central",
+            "id": 24
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "25",
+        "fields": {
+            "name": "Lagos State",
+            "capital": "Ikeja",
+            "zone": "South-West",
+            "id": 25
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "26",
+        "fields": {
+            "name": "Nasarawa State",
+            "capital": "Lafia",
+            "zone": "North-Central",
+            "id": 26
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "27",
+        "fields": {
+            "name": "Niger State",
+            "capital": "Minna",
+            "zone": "North-Central",
+            "id": 27
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "28",
+        "fields": {
+            "name": "Ogun State",
+            "capital": "Abeokuta",
+            "zone": "South-west",
+            "id": 28
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "29",
+        "fields": {
+            "name": "Ondo State",
+            "capital": "Akure",
+            "zone": "South-West",
+            "id": 29
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "30",
+        "fields": {
+            "name": "Osun State",
+            "capital": "Oshogbo",
+            "zone": "South-West",
+            "id": 30
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "31",
+        "fields": {
+            "name": "Oyo State",
+            "capital": "Ibadan",
+            "zone": "South-West",
+            "id": 31
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "32",
+        "fields": {
+            "name": "Plateau State",
+            "capital": "Jos",
+            "zone": "North-Central",
+            "id": 32
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "33",
+        "fields": {
+            "name": "Rivers State",
+            "capital": "Port-Harcourt",
+            "zone": "South-South",
+            "id": 33
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "34",
+        "fields": {
+            "name": "Sokoto State",
+            "capital": "Sokoto",
+            "zone": "North-West",
+            "id": 34
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "35",
+        "fields": {
+            "name": "Taraba State",
+            "capital": "Jalingo",
+            "zone": "North-East",
+            "id": 35
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "36",
+        "fields": {
+            "name": "Yobe State",
+            "capital": "Damaturu",
+            "zone": "North-East",
+            "id": 36
+        }
+    },
+    {
+        "model": "Zoitapp.state",
+        "pk": "37",
+        "fields": {
+            "name": "Zamfara State",
+            "capital": "Gusau",
+            "zone": "North-West",
+            "id": 37
+        }
+    }
+]

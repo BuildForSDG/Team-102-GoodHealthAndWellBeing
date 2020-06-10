@@ -1,0 +1,794 @@
+[
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "1",
+        "fields":{
+            "name": "Hotel De La Paix",
+            "address": "60 Ekenna Avenue and 38 Brass Street, GRA Aba, Abia State Nigeria",
+            "email": "info@hoteldelapaixaba.com",
+            "phone": "08059154035",
+            "id": "1"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "2",
+        "fields":{
+            "name": "Benidon Hotels and Resort",
+            "address": "14-16 Immaculate Avenue, Aba, Abia State Nigeria",
+            "email": "info@hotelbenidon.com",
+            "phone": "+234(0)7071148468",
+            "id": "2"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "3",
+        "fields":{
+            "name": "Migela Royal Hotel",
+            "address": "1 Chouchi Road, Kofare, Jimeta Yola, Adamawa State",
+            "email": "migelaroyal@hotmail.com",
+            "phone": "08065111211",
+            "id": "3"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "4",
+        "fields":{
+            "name": "Bagale Motels Limited",
+            "address": "Army Baracks Road, Yola, Adamawa State Nigeria",
+            "email": "bagale@yahoo.com",
+            "phone": "08022554505",
+            "id": "4"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "5",
+        "fields":{
+            "name": "Dolly Hills Hotel",
+            "address": "32 Dr Ngozi Agbasimalo Road, Onitsha North, Anambra Nigeria",
+            "email": "dollyhillshotel@yahoo.com",
+            "phone": "0703 451 3661",
+            "id": "5"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "6",
+        "fields":{
+            "name": "Chunique Royal Hotel & Suites",
+            "address": "No 14 Afam Ofordeme Street Umudim, Okpunoegbu Nnewi, Anambra State Nigeria",
+            "email": "info@chuniqueroyalhotel.com",
+            "phone": "0907 276 9174",
+            "id": "6"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "7",
+        "fields":{
+            "name": "Daaty Hotel",
+            "address": "Plot 4 D- Line, Ewet Housing Estate, By AKIPOC, Uyo, Akwa Ibom Nigeria",
+            "email": "info@daatyhotel.com",
+            "phone": "0803 158 2765",
+            "id": "7"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "8",
+        "fields":{
+            "name": "Darrels Hotel Limited",
+            "address": "18 Marina Road, Eket, Akwa Ibom State Nigeria",
+            "email": "info@darrelshotel.com",
+            "phone": "0803 533 0784",
+            "id": "8"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "9",
+        "fields":{
+            "name": "Royal Abbey Suites",
+            "address": "Justice Quarters, Murtala International Airport Road, Bauchi, Bauchi State Nigeria",
+            "email": "royalabbey@gnail.com",
+            "phone": "07084101951",
+            "id": "9"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "10",
+        "fields":{
+            "name": "Bauchi State Hotel",
+            "address": "Dass road, GRA, Bauchi, Bauchi State Nigeria",
+            "email": "bsh@hotel.com",
+            "phone": "077542156",
+            "id": "10"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "11",
+        "fields":{
+            "name": "Atlantic Choice Hotel",
+            "address": "Swali Road, Yenagoa, Bayelsa",
+            "email": "atlanticchoicehotel@gmail.com",
+            "phone": "0705 438 1999",
+            "id": "11"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "12",
+        "fields":{
+            "name": "El-Barbara Hotels",
+            "address": "39/41, Azikoro Road, Off Mbiama Yenagoa Road, Yenagoa, Bayelsa State Nigeria",
+            "email": "info@elbarbarahotel.com",
+            "phone": "0701 034 5444",
+            "id": "12"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "13",
+        "fields":{
+            "name": "Apa Gate Hotel",
+            "address": "Opp Jesus College,, Otukpo, Benue State, Nigeria",
+            "email": "apagatehotels@yahoo.com",
+            "phone": "0813 183 4325",
+            "id": "13"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "14",
+        "fields":{
+            "name": "Kings Inn",
+            "address": "30 Damjor Street, Off Gyado Hospital Road, GRA Gboko, Benue State Nigeria",
+            "email": "kings.inn@dr.com",
+            "phone": "08100317663",
+            "id": "14"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "15",
+        "fields":{
+            "name": "Lake Chad Hotel",
+            "address": "Sir Kashiru Ibrahim Road, Maiduguri, Borno",
+            "email": "07062324531",
+            "phone": "lch@gmail.com",
+            "id": "15"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "16",
+        "fields":{
+            "name": "Grand Pinnacle Hotel",
+            "address": "Jimna Road, Bulumkutu, Maiduguri, Borno State Nigeria",
+            "email": "pinnacle@hotmail.com",
+            "phone": "08038921433",
+            "id": "16"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "17",
+        "fields":{
+            "name": "Transcorp Hotels Calabar",
+            "address": "10 Murtala Mohammed Highway, Calabar, Cross River State, Nigeria",
+            "email": "0806 690 0009",
+            "phone": "info.calabar@transcorphotels.com",
+            "id": "17"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "18",
+        "fields":{
+            "name": "Tinapa Lakeside Hotel",
+            "address": "Tinapa Free Zone & Resort, Calabar-Ikang Road, Calabar, Cross River State, Nigeria",
+            "email": "reservations@tinapalakesidehotel.com",
+            "phone": "0802 648 3929",
+            "id": "18"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "19",
+        "fields":{
+            "name": "Grand Hotel Asaba",
+            "address": "112, Nnebisi Road, By Capable Point, Delta State, Nigeria",
+            "email": "bookings@grandhotelasaba.com",
+            "phone": "0813 885 2239",
+            "id": "19"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "20",
+        "fields":{
+            "name": "Hotel Benizia",
+            "address": "1-4, Kingsley Emu Street, Behind Fine Homes, Asaba, Delta State, Nigeria",
+            "email": "hotelbenizia@yahoo.com",
+            "phone": "0818 706 3332",
+            "id": "20"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "21",
+        "fields":{
+            "name": "Hotel Geneza",
+            "address": "19, Onwe Road, Abakiliki, Ebonyi State, Nigeria",
+            "email": "info@hotelgeneza.com",
+            "phone": "0810 878 6632",
+            "id": "21"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "22",
+        "fields":{
+            "name": "Osborn La Palm Royal Resort Ltd",
+            "address": "1, Osborn Avenue, Off Kpirikpiri Road, Mile 50, Abakiliki, Ebonyi State, Nigeria",
+            "email": "info@osbornlapalm.net",
+            "phone": "0803 216 1681",
+            "id": "22"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "23",
+        "fields":{
+            "name": "Boston Hotel",
+            "address": "1 Oguigo Avenue Along Adeyan Street off Ihama Road, GRA Benin City, Edo Nigeria",
+            "email": "concierge@bostonhotelng.com",
+            "phone": "0805 406 9515",
+            "id": "23"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "24",
+        "fields":{
+            "name": "MindCast Hotels",
+            "address": "College Road, Ujoelen Ekpoma, Edo State Nigeria",
+            "email": "mindcast@hotmail.com",
+            "phone": "0803 501 1081",
+            "id": "24"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "25",
+        "fields":{
+            "name": "De Jewels Apartment",
+            "address": "2 Olatunji Street Immigration along Federal Poly Road, Ado-Ekiti, Ekiti Nigeria",
+            "email": "info@dejewelsapartments.com",
+            "phone": "0803 861 1586",
+            "id": "25"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "26",
+        "fields":{
+            "name": "Delight Hotel & Suites",
+            "address": "Ilawe Road, Ado-Ekiti, Ekiti Nigeria",
+            "email": "info@delighthotel.com.ng",
+            "phone": "0815 503 0636",
+            "id": "26"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "27",
+        "fields":{
+            "name": "Golden Royale",
+            "address": "10, Bisalla Road, Independent Layout, Enugu, Enugu, Nigeria",
+            "email": "info@goldenroyalehotels.com",
+            "phone": "0809 036 5223",
+            "id": "27"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "28",
+        "fields":{
+            "name": "Neocourts",
+            "address": "Plot 3,5 Byron Onyeama Close, New Haven, Enugu State, Nigeria",
+            "email": "0808 763 4406",
+            "phone": "info@neocourts.com",
+            "id": "28"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "29",
+        "fields":{
+            "name": "Transcorp Hilton Abuja ",
+            "address": "1 Aguiyi Ironsi Street, Maitama Abuja, FCT Nigeria",
+            "email": "hilton.abuja@hilton.com",
+            "phone": "0803 901 3000",
+            "id": "29"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "30",
+        "fields":{
+            "name": "Bolton White Hotels",
+            "address": "Plot 7, Gwandu Street, Area 11, Garki, Abuja, FCT",
+            "email": "info@boltonwhitehotel.com",
+            "phone": "+234(0)92200222",
+            "id": "30"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "31",
+        "fields":{
+            "name": "Custodian Hotel Limited",
+            "address": "Opp. Sub-Treasury Office Along Bauchi Road, Gombe, Gombe State",
+            "email": "info@custodianhotel.com.ng",
+            "phone": "08107412344",
+            "id": "31"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "32",
+        "fields":{
+            "name": "Zuma Royal Suite",
+            "address": "72 Jonathan Goodluck Road, Federal Lowcost, Gombe, Gombe State",
+            "email": "zumaroyal@gmail.com",
+            "phone": "08038740561",
+            "id": "32"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "33",
+        "fields":{
+            "name": "Mavis Suites",
+            "address": "No. 1/3 Nkwerre Street, Works Layout, Off (IMSU) Junction, Owerri, Imo State Nigeria",
+            "email": "mavissuite@yahoo.com",
+            "phone": "0703 089 2297",
+            "id": "33"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "34",
+        "fields":{
+            "name": "Rockview Hotel",
+            "address": "Plot Cp/2-Cp/5, Government Station Layout, Owerri, Imo State Nigeria",
+            "email": "reservationowerri@rockviewhotels.com",
+            "phone": " 0701 064 5842",
+            "id": "34"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "35",
+        "fields":{
+            "name": "Jigawa Hotels Ltd",
+            "address": "Kiyawa Road, Dutse, Jigawa Nigeria",
+            "email": "jigawahotels@yahoo.com",
+            "phone": "064-721470",
+            "id": "35"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "36",
+        "fields":{
+            "name": "C N Morning Star Hotel Nigeria Ltd",
+            "address": "Rafin Sanyi Area Yadi Qtrs, Dutse, Jigawa Nigeria",
+            "email": "csmorningstar@hotmail.com",
+            "phone": "08036234107",
+            "id": "36"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "37",
+        "fields":{
+            "name": "Elvic Hotel & Suites Ltd",
+            "address": "25/26 Jaafar Road Bagado, Kamazou, Kaduna, Kaduna State Nigeria",
+            "email": "elvichotelltd@gmail.com",
+            "phone": "0706 461 3603",
+            "id": "37"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "38",
+        "fields":{
+            "name": "Saminaka Holiday Resort",
+            "address": "Saminaka Holiday Resort, Kaduna South, Kaduna Nigeria",
+            "email": "saholresort@gmail.com",
+            "phone": "0809 674 7676",
+            "id": "38"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "39",
+        "fields":{
+            "name": "Royal Tropicana Hotels Ltd",
+            "address": "17/19, Niger Street, Kano City, Kano State, Nigeria",
+            "email": "info@royaltropicana.com",
+            "phone": "0806 515 9990,",
+            "id": "39"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "40",
+        "fields":{
+            "name": "Prince Hotel",
+            "address": "Tamandu Road, Nassarawa GRA, Kano State, Nigeria",
+            "email": "info@princehotelng.com",
+            "phone": "0809 769 7979",
+            "id": "40"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "41",
+        "fields":{
+            "name": "New Katsina Motel",
+            "address": "1 Muhammed Bashir Road, G.R.A, Katsina, Katsina State Nigeria",
+            "email": "nkmotel@yahoo.com",
+            "phone": "08070711278",
+            "id": "41"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "42",
+        "fields":{
+            "name": "Lifaya Palace Hotel",
+            "address": "Off IBB Way, Kano Road, Batagarawa, Katsina State Nigeria",
+            "email": "lifaya@yahoo.com",
+            "phone": "070 3030 7752",
+            "id": "42"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "43",
+        "fields":{
+            "name": "Grand Fishing Hotel",
+            "address": "Sokoto Road, Argungu, Birnin Kebbi, Kebbi Nigeria",
+            "email": "grandfishing@yahoo.com",
+            "phone": "060-550547",
+            "id": "43"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "44",
+        "fields":{
+            "name": "Zinari Hotels & Resort",
+            "address": "Birnin Kebbi, Birnin Kebbi, Kebbi Nigeria",
+            "email": "zinarihotels@hotmail.com",
+            "phone": "08068322663",
+            "id": "44"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "45",
+        "fields":{
+            "name": "Wisdom Home Hotels",
+            "address": "Anyigba-Ankpa Road Opposite Kogi State University, Beside Skye Bank, Anyigba, Kogi State Nigeria",
+            "email": "enquires@wisdomhomehotels.com",
+            "phone": "0805 5891 768",
+            "id": "45"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "46",
+        "fields":{
+            "name": "Edgedrive Hotel",
+            "address": "23 Kunama Street, GRA, Lokoja, Kogi state, Nigeria",
+            "email": "edgedrive@yahoo.com",
+            "phone": "08132867025",
+            "id": "46"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "47",
+        "fields":{
+            "name": "E-Phoenix Hotel",
+            "address": "45, Aderemi Adeleye Street, Opp. Federal Secretariat, GRA, Ilorin, Kwara State Nigeria",
+            "email": "booking@ephoenixhotel.com",
+            "phone": "0809 774 1584",
+            "id": "47"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "48",
+        "fields":{
+            "name": "Princess Luxury Hotel",
+            "address": "Plot 31, Pipeline Road, Ilorin, Kwara State Nigeria",
+            "email": "info@princessluxuryhotels.com",
+            "phone": "08163962419",
+            "id": "48"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "49",
+        "fields":{
+            "name": "Golden Tulip",
+            "address": "Mile 2, Festac Town Amuwo Odofin, Lagos Nigeria",
+            "email": "info@goldentulipfestaclagos.com",
+            "phone": "08003580846",
+            "id": "49"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "50",
+        "fields":{
+            "name": "Eko Hotel & Suites",
+            "address": "1415, Adetokunbo Ademola Street, Victoria Island Eti Osa, Lagos Nigeria",
+            "email": "reservations@ekohotels.com",
+            "phone": "01 277 2725",
+            "id": "50"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "51",
+        "fields":{
+            "name": "Manyi Royal Suite",
+            "address": "4 Jos Road, Lafia, Nasarawa Nigeria",
+            "email": "manyiroyahsuite@yahoo.com",
+            "phone": "08032584343",
+            "id": "51"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "52",
+        "fields":{
+            "name": "Ta'al Conference Hotel",
+            "address": "Stadium Road, Jos Road, Lafia, Nasarawa Nigeria",
+            "email": "taalhotel@yahoo.com",
+            "phone": "08021290436",
+            "id": "52"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "53",
+        "fields":{
+            "name": "Nasfah Hotel",
+            "address": "Old Alheri Road, Minna, Niger State",
+            "email": "nasfah@yahoo.com",
+            "phone": "08188077048",
+            "id": "53"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "54",
+        "fields":{
+            "name": "Niger Hotel",
+            "address": "93 Bale Street, Ajegunle, Apapa",
+            "email": "nigerhotel@yahoo.com",
+            "phone": "08183517793",
+            "id": "54"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "55",
+        "fields":{
+            "name": "Quarry Imperial",
+            "address": "No 52, Quarry Road, Abeokuta, Ogun Nigeria",
+            "email": "info@quarryimperialhotel",
+            "phone": "0816 957 4982",
+            "id": "55"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "56",
+        "fields":{
+            "name": "Park Inn by Radisson Hotel",
+            "address": "1, Ibrahim Babangida Boulevard Kuto Roundabout, Abeokuta, Ogun State Nigeria",
+            "email": "info.abeokuta@rezidorparkinn.com",
+            "phone": "0813 986 0020",
+            "id": "56"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "57",
+        "fields":{
+            "name": "Sunview Hotel",
+            "address": "8, El Shaddai Road, GRA Alagbaka Akure, Ondo Nigeria",
+            "email": "sunviewhotelakure@yahoo.com",
+            "phone": "0809 999 9164",
+            "id": "57"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "58",
+        "fields":{
+            "name": "Flourish Hotel and Suites",
+            "address": "Plot 14, Block 41, Along WAEC Office Road, Alagbaka Akure, Ondo Nigeria",
+            "email": "flourishhotelonline@yahoo.com",
+            "phone": "0816 183 5703",
+            "id": "58"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "59",
+        "fields":{
+            "name": "Crownfit Hotels & Suites",
+            "address": "Ekusa road, Okuku, Osun SNigeria",
+            "email": "enquiries@crownfithotels.com",
+            "phone": "08051037866",
+            "id": "59"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "60",
+        "fields":{
+            "name": "Royal Park International Hotel & Resort",
+            "address": "Oba Oladele Olashore Way, Iloko - Ilesha, Osun State",
+            "email": "dappivsaj@gmail.com",
+            "phone": "0807 120 0017",
+            "id": "60"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "61",
+        "fields":{
+            "name": "La Maison Hotel and Suites",
+            "address": "23, Jibowu Street, Iyaganku GRA, Ibadan, Oyo State, Nigeria",
+            "email": "info@lamaisonhotel-ng.com",
+            "phone": "0816 068 4669",
+            "id": "61"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "62",
+        "fields":{
+            "name": "Euro Lounge and Suites",
+            "address": "30, Alafin Avenue, Oluyole Estate Ring Road, Ibadan, Oyo State, Nigeria",
+            "email": "info@euroloungeandsuites.com",
+            "phone": "0814 292 1055",
+            "id": "62"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "63",
+        "fields":{
+            "name": "Maria�s Lodge",
+            "address": "1 Grey Garden Off Tafawa Balewa Street, Jos, Plateau State Nigeria",
+            "email": "reservations@mariaslodge.com",
+            "phone": "08134088789",
+            "id": "63"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "64",
+        "fields":{
+            "name": "Sharna Place",
+            "address": "9 Sharna Close, Near NNPC Mega Station, Bauchi Road, Jos, Plateau State Nigeria",
+            "email": "booking@sharnaplace.com",
+            "phone": "07098813868",
+            "id": "64"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "65",
+        "fields":{
+            "name": "Echelon Heights Hotel",
+            "address": "No 73 Ken Saro-Wiwa Road (former Stadium Road), Port Harcourt, Rivers State Nigeria",
+            "email": "reservations@echelonheights.com",
+            "phone": "0909 163 0932",
+            "id": "65"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "66",
+        "fields":{
+            "name": "Bougainvillea Hotel",
+            "address": "Plot F / 1A Abacha Road, GRA, Phase 3, Port Harcourt, Rivers State",
+            "email": "Admin@bougainvilleahotel.com",
+            "phone": "0803 051 2229",
+            "id": "66"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "67",
+        "fields":{
+            "name": "Elim Top Suites",
+            "address": "GRA, Ibi Road, Wukari, Jalingo, Taraba",
+            "email": "info@eelimtopsuites.com",
+            "phone": "0816 068 4669",
+            "id": "67"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "68",
+        "fields":{
+            "name": "Eldavido Hotels Limited",
+            "address": "Mayo Renewo Crescent, Jalingo, Taraba State, Nigeria",
+            "email": "info@eldavidohotels.com",
+            "phone": "08012106973",
+            "id": "68"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "69",
+        "fields":{
+            "name": "Hayas Guest Inn",
+            "address": "Cross Road,, Damaturu, Yobe State",
+            "email": "hayasguestinn@yahoo.com",
+            "phone": "078-522700",
+            "id": "69"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "70",
+        "fields":{
+            "name": "Motel Benin Plaza",
+            "address": "Damaturu, , Yobe State, Nigeria",
+            "email": "mbplaza@yahoo.com",
+            "phone": "0814 292 1055",
+            "id": "70"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "71",
+        "fields":{
+            "name": "Donatus Travellers Guest Inn",
+            "address": "Anguwar Gwaza Road, Gasau, Zamfara Nigeria",
+            "email": "dtgi@hotmail.com",
+            "phone": "08034530410",
+            "id": "71"
+        }
+    },
+    {
+        "model": "Zoitapp.hotel",
+        "pk": "72",
+        "fields":{
+            "name": "Bliss Guxury Guest Inn",
+            "address": "Janyau Gabbas Road, Gusau, Zamfara Nigeria",
+            "email": "blissguxury@yahoo.com",
+            "phone": "08139097450",
+            "id": "72"
+        }
+    }
+]
