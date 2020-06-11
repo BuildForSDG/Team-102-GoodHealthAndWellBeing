@@ -16,9 +16,13 @@ def  home (request):
 
 def incident_create(request):
     if request.method == 'POST':
+
+       # lastvideo= Incident.objects.last()
+        
+        #videofile= lastvideo.videofile
         
         #form = IncidentForm(request.POST)
-        userform = IncidentForm(request.POST)
+        userform = IncidentForm(request.POST, request.FILES)
 
         #if form.is_valid():
         if userform.is_valid():
@@ -31,7 +35,6 @@ def incident_create(request):
             return redirect('incident_create')
     else:
         print('Unable to submit')
-        #messages.info(request, 'Unable to submit, some fields cannot be empty')
 
         #form = IncidentForm()
         userform = IncidentForm()
@@ -39,6 +42,7 @@ def incident_create(request):
     return render(request,
     'incident_create.html',
     {
+        #'videofile': videofile,
         #'form': form
         'form': userform
     })

@@ -133,6 +133,14 @@ class Incident(models.Model) :
         ('Other', 'Other')
     ]
 
+    USER_CATEGORY = [
+                ('Victim', 'Accident victim'),
+                ('Eye nitness', 'Eye witness'),
+                ('Driver', 'Driver of a vehicle in the accident'),
+                ('Other', 'Other')
+    ]
+
+
     COLLISION_CHOICES = [
         ('Mv/mv head on', 'Moving vehicles, head on'),
         ('Mv/mv rear end', 'Moving vehicles, rear end'),
@@ -147,10 +155,12 @@ class Incident(models.Model) :
         ('Mv/bicyclist', 'Moving vehicle with bicyclist'),
         ('Other', 'Other')
     ]
-
+    
+    your_category=models.CharField(choices=USER_CATEGORY,max_length=30,null=False,blank=False, db_column='User category')
+    if_other_category_specify=models.CharField(max_length=50,null=True,blank=True, db_column='User other category')
     accident_location=models.CharField(choices=USER_LOCATION,max_length=45,null=False,blank=False)
     local_government_area=models.CharField(max_length=25,null=False,blank=False, db_column='LGA')
-    nearest_landmark=models.CharField(max_length=50,null=True,blank=True, help_text="By landmark we mean somewhere notable such as bustop, market, hotel, hospital etc.")
+    address_or_nearest_landmark=models.CharField(max_length=50,null=False,blank=False, help_text="By landmark we mean somewhere notable such as bustop, market, hotel, hospital etc.", verbose_name="address and/or nearest landmark")
     date_of_accident=models.DateField(auto_now=False)
     time_of_accident=models.TimeField(auto_now=False)
     number_of_vehicles_involved=models.PositiveIntegerField(null=False,blank=False, db_column='vehicles involved', help_text="Number of vehicles can be zero or more.")
@@ -174,6 +184,8 @@ class Incident(models.Model) :
     if_hospital_specify=models.CharField(max_length=50,null=True,blank=True, db_column='hospital location')
     if_other_location_specify=models.CharField(max_length=50,null=True,blank=True, db_column='other location')
     more_accident_info=models.TextField(blank=True,null=True)
+    videofile= models.FileField(upload_to='videos/', null=True, blank=True, verbose_name="upload a video or an image")
+    
     #calling objects used in responder and search_responses function from views.py
     objects = models.Manager()
 

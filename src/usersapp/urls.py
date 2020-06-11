@@ -19,10 +19,13 @@ from django.urls import path, re_path
 #connecting incident_create to usersapp
 from .views import home, incident_create, responder, search_responses
 
+# helps with video upload
+from django.conf import settings
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('', home, name='home'),
     path('incident/create/', incident_create, name='incident_create'),
     path('responder', responder, name='responder'),
     path('search/responses/', search_responses, name='search_responses'),
-]
+]+ static(settings.MEDIA_URL, document_root= settings.MEDIA_ROOT)
