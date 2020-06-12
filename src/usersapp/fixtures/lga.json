@@ -1,0 +1,862 @@
+[
+    {
+        "model": "Zoitapp.lga",
+        "pk": "1",
+        "fields":{
+            "name": "Aba North",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "1"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "2",
+        "fields":{
+            "name":"Aba South",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "2"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "3",
+        "fields":{
+            "name": "Arochukwu",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "3"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "4",
+        "fields":{
+            "name":"Bende",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "4"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "5",
+        "fields":{
+            "name": "Ikwuano",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "5"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "6",
+        "fields":{
+            "name":"Isiala Ngwa North",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "6"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "7",
+        "fields":{
+            "name": "Isiala Ngwa South",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "7"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "8",
+        "fields":{
+            "name":"Isuikwuato",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "8"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "9",
+        "fields":{
+            "name": "Obi Ngwa",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "9"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "10",
+        "fields":{
+            "name":"Ohafia",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "10"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "11",
+        "fields":{
+            "name": "Osisioma",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "11"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "12",
+        "fields":{
+            "name":"Ugwunagbo",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "12"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "13",
+        "fields":{
+            "name": "Ukwa East",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "13"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "14",
+        "fields":{
+            "name":"Ukwa West",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "14"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "15",
+        "fields":{
+            "name": "Umuahia North",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "15"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "16",
+        "fields":{
+            "name":"Umuahia South",
+            "zone":"South-East",
+            "Stateid": "1",
+            "id": "16"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "17",
+        "fields":{
+            "name": "Umu Nneochi",
+            "zone": "South-East",
+            "Stateid": "1",
+            "id": "17"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "18",
+        "fields":{
+            "name":"Fufure",
+            "zone":"Nort-East",
+            "Stateid": "2",
+            "id": "18"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "19",
+        "fields":{
+            "name": "Ganye",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": "1"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "20",
+        "fields":{
+            "name": "Gayuk",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 3
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "21",
+        "fields":{
+            "name": "Gombi",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 4
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "22",
+        "fields":{
+            "name": "Grie",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 5
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "23",
+        "fields":{
+            "name": "Hong",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 6
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "24",
+        "fields":{
+            "name": "Jada",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 7
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "25",
+        "fields":{
+            "name": "Lamurde",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 8
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "26",
+        "fields":{
+            "name": "Maiha",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 10
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "27",
+        "fields":{
+            "name": "Mayo Belwa",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 11
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "28",
+        "fields":{
+            "name": "Michika",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 12
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "29",
+        "fields":{
+            "name": "Mubi North",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 13
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "30",
+        "fields":{
+            "name": "Mubi South",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 14
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "31",
+        "fields":{
+            "name": "Numan",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 15
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "32",
+        "fields":{
+            "name": "Shelleng",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 16
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "33",
+        "fields":{
+            "name": "Song",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 17
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "34",
+        "fields":{
+            "name": "Toungo",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 18
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "35",
+        "fields":{
+            "name": "Yola North",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 19
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "36",
+        "fields":{
+            "name": "Yola South",
+            "zone": "Nort-East",
+            "Stateid": "2",
+            "id": 20
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "36",
+        "fields":{
+            "name": "Eastern Obolo",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 1
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "37",
+        "fields":{
+            "name": "Eket",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 2
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "37",
+        "fields":{
+            "name": "Esit Eket",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 3
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "38",
+        "fields":{
+            "name": "Essien Udim",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": "4"
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "39",
+        "fields":{
+            "name": "Etim Ekpo",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 5
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "40",
+        "fields":{
+            "name": "Etinan",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 6
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "41",
+        "fields":{
+            "name": "Ibeno",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 7
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "42",
+        "fields":{
+            "name": "Ibesikpo Asutan",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 8
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "43",
+        "fields":{
+            "name": "Ibiono-Ibom",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 9
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "44",
+        "fields":{
+            "name": "Ika",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 10
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "45",
+        "fields":{
+            "name": "Ikono",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 11
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "46",
+        "fields":{
+            "name": "Ikot Abasi",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 12
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "47",
+        "fields":{
+            "name": "Ikot Ekpene",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 13
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "48",
+        "fields":{
+            "name": "Ini",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 14
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "49",
+        "fields":{
+            "name": "Itu",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 15
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "50",
+        "fields":{
+            "name": "Nbo",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 16
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "51",
+        "fields":{
+            "name": "Mkpat-Enin",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 17
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "52",
+        "fields":{
+            "name": "Nsit-Atai",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 18
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "53",
+        "fields":{
+            "name": "Nsit-Ibom",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 19
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "54",
+        "fields":{
+            "name": "Nsit-Ubium",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 20
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "55",
+        "fields":{
+            "name": "Obot Akara",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 21
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "56",
+        "fields":{
+            "name": "Okobo",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 22
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "57",
+        "fields":{
+            "name": "Onn",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 23
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "58",
+        "fields":{
+            "name": "Oron",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 24
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "59",
+        "fields":{
+            "name": "Oruk-Anam",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 25
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "60",
+        "fields":{
+            "name": "Udung-Uko",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 26
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "61",
+        "fields":{
+            "name": "Ukanfun",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 27
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "62",
+        "fields":{
+            "name": "Uruan",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 28
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "63",
+        "fields":{
+            "name": "Urue-Offong/Oruko",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 29
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "64",
+        "fields":{
+            "name": "Uyo",
+            "zone": "South-South",
+            "Stateid": "3",
+            "id": 30
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "65",
+        "fields":{
+            "name": "Anambra East",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 1
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "66",
+        "fields":{
+            "name": "Anambra West",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 2
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "67",
+        "fields":{
+            "name": "Anaocha",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 3
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "68",
+        "fields":{
+            "name": "Awka North",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 4
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "69",
+        "fields":{
+            "name": "Awka South",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 5
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "70",
+        "fields":{
+            "name": "Ayamelum",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 6
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "71",
+        "fields":{
+            "name": "Dunukofia",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 7
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "72",
+        "fields":{
+            "name": "Ekwusigo",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 8
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "73",
+        "fields":{
+            "name": "Idemili North",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 9
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "74",
+        "fields":{
+            "name": "Idemili South",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 10
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "75",
+        "fields":{
+            "name": "Ihiala",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 11
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "76",
+        "fields":{
+            "name": "Njikoka",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 12
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "77",
+        "fields":{
+            "name": "Nnewi North",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 13
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "78",
+        "fields":{
+            "name": "Nnewi South",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 14
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "79",
+        "fields":{
+            "name": "Ogbaru",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 15
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "80",
+        "fields":{
+            "name": "Onitsha North",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 16
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "81",
+        "fields":{
+            "name": "Onitsha South",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 17
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "81",
+        "fields":{
+            "name": "Orumba North",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 18
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "82",
+        "fields":{
+            "name": "Orumba South",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 19
+        }
+    },
+    {
+        "model": "Zoitapp.lga",
+        "pk": "83",
+        "fields":{
+            "name": "Oyi",
+            "zone": "South-East",
+            "Stateid": "4",
+            "id": 20
+        }
+    }
+]

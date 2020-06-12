@@ -1,0 +1,3675 @@
+[
+    {
+                    "name": "Aba North",
+                    "zone": "South-East",
+                    "id": 1
+                },
+                {
+                    "name": "Aba South",
+                    "zone": "South-East",
+                    "ïd": 2
+                },
+                {
+                    "name": "Arochukwu",
+                    "zone": "South-East",
+                    "id": 3
+                },
+                {
+                    "name": "Bende",
+                    "zone": "South-East",
+                    "id": 4
+                },
+                {
+                    "name": "Ikwuano",
+                    "zone": "South-East",
+                    "id": 5
+                },
+                {
+                    "name": "Isiala Ngwa North",
+                    "zone": "South-East",
+                    "id": 6
+                },
+                {
+                    "name": "Isiala Ngwa South",
+                    "zone": "South-East",
+                    "id": 7
+                },
+                {
+                    "name": "Isuikwuato",
+                    "zone": "South-East",
+                    "id": 8
+                },
+                {
+                    "name": "Obi Ngwa",
+                    "zone": "South-East",
+                    "id": 9
+                },
+                {
+                    "name": "Ohafia",
+                    "zone": "South-East",
+                    "id": 10
+                },
+                {
+                    "name": "Osisioma",
+                    "zone": "South-East",
+                    "id": 11
+                },
+                {
+                    "name": "Ugwunagbo",
+                    "zone": "South-East",
+                    "id": 12
+                },
+                {
+                    "name": "Ukwa East",
+                    "zone": "South-East",
+                    "id": 13
+                },
+                {
+                    "name": "Ukwa West",
+                    "zone": "South-East",
+                    "id": 14
+                },
+                {
+                    "name": "Umuahia North",
+                    "zone": "South-East",
+                    "id": 15
+                },
+                {
+                    "name": "Umuahia South",
+                    "zone": "South-East",
+                    "id": 16
+                },
+                {
+                    "name": "Umu Nneochi",
+                    "zone": "South-East",
+                    "id": 17
+                },
+                {
+                    "name": "Grie",
+                    "zone": "Nort-East",
+                    "id": 5
+                },
+                {
+                    "name": "Hong",
+                    "zone": "Nort-East",
+                    "id": 6
+                },
+                {
+                    "name": "Jada",
+                    "zone": "Nort-East",
+                    "id": 7
+                },
+                {
+                    "name": "Lamurde",
+                    "zone": "Nort-East",
+                    "id": 8
+                },
+                {
+                    "name": "Madagali",
+                    "zone": "Nort-East",
+                    "id": 9
+                },
+                {
+                    "name": "Maiha",
+                    "zone": "Nort-East",
+                    "id": 10
+                },
+                {
+                    "name": "Mayo Belwa",
+                    "zone": "Nort-East",
+                    "id": 11
+                },
+                {
+                    "name": "Michika",
+                    "zone": "Nort-East",
+                    "id": 12
+                },
+                {
+                    "name": "Mubi North",
+                    "zone": "Nort-East",
+                    "id": 13
+                },
+                {
+                    "name": "Mubi South",
+                    "zone": "Nort-East",
+                    "id": 14
+                },
+                {
+                    "name": "Numan",
+                    "zone": "Nort-East",
+                    "id": 15
+                },
+                {
+                    "name": "Shelleng",
+                    "zone": "Nort-East",
+                    "id": 16
+                },
+                {
+                    "name": "Song",
+                    "zone": "Nort-East",
+                    "id": 17
+                },
+                {
+                    "name": "Toungo",
+                    "zone": "Nort-East",
+                    "id": 18
+                },
+                {
+                    "name": "Yola North",
+                    "zone": "Nort-East",
+                    "id": 19
+                },
+                {
+                    "name": "Yola South",
+                    "zone": "Nort-East",
+                    "id": 20
+                },
+                {
+                    "name": "Eastern Obolo",
+                    "zone": "South-South",
+                    "id": 1
+                },
+                {
+                    "name": "Eket",
+                    "zone": "South-South",
+                    "id": 2
+                },
+                {
+                    "name": "Esit Eket",
+                    "zone": "South-South",
+                    "id": 3
+                },
+                {
+                    "name": "Essien Udim",
+                    "zone": "South-South",
+                    "id": 4
+                },
+                {
+                    "name": "Etim Ekpo",
+                    "zone": "South-South",
+                    "id": 5
+                },
+                {
+                    "name": "Etinan",
+                    "zone": "South-South",
+                    "id": 6
+                },
+                {
+                    "name": "Ibeno",
+                    "zone": "South-South",
+                    "id": 7
+                },
+                {
+                    "name": "Ibesikpo Asutan",
+                    "zone": "South-South",
+                    "id": 8
+                },
+                {
+                    "name": "Ibiono-Ibom",
+                    "zone": "South-South",
+                    "id": 9
+                },
+                {
+                    "name": "Ika",
+                    "zone": "South-South",
+                    "id": 10
+                },
+                {
+                    "name": "Ikono",
+                    "zone": "South-South",
+                    "id": 11
+                },
+                {
+                    "name": "Ikot Abasi",
+                    "zone": "South-South",
+                    "id": 12
+                },
+                {
+                    "name": "Ikot Ekpene",
+                    "zone": "South-South",
+                    "id": 13
+                },
+                {
+                    "name": "Ini",
+                    "zone": "South-South",
+                    "id": 14
+                },
+                {
+                    "name": "Itu",
+                    "zone": "South-South",
+                    "id": 15
+                },
+                {
+                    "name": "Mbo",
+                    "zone": "South-South",
+                    "id": 16
+                },
+                {
+                    "name": "Mkpat-Enin",
+                    "zone": "South-South",
+                    "id": 17
+                },
+                {
+                    "name": "Nsit-Atai",
+                    "zone": "South-South",
+                    "id": 18
+                },
+                {
+                    "name": "Nsit-Ibom",
+                    "zone": "South-South",
+                    "id": 19
+                },
+                {
+                    "name": "Nsit-Ubium",
+                    "zone": "South-South",
+                    "id": 20
+                },
+                {
+                    "name": "Obot Akara",
+                    "zone": "South-South",
+                    "id": 21
+                },
+                {
+                    "name": "Okobo",
+                    "zone": "South-South",
+                    "id": 22
+                },
+                {
+                    "name": "Onna",
+                    "zone": "South-South",
+                    "id": 23
+                },
+                {
+                    "name": "Oron",
+                    "zone": "South-South",
+                    "id": 24
+                },
+                {
+                    "name": "Oruk Anam",
+                    "zone": "South-South",
+                    "id": 25
+                },
+                {
+                    "name": "Udung-Uko",
+                    "zone": "South-South",
+                    "id": 26
+                },
+                {
+                    "name": "Ukanafun",
+                    "zone": "South-South",
+                    "id": 27
+                },
+                {
+                    "name": "Uruan",
+                    "zone": "South-South",
+                    "id": 28
+                },
+                {
+                    "name": "Urue-Offong/Oruko",
+                    "zone": "South-South",
+                    "id": 29
+                },
+                {
+                    "name": "Uyo",
+                    "zone": "South-South",
+                    "id": 30
+                },
+                {
+                    "name": "Anambra East",
+                    "zone": "South-East",
+                    "id": 1
+                },
+                {
+                    "name": "Anambra West",
+                    "zone": "South-East",
+                    "id": 2
+                },
+                {
+                    "name": "Anaocha",
+                    "zone": "South-East",
+                    "id": 3
+                },
+                {
+                    "name": "Awka North",
+                    "zone": "South-East",
+                    "id": 4
+                },
+                {
+                    "name": "Awka South",
+                    "zone": "South-East",
+                    "id": 5
+                },
+                {
+                    "name": "Ayamelum",
+                    "zone": "South-East",
+                    "id": 6
+                },
+                {
+                    "name": "Dunukofia",
+                    "zone": "South-East",
+                    "id": 7
+                },
+                {
+                    "name": "Ekwusigo",
+                    "zone": "South-East",
+                    "id": 8
+                },
+                {
+                    "name": "Idemili North",
+                    "zone": "South-East",
+                    "id": 9
+                },
+                {
+                    "name": "Idemili South",
+                    "zone": "South-East",
+                    "id": 10
+                },
+                {
+                    "name": "Ihiala",
+                    "zone": "South-East",
+                    "id": 11
+                },
+                {
+                    "name": "Njikoka",
+                    "zone": "South-East",
+                    "id": 12
+                },
+                {
+                    "name": "Nnewi North",
+                    "zone": "South-East",
+                    "id": 13
+                },
+                {
+                    "name": "Nnewi South",
+                    "zone": "South-East",
+                    "id": 14
+                },
+                {
+                    "name": "Ogbaru",
+                    "zone": "South-East",
+                    "id": 15
+                },
+                {
+                    "name": "Onitsha North",
+                    "zone": "South-East",
+                    "id": 16
+                },
+                {
+                    "name": "Onitsha South",
+                    "zone": "South-East",
+                    "id": 17
+                },
+                {
+                    "name": "Orumba North",
+                    "zone": "South-East",
+                    "id": 18
+                },
+                {
+                    "name": "Orumba South",
+                    "zone": "South-East",
+                    "id": 19
+                },
+                {
+                    "name": "Oyi",
+                    "zone": "South-East",
+                    "id": 20
+                },
+                {
+                    "name": "Bauchi",
+                    "zone": "Nort-East",
+                    "id": 1
+                },
+                {
+                    "name": "Bogoro",
+                    "zone": "Nort-East",
+                    "id": 2
+                },
+                {
+                    "name": "Damban",
+                    "zone": "Nort-East",
+                    "id": 3
+                },
+                {
+                    "name": "Darazo",
+                    "zone": "Nort-East",
+                    "id": 4
+                },
+                {
+                    "name": "Dass",
+                    "zone": "Nort-East",
+                    "id": 5
+                },
+                {
+                    "name": "Gamawa",
+                    "zone": "Nort-East",
+                    "id": 6
+                },
+                {
+                    "name": "Ganjuwa",
+                    "zone": "Nort-East",
+                    "id": 7
+                },
+                {
+                    "name": "Giade",
+                    "zone": "Nort-East",
+                    "id": 8
+                },
+                {
+                    "name": "Itas/Gadau",
+                    "zone": "Nort-East",
+                    "id": 9
+                },
+                {
+                    "name": "Jama'are",
+                    "zone": "Nort-East",
+                    "id": 10
+                },
+                {
+                    "name": "Katagum",
+                    "zone": "Nort-East",
+                    "id": 11
+                },
+                {
+                    "name": "Kirfi",
+                    "zone": "Nort-East",
+                    "id": 12
+                },
+                {
+                    "name": "Misau",
+                    "zone": "Nort-East",
+                    "id": 13
+                },
+                {
+                    "name": "Ningi",
+                    "zone": "Nort-East",
+                    "id": 14
+                },
+                {
+                    "name": "Shira",
+                    "zone": "Nort-East",
+                    "id": 15
+                },
+                {
+                    "name": "Tafawa Balewa",
+                    "zone": "Nort-East",
+                    "id": 16
+                },
+                {
+                    "name": "Toro",
+                    "zone": "Nort-East",
+                    "id": 17
+                },
+                {
+                    "name": "Warji",
+                    "zone": "Nort-East",
+                    "id": 18
+                },
+                {
+                    "name": "Zaki",
+                    "zone": "Nort-East",
+                    "id": 19
+                },
+                {
+                     "name": "Ekeremor",
+                    "zone": "South-South",
+                    "id": 1
+                },
+                {
+                    "name": "Kolokuma/Opokuma",
+                    "zone": "South-South",
+                    "id": 2
+                },
+                {
+                    "name": "Nembe",
+                    "zone": "South-South",
+                    "id": 3
+                },
+                {
+                    "name": "Ogbia",
+                    "zone": "South-South",
+                    "id": 4
+                },
+                {
+                    "name": "Sagbama",
+                    "zone": "South-South",
+                    "id": 5
+                },
+                {
+                    "name": "Southern Ijaw",
+                    "zone": "South-South",
+                    "id": 6
+                },
+                {
+                    "name": "Yenagoa",
+                    "zone": "South-South",
+                    "id": 7
+                },
+                {
+                    "name": "Apa",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Ado",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Buruku",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Gboko",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Guma",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Gwer East",
+                    "zone": "North-Central",
+                    "id": 6
+                },
+                {
+                    "name": "Gwer West",
+                    "zone": "North-Central",
+                    "id": 7
+                },
+                {
+                    "name": "Katsina-Ala",
+                    "zone": "North-Central",
+                    "id": 8
+                },
+                {
+                    "name": "Konshisha",
+                    "zone": "North-Central",
+                    "id": 9
+                },
+                {
+                    "name": "Kwande",
+                    "zone": "North-Central",
+                    "id": 10
+                },
+                {
+                    "name": "Logo",
+                    "zone": "North-Central",
+                    "id": 11
+                },
+                {
+                    "name": "Makurdi",
+                    "zone": "North-Central",
+                    "id": 12
+                },
+                {
+                    "name": "Obi",
+                    "zone": "North-Central",
+                    "id": 13
+                },
+                {
+                    "name": "Ogbadibo",
+                    "zone": "North-Central",
+                    "id": 14
+                },
+                {
+                    "name": "Ohimini",
+                    "zone": "North-Central",
+                    "id": 15
+                },
+                {
+                    "name": "Oju",
+                    "zone": "North-Central",
+                    "id": 16
+                },
+                {
+                    "name": "Okpokwu",
+                    "zone": "North-Central",
+                    "id": 17
+                },
+                {
+                    "name": "Oturkpo",
+                    "zone": "North-Central",
+                    "id": 18
+                },
+                {
+                    "name": "Tarka",
+                    "zone": "North-Central",
+                    "id": 19
+                },
+                {
+                    "name": "Ukum",
+                    "zone": "North-Central",
+                    "id": 20
+                },
+                {
+                    "name": "Ushongo",
+                    "zone": "North-Central",
+                    "id": 21
+                },
+                {
+                    "name": "Vandeikya",
+                    "zone": "North-Central",
+                    "id": 22
+                },
+                {
+                    "name": "Askira/Uba",
+                    "zone": "Nort-East",
+                    "id": 1
+                },
+                {
+                    "name": "Bama",
+                    "zone": "Nort-East",
+                    "id": 2
+                },
+                {
+                    "name": "Bayo",
+                    "zone": "Nort-East",
+                    "id": 3
+                },
+                {
+                    "name": "Biu",
+                    "zone": "Nort-East",
+                    "id": 4
+                },
+                {
+                    "name": "Chibok",
+                    "zone": "Nort-East",
+                    "id": 5
+                },
+                {
+                    "name": "Damboa",
+                    "zone": "Nort-East",
+                    "id": 6
+                },
+                {
+                    "name": "Dikwa",
+                    "zone": "Nort-East",
+                    "id": 7
+                },
+                {
+                    "name": "Gubio",
+                    "zone": "Nort-East",
+                    "id": 8
+                },
+                {
+                    "name": "Guzamala",
+                    "zone": "Nort-East",
+                    "id": 9
+                },
+                {
+                    "name": "Gwoza",
+                    "zone": "Nort-East",
+                    "id": 10
+                },
+                {
+                    "name": "Hawul",
+                    "zone": "Nort-East",
+                    "id": 11
+                },
+                {
+                    "name": "Jere",
+                    "zone": "Nort-East",
+                    "id": 12
+                },
+                {
+                    "name": "Kaga",
+                    "zone": "Nort-East",
+                    "id": 13
+                },
+                {
+                    "name": "Kala/Balge",
+                    "zone": "Nort-East",
+                    "id": 14
+                },
+                {
+                    "name": "Konduga",
+                    "zone": "Nort-East",
+                    "id": 15
+                },
+                {
+                    "name": "Kukawa",
+                    "zone": "Nort-East",
+                    "id": 16
+                },
+                {
+                    "name": "Kwaya Kusar",
+                    "zone": "Nort-East",
+                    "id": 17
+                },
+                {
+                    "name": "Mafa",
+                    "zone": "Nort-East",
+                    "id": 18
+                },
+                {
+                    "name": "Magumeri",
+                    "zone": "Nort-East",
+                    "id": 19
+                },
+                {
+                    "name": "Maiduguri",
+                    "zone": "Nort-East",
+                    "id": 20
+                },
+                {
+                    "name": "Marte",
+                    "zone": "Nort-East",
+                    "id": 21
+                },
+                {
+                    "name": "Mobbar",
+                    "zone": "Nort-East",
+                    "id": 22
+                },
+                {
+                    "name": "Monguno",
+                    "zone": "Nort-East",
+                    "id": 23
+                },
+                {
+                    "name": "Ngala",
+                    "zone": "Nort-East",
+                    "id": 24
+                },
+                {
+                    "name": "Nganzai",
+                    "zone": "Nort-East",
+                    "id": 25
+                },
+                {
+                    "name": "Shani",
+                    "zone": "Nort-East",
+                    "id": 26
+                },
+                {
+                    "name": "Akamkpa",
+                    "zone": "South-South",
+                    "id": 1
+                },
+                {
+                    "name": "Akpabuyo",
+                    "zone": "South-South",
+                    "id": 2
+                },
+                {
+                    "name": "Bakassi",
+                    "zone": "South-South",
+                    "id": 3
+                },
+                {
+                    "name": "Bekwarra",
+                    "zone": "South-South",
+                    "id": 4
+                },
+                {
+                    "name": "Biase",
+                    "zone": "South-South",
+                    "id": 5
+                },
+                {
+                    "name": "Boki",
+                    "zone": "South-South",
+                    "id": 6
+                },
+                {
+                    "name": "Calabar Municipal",
+                    "zone": "South-South",
+                    "id": 7
+                },
+                {
+                    "name": "Calabar South",
+                    "zone": "South-South",
+                    "id": 8
+                },
+                {
+                    "name": "Etung",
+                    "zone": "South-South",
+                    "id": 9
+                },
+                {
+                    "name": "Ikom",
+                    "zone": "South-South",
+                    "id": 10
+                },
+                {
+                    "name": "Obanliku",
+                    "zone": "South-South",
+                    "id": 11
+                },
+                {
+                    "name": "Obubra",
+                    "zone": "South-South",
+                    "id": 12
+                },
+                {
+                    "name": "Obudu",
+                    "zone": "South-South",
+                    "id": 13
+                },
+                {
+                    "name": "Odukpani",
+                    "zone": "South-South",
+                    "id": 14
+                },
+                {
+                    "name": "Ogoja",
+                    "zone": "South-South",
+                    "id": 15
+                },
+                {
+                    "name": "Yakuur",
+                    "zone": "South-South",
+                    "id": 16
+                },
+                {
+                    "name": "Yala",
+                    "zone": "South-South",
+                    "id": 17
+                },
+                {
+                    "name": "Aniocha South",
+                    "zone": "South-South",
+                    "id": 1
+                },
+                {
+                    "name": "Bomadi",
+                    "zone": "South-South",
+                    "id": 2
+                },
+                {
+                    "name": "Burutu",
+                    "zone": "South-South",
+                    "id": 3
+                },
+                {
+                    "name": "Ethiope East",
+                    "zone": "South-South",
+                    "id": 4
+                },
+                {
+                    "name": "Ethiope West",
+                    "zone": "South-South",
+                    "id": 5
+                },
+                {
+                    "name": "Ika North East",
+                    "zone": "South-South",
+                    "id": 6
+                },
+                {
+                    "name": "Ika South",
+                    "zone": "South-South",
+                    "id": 7
+                },
+                {
+                    "name": "Isoko North",
+                    "zone": "South-South",
+                    "id": 8
+                },
+                {
+                    "name": "Isoko South",
+                    "zone": "South-South",
+                    "id": 9
+                },
+                {
+                    "name": "Ndokwa East",
+                    "zone": "South-South",
+                    "id": 10
+                },
+                {
+                    "name": "Ndokwa West",
+                    "zone": "South-South",
+                    "id": 11
+                },
+                {
+                    "name": "Okpe",
+                    "zone": "South-South",
+                    "id": 12
+                },
+                {
+                    "name": "Oshimili North",
+                    "zone": "South-South",
+                    "id": 13
+                },
+                {
+                    "name": "Oshimili South",
+                    "zone": "South-South",
+                    "id": 14
+                },
+                {
+                    "name": "Patani",
+                    "zone": "South-South",
+                    "id": 15
+                },
+                {
+                    "name": "Sapele",
+                    "zone": "South-South",
+                    "id": 16
+                },
+                {
+                    "name": "Udu",
+                    "zone": "South-South",
+                    "id": 17
+                },
+                {
+                    "name": "Ughelli North",
+                    "zone": "South-South",
+                    "id": 18
+                },
+                {
+                    "name": "Ughelli South",
+                    "zone": "South-South",
+                    "id": 19
+                },
+                {
+                    "name": "Ukwuani",
+                    "zone": "South-South",
+                    "id": 20
+                },
+                {
+                    "name": "Uvwie",
+                    "zone": "South-South",
+                    "id": 21
+                },
+                {
+                    "name": "Warri North",
+                    "zone": "South-South",
+                    "id": 22
+                },
+                {
+                    "name": "Warri South",
+                    "zone": "South-South",
+                    "id": 23
+                },
+                {
+                    "name": "Warri South West",
+                    "zone": "South-South",
+                    "id": 24
+                },
+                {
+                    "name": "Afikpo North",
+                    "zone": "South-East",
+                    "id": 1
+                },
+                {
+                    "name": "Afikpo South",
+                    "zone": "South-East",
+                    "id": 2
+                },
+                {
+                    "name": "Ebonyi",
+                    "zone": "South-East",
+                    "id": 3
+                },
+                {
+                    "name": "Ezza North",
+                    "zone": "South-East",
+                    "id": 4
+                },
+                {
+                    "name": "Ezza South",
+                    "zone": "South-East",
+                    "id": 5
+                },
+                {
+                    "name": "Ikwo",
+                    "zone": "South-East",
+                    "id": 6
+                },
+                {
+                    "name": "Ishielu",
+                    "zone": "South-East",
+                    "id": 7
+                },
+                {
+                    "name": "Ivo",
+                    "zone": "South-East",
+                    "id": 8
+                },
+                {
+                    "name": "Izzi",
+                    "zone": "South-East",
+                    "id": 9
+                },
+                {
+                    "name": "Ohaozara",
+                    "zone": "South-East",
+                    "id": 10
+                },
+                {
+                    "name": "Ohaukwu",
+                    "zone": "South-East",
+                    "id": 11
+                },
+                {
+                    "name": "Onicha",
+                    "zone": "South-East",
+                    "id": 12
+                },
+                {
+                    "name": "Egor",
+                    "zone": "South-South",
+                    "id": 1
+                },
+                {
+                    "name": "Esan Central",
+                    "zone": "South-South",
+                    "id": 2
+                },
+                {
+                    "name": "Esan North-East",
+                    "zone": "South-South",
+                    "id": 3
+                },
+                {
+                    "name": "Esan South-East",
+                    "zone": "South-South",
+                    "id": 4
+                },
+                {
+                    "name": "Esan West",
+                    "zone": "South-South",
+                    "id": 5
+                },
+                {
+                    "name": "Etsako Central",
+                    "zone": "South-South",
+                    "id": 6
+                },
+                {
+                    "name": "Etsako East",
+                    "zone": "South-South",
+                    "id": 7
+                },
+                {
+                    "name": "Etsako West",
+                    "zone": "South-South",
+                    "id": 8
+                },
+                {
+                    "name": "Igueben",
+                    "zone": "South-South",
+                    "id": 9
+                },
+                {
+                    "name": "Ikpoba Okha",
+                    "zone": "South-South",
+                    "id": 10
+                },
+                {
+                    "name": "Orhionmwon",
+                    "zone": "South-South",
+                    "id": 11
+                },
+                {
+                    "name": "Oredo",
+                    "zone": "South-South",
+                    "id": 12
+                },
+                {
+                    "name": "Ovia North-East",
+                    "zone": "South-South",
+                    "id": 13
+                },
+                {
+                    "name": "Ovia South-West",
+                    "zone": "South-South",
+                    "id": 14
+                },
+                {
+                    "name": "Owan East",
+                    "zone": "South-South",
+                    "id": 15
+                },
+                {
+                    "name": "Owan West",
+                    "zone": "South-South",
+                    "id": 16
+                },
+                {
+                    "name": "Uhunmwonde",
+                    "zone": "South-South",
+                    "id": 17
+                },
+                {
+                    "name": "Efon",
+                    "zone": "South-West",
+                    "id": 1
+                },
+                {
+                    "name": "Ekiti East",
+                    "zone": "South-West",
+                    "id": 2
+                },
+                {
+                    "name": "Ekiti South-West",
+                    "zone": "South-West",
+                    "id": 3
+                },
+                {
+                    "name": "Ekiti West",
+                    "zone": "South-West",
+                    "id": 4
+                },
+                {
+                    "name": "Emure",
+                    "zone": "South-West",
+                    "id": 5
+                },
+                {
+                    "name": "Gbonyin",
+                    "zone": "South-West",
+                    "id": 6
+                },
+                {
+                    "name": "Ido Osi",
+                    "zone": "South-West",
+                    "id": 7
+                },
+                {
+                    "name": "Ijero",
+                    "zone": "South-West",
+                    "id": 8
+                },
+                {
+                    "name": "Ikere",
+                    "zone": "South-West",
+                    "id": 9
+                },
+                {
+                    "name": "Ikole",
+                    "zone": "South-West",
+                    "id": 10
+                },
+                {
+                    "name": "Ilejemeje",
+                    "zone": "South-West",
+                    "id": 11
+                },
+                {
+                    "name": "Irepodun/Ifelodun",
+                    "zone": "South-West",
+                    "id": 12
+                },
+                {
+                    "name": "Ise/Orun",
+                    "zone": "South-West",
+                    "id": 13
+                },
+                {
+                    "name": "Moba",
+                    "zone": "South-West",
+                    "id": 14
+                },
+                {
+                    "name": "Oye",
+                    "zone": "South-West",
+                    "id": 15
+                },
+                {
+                    "name": "Awgu",
+                    "zone": "South-East",
+                    "id": 1
+                },
+                {
+                    "name": "Enugu East",
+                    "zone": "South-East",
+                    "id": 2
+                },
+                {
+                    "name": "Enugu North",
+                    "zone": "South-East",
+                    "id": 3
+                },
+                {
+                    "name": "Enugu South",
+                    "zone": "South-East",
+                    "id": 4
+                },
+                {
+                    "name": "Ezeagu",
+                    "zone": "South-East",
+                    "id": 5
+                },
+                {
+                    "name": "Igbo Etiti",
+                    "zone": "South-East",
+                    "id": 6
+                },
+                {
+                    "name": "Igbo Eze North",
+                    "zone": "South-East",
+                    "id": 7
+                },
+                {
+                    "name": "Igbo Eze South",
+                    "zone": "South-East",
+                    "id": 8
+                },
+                {
+                    "name": "Isi Uzo",
+                    "zone": "South-East",
+                    "id": 9
+                },
+                {
+                    "name": "Nkanu East",
+                    "zone": "South-East",
+                    "id": 10
+                },
+                {
+                    "name": "Nkanu West",
+                    "zone": "South-East",
+                    "id": 11
+                },
+                {
+                    "name": "Nsukka",
+                    "zone": "South-East",
+                    "id": 12
+                },
+                {
+                    "name": "Oji River",
+                    "zone": "South-East",
+                    "id": 13
+                },
+                {
+                    "name": "Udenu",
+                    "zone": "South-East",
+                    "id": 14
+                },
+                {
+                    "name": "Udi",
+                    "zone": "South-East",
+                    "id": 15
+                },
+                {
+                    "name": "Uzo Uwani",
+                    "zone": "South-East",
+                    "id": 16
+                },
+                {
+                     "name": "Bwari",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Gwagwalada",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Kuje",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Kwali",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Municipal Area Council",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Balanga",
+                    "zone": "Nort-East",
+                    "id": 1
+                },
+                {
+                    "name": "Billiri",
+                    "zone": "Nort-East",
+                    "id": 2
+                },
+                {
+                    "name": "Dukku",
+                    "zone": "Nort-East",
+                    "id": 3
+                },
+                {
+                    "name": "Funakaye",
+                    "zone": "Nort-East",
+                    "id": 4
+                },
+                {
+                    "name": "Gombe",
+                    "zone": "Nort-East",
+                    "id": 5
+                },
+                {
+                    "name": "Kaltungo",
+                    "zone": "Nort-East",
+                    "id": 6
+                },
+                {
+                    "name": "Kwami",
+                    "zone": "Nort-East",
+                    "id": 7
+                },
+                {
+                    "name": "Nafada",
+                    "zone": "Nort-East",
+                    "id": 8
+                },
+                {
+                    "name": "Shongom",
+                    "zone": "Nort-East",
+                    "id": 9
+                },
+                {
+                    "name": "Yamaltu/Deba",
+                    "zone": "Nort-East",
+                    "id": 10
+                },
+                {
+                    "name": "Ahiazu Mbaise",
+                    "zone": "South-East",
+                    "id": 1
+                },
+                {
+                    "name": "Ehime Mbano",
+                    "zone": "South-East",
+                    "id": 2
+                },
+                {
+                    "name": "Ezinihitte",
+                    "zone": "South-East",
+                    "id": 3
+                },
+                {
+                    "name": "Ideato North",
+                    "zone": "South-East",
+                    "id": 4
+                },
+                {
+                    "name": "Ideato South",
+                    "zone": "South-East",
+                    "id": 5
+                },
+                {
+                    "name": "Ihitte/Uboma",
+                    "zone": "South-East",
+                    "id": 6
+                },
+                {
+                    "name": "Ikeduru",
+                    "zone": "South-East",
+                    "id": 7
+                },
+                {
+                    "name": "Isiala Mbano",
+                    "zone": "South-East",
+                    "id": 8
+                },
+                {
+                    "name": "Isu",
+                    "zone": "South-East",
+                    "id": 9
+                },
+                {
+                    "name": "Mbaitoli",
+                    "zone": "South-East",
+                    "id": 10
+                },
+                {
+                    "name": "Ngor Okpala",
+                    "zone": "South-East",
+                    "id": 11
+                },
+                {
+                    "name": "Njaba",
+                    "zone": "South-East",
+                    "id": 12
+                },
+                {
+                    "name": "Nkwerre",
+                    "zone": "South-East",
+                    "id": 13
+                },
+                {
+                    "name": "Nwangele",
+                    "zone": "South-East",
+                    "id": 14
+                },
+                {
+                    "name": "Obowo",
+                    "zone": "South-East",
+                    "id": 15
+                },
+                {
+                    "name": "Oguta",
+                    "zone": "South-East",
+                    "id": 16
+                },
+                {
+                    "name": "Ohaji/Egbema",
+                    "zone": "South-East",
+                    "id": 17
+                },
+                {
+                    "name": "Okigwe",
+                    "zone": "South-East",
+                    "id": 18
+                },
+                {
+                    "name": "Orlu",
+                    "zone": "South-East",
+                    "id": 19
+                },
+                {
+                    "name": "Orsu",
+                    "zone": "South-East",
+                    "id": 20
+                },
+                {
+                    "name": "Oru East",
+                    "zone": "South-East",
+                    "id": 21
+                },
+                {
+                    "name": "Oru West",
+                    "zone": "South-East",
+                    "id": 22
+                },
+                {
+                    "name": "Owerri Municipal",
+                    "zone": "South-East",
+                    "id": 23
+                },
+                {
+                    "name": "Owerri North",
+                    "zone": "South-East",
+                    "id": 24
+                },
+                {
+                    "name": "Owerri West",
+                    "zone": "South-East",
+                    "id": 25
+                },
+                {
+                    "name": "Unuimo",
+                    "zone": "South-East",
+                    "id": 26
+                },
+                {
+                    "name": "Babura",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Biriniwa",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Birnin Kudu",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Buji",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Dutse",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Gagarawa",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Garki",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Gumel",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Guri",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Gwaram",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Gwiwa",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Hadejia",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Jahun",
+                    "zone": "North-West",
+                    "id": 13
+                },
+                {
+                    "name": "Kafin Hausa",
+                    "zone": "North-West",
+                    "id": 14
+                },
+                {
+                    "name": "Kazaure",
+                    "zone": "North-West",
+                    "id": 15
+                },
+                {
+                    "name": "Kiri Kasama",
+                    "zone": "North-West",
+                    "id": 16
+                },
+                {
+                    "name": "Kiyawa",
+                    "zone": "North-West",
+                    "id": 17
+                },
+                {
+                    "name": "Kaugama",
+                    "zone": "North-West",
+                    "id": 18
+                },
+                {
+                    "name": "Maigatari",
+                    "zone": "North-West",
+                    "id": 19
+                },
+                {
+                    "name": "Malam Madori",
+                    "zone": "North-West",
+                    "id": 20
+                },
+                {
+                    "name": "Miga",
+                    "zone": "North-West",
+                    "id": 21
+                },
+                {
+                    "name": "Ringim",
+                    "zone": "North-West",
+                    "id": 22
+                },
+                {
+                    "name": "Roni",
+                    "zone": "North-West",
+                    "id": 23
+                },
+                {
+                    "name": "Sule Tankarkar",
+                    "zone": "North-West",
+                    "id": 24
+                },
+                {
+                    "name": "Taura",
+                    "zone": "North-West",
+                    "id": 25
+                },
+                {
+                    "name": "Yankwashi",
+                    "zone": "North-West",
+                    "id": 26
+                },
+                {
+                    "name": "Chikun",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Giwa",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Igabi",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Ikara",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Jaba",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Jema'a",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Kachia",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Kaduna North",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Kaduna South",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Kagarko",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Kajuru",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Kaura",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Kauru",
+                    "zone": "North-West",
+                    "id": 13
+                },
+                {
+                    "name": "Kubau",
+                    "zone": "North-West",
+                    "id": 14
+                },
+                {
+                    "name": "Kudan",
+                    "zone": "North-West",
+                    "id": 15
+                },
+                {
+                    "name": "Lere",
+                    "zone": "North-West",
+                    "id": 16
+                },
+                {
+                    "name": "Makarfi",
+                    "zone": "North-West",
+                    "id": 17
+                },
+                {
+                    "name": "Sabon Gari",
+                    "zone": "North-West",
+                    "id": 18
+                },
+                {
+                    "name": "Sanga",
+                    "zone": "North-West",
+                    "id": 19
+                },
+                {
+                    "name": "Soba",
+                    "zone": "North-West",
+                    "id": 20
+                },
+                {
+                    "name": "Zangon Kataf",
+                    "zone": "North-West",
+                    "id": 21
+                },
+                {
+                    "name": "Zaria",
+                    "zone": "North-West",
+                    "id": 22
+                },
+                {
+                    "name": "Albasu",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Bagwai",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Bebeji",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Bichi",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Bunkure",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Dala",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Dambatta",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Dawakin Kudu",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Dawakin Tofa",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Doguwa",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Fagge",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Gabasawa",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Garko",
+                    "zone": "North-West",
+                    "id": 13
+                },
+                {
+                    "name": "Garun Mallam",
+                    "zone": "North-West",
+                    "id": 14
+                },
+                {
+                    "name": "Gaya",
+                    "zone": "North-West",
+                    "id": 15
+                },
+                {
+                    "name": "Gezawa",
+                    "zone": "North-West",
+                    "id": 16
+                },
+                {
+                    "name": "Gwale",
+                    "zone": "North-West",
+                    "id": 17
+                },
+                {
+                    "name": "Gwarzo",
+                    "zone": "North-West",
+                    "id": 18
+                },
+                {
+                    "name": "Kabo",
+                    "zone": "North-West",
+                    "id": 19
+                },
+                {
+                    "name": "Kano Municipal",
+                    "zone": "North-West",
+                    "id": 20
+                },
+                {
+                    "name": "Karaye",
+                    "zone": "North-West",
+                    "id": 21
+                },
+                {
+                    "name": "Kibiya",
+                    "zone": "North-West",
+                    "id": 22
+                },
+                {
+                    "name": "Kiru",
+                    "zone": "North-West",
+                    "id": 23
+                },
+                {
+                    "name": "Kumbotso",
+                    "zone": "North-West",
+                    "id": 24
+                },
+                {
+                    "name": "Kunchi",
+                    "zone": "North-West",
+                    "id": 25
+                },
+                {
+                    "name": "Kura",
+                    "zone": "North-West",
+                    "id": 26
+                },
+                {
+                    "name": "Madobi",
+                    "zone": "North-West",
+                    "id": 27
+                },
+                {
+                    "name": "Makoda",
+                    "zone": "North-West",
+                    "id": 28
+                },
+                {
+                    "name": "Minjibir",
+                    "zone": "North-West",
+                    "id": 29
+                },
+                {
+                    "name": "Nasarawa",
+                    "zone": "North-West",
+                    "id": 30
+                },
+                {
+                    "name": "Rano",
+                    "zone": "North-West",
+                    "id": 31
+                },
+                {
+                    "name": "Rimin Gado",
+                    "zone": "North-West",
+                    "id": 32
+                },
+                {
+                    "name": "Rogo",
+                    "zone": "North-West",
+                    "id": 33
+                },
+                {
+                    "name": "Shanono",
+                    "zone": "North-West",
+                    "id": 34
+                },
+                {
+                    "name": "Sumaila",
+                    "zone": "North-West",
+                    "id": 35
+                },
+                {
+                    "name": "Takai",
+                    "zone": "North-West",
+                    "id": 36
+                },
+                {
+                    "name": "Tarauni",
+                    "zone": "North-West",
+                    "id": 37
+                },
+                {
+                    "name": "Tofa",
+                    "zone": "North-West",
+                    "id": 38
+                },
+                {
+                    "name": "Tsanyawa",
+                    "zone": "North-West",
+                    "id": 39
+                },
+                {
+                    "name": "Tudun Wada",
+                    "zone": "North-West",
+                    "id": 40
+                },
+                {
+                    "name": "Ungogo",
+                    "zone": "North-West",
+                    "id": 41
+                },
+                {
+                    "name": "Warawa",
+                    "zone": "North-West",
+                    "id": 42
+                },
+                {
+                    "name": "Wudil",
+                    "zone": "North-West",
+                    "id": 43
+                },
+                {
+                    "name": "Batagarawa",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Batsari",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Baure",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Bindawa",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Charanchi",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Dandume",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Danja",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Dan Musa",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Daura",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Dutsi",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Dutsin Ma",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Faskari",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Funtua",
+                    "zone": "North-West",
+                    "id": 13
+                },
+                {
+                    "name": "Ingawa",
+                    "zone": "North-West",
+                    "id": 14
+                },
+                {
+                    "name": "Jibia",
+                    "zone": "North-West",
+                    "id": 15
+                },
+                {
+                    "name": "Kafur",
+                    "zone": "North-West",
+                    "id": 16
+                },
+                {
+                    "name": "Kaita",
+                    "zone": "North-West",
+                    "id": 17
+                },
+                {
+                    "name": "Kankara",
+                    "zone": "North-West",
+                    "id": 18
+                },
+                {
+                    "name": "Kankia",
+                    "zone": "North-West",
+                    "id": 19
+                },
+                {
+                    "name": "Katsina",
+                    "zone": "North-West",
+                    "id": 20
+                },
+                {
+                    "name": "Kurfi",
+                    "zone": "North-West",
+                    "id": 21
+                },
+                {
+                    "name": "Kusada",
+                    "zone": "North-West",
+                    "id": 22
+                },
+                {
+                    "name": "Mai'Adua",
+                    "zone": "North-West",
+                    "id": 23
+                },
+                {
+                    "name": "Malumfashi",
+                    "zone": "North-West",
+                    "id": 24
+                },
+                {
+                    "name": "Mani",
+                    "zone": "North-West",
+                    "id": 25
+                },
+                {
+                    "name": "Mashi",
+                    "zone": "North-West",
+                    "id": 26
+                },
+                {
+                    "name": "Matazu",
+                    "zone": "North-West",
+                    "id": 27
+                },
+                {
+                    "name": "Musawa",
+                    "zone": "North-West",
+                    "id": 28
+                },
+                {
+                    "name": "Rimi",
+                    "zone": "North-West",
+                    "id": 29
+                },
+                {
+                    "name": "Sabuwa",
+                    "zone": "North-West",
+                    "id": 30
+                },
+                {
+                    "name": "Safana",
+                    "zone": "North-West",
+                    "id": 31
+                },
+                {
+                    "name": "Sandamu",
+                    "zone": "North-West",
+                    "id": 32
+                },
+                {
+                    "name": "Zango",
+                    "zone": "North-West",
+                    "id": 33
+                },
+                {
+                    "name": "Arewa Dandi",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Argungu",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Augie",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Bagudo",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Birnin Kebbi",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Bunza",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Dandi",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Fakai",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Gwandu",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Jega",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Kalgo",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Koko/Besse",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Maiyama",
+                    "zone": "North-West",
+                    "id": 13
+                },
+                {
+                    "name": "Ngaski",
+                    "zone": "North-West",
+                    "id": 14
+                },
+                {
+                    "name": "Sakaba",
+                    "zone": "North-West",
+                    "id": 15
+                },
+                {
+                    "name": "Shanga",
+                    "zone": "North-West",
+                    "id": 16
+                },
+                {
+                    "name": "Suru",
+                    "zone": "North-West",
+                    "id": 17
+                },
+                {
+                    "name": "Wasagu/Danko",
+                    "zone": "North-West",
+                    "id": 18
+                },
+                {
+                    "name": "Yauri",
+                    "zone": "North-West",
+                    "id": 19
+                },
+                {
+                    "name": "Zuru",
+                    "zone": "North-West",
+                    "id": 20
+                },
+                {
+                     "name": "Ajaokuta",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Ankpa",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Bassa",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Dekina",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Ibaji",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Idah",
+                    "zone": "North-Central",
+                    "id": 6
+                },
+                {
+                    "name": "Igalamela Odolu",
+                    "zone": "North-Central",
+                    "id": 7
+                },
+                {
+                    "name": "Ijumu",
+                    "zone": "North-Central",
+                    "id": 8
+                },
+                {
+                    "name": "Kabba/Bunu",
+                    "zone": "North-Central",
+                    "id": 9
+                },
+                {
+                    "name": "Kogi",
+                    "zone": "North-Central",
+                    "id": 10
+                },
+                {
+                    "name": "Lokoja",
+                    "zone": "North-Central",
+                    "id": 11
+                },
+                {
+                    "name": "Mopa Muro",
+                    "zone": "North-Central",
+                    "id": 12
+                },
+                {
+                    "name": "Ofu",
+                    "zone": "North-Central",
+                    "id": 13
+                },
+                {
+                    "name": "Ogori/Magongo",
+                    "zone": "North-Central",
+                    "id": 14
+                },
+                {
+                    "name": "Okehi",
+                    "zone": "North-Central",
+                    "id": 15
+                },
+                {
+                    "name": "Okene",
+                    "zone": "North-Central",
+                    "id": 16
+                },
+                {
+                    "name": "Olamaboro",
+                    "zone": "North-Central",
+                    "id": 17
+                },
+                {
+                    "name": "Omala",
+                    "zone": "North-Central",
+                    "id": 18
+                },
+                {
+                    "name": "Yagba East",
+                    "zone": "North-Central",
+                    "id": 19
+                },
+                {
+                    "name": "Yagba West",
+                    "zone": "North-Central",
+                    "id": 20
+                },
+                {
+                    "name": "Baruten",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Edu",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Ekiti",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Ifelodun",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Ilorin East",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Ilorin South",
+                    "zone": "North-Central",
+                    "id": 6
+                },
+                {
+                    "name": "Ilorin West",
+                    "zone": "North-Central",
+                    "id": 7
+                },
+                {
+                    "name": "Irepodun",
+                    "zone": "North-Central",
+                    "id": 8
+                },
+                {
+                    "name": "Isin",
+                    "zone": "North-Central",
+                    "id": 9
+                },
+                {
+                    "name": "Kaiama",
+                    "zone": "North-Central",
+                    "id": 10
+                },
+                {
+                    "name": "Moro",
+                    "zone": "North-Central",
+                    "id": 11
+                },
+                {
+                    "name": "Offa",
+                    "zone": "North-Central",
+                    "id": 12
+                },
+                {
+                    "name": "Oke Ero",
+                    "zone": "North-Central",
+                    "id": 13
+                },
+                {
+                    "name": "Oyun",
+                    "zone": "North-Central",
+                    "id": 14
+                },
+                {
+                    "name": "Pategi",
+                    "zone": "North-Central",
+                    "id": 15
+                },
+                {
+                    "name": "Ajeromi-Ifelodun",
+                    "zone": "South-West",
+                    "id": 1
+                },
+                {
+                    "name": "Alimosho",
+                    "zone": "South-West",
+                    "id": 2
+                },
+                {
+                    "name": "Amuwo-Odofin",
+                    "zone": "South-West",
+                    "id": 3
+                },
+                {
+                    "name": "Apapa",
+                    "zone": "South-West",
+                    "id": 4
+                },
+                {
+                    "name": "Badagry",
+                    "zone": "South-West",
+                    "id": 5
+                },
+                {
+                    "name": "Epe",
+                    "zone": "South-West",
+                    "id": 6
+                },
+                {
+                    "name": "Eti Osa",
+                    "zone": "South-West",
+                    "id": 7
+                },
+                {
+                    "name": "Ibeju-Lekki",
+                    "zone": "South-West",
+                    "id": 8
+                },
+                {
+                    "name": "Ifako-Ijaiye",
+                    "zone": "South-West",
+                    "id": 9
+                },
+                {
+                    "name": "Ikeja",
+                    "zone": "South-West",
+                    "id": 10
+                },
+                {
+                    "name": "Ikorodu",
+                    "zone": "South-West",
+                    "id": 11
+                },
+                {
+                    "name": "Kosofe",
+                    "zone": "South-West",
+                    "id": 12
+                },
+                {
+                    "name": "Lagos Island",
+                    "zone": "South-West",
+                    "id": 13
+                },
+                {
+                    "name": "Lagos Mainland",
+                    "zone": "South-West",
+                    "id": 14
+                },
+                {
+                    "name": "Mushin",
+                    "zone": "South-West",
+                    "id": 15
+                },
+                {
+                    "name": "Ojo",
+                    "zone": "South-West",
+                    "id": 16
+                },
+                {
+                    "name": "Oshodi-Isolo",
+                    "zone": "South-West",
+                    "id": 17
+                },
+                {
+                    "name": "Shomolu",
+                    "zone": "South-West",
+                    "id": 18
+                },
+                {
+                    "name": "Surulere",
+                    "zone": "South-West",
+                    "id": 19
+                },
+                {
+                    "name": "Awe",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Doma",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Karu",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Keana",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Keffi",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Kokona",
+                    "zone": "North-Central",
+                    "id": 6
+                },
+                {
+                    "name": "Lafia",
+                    "zone": "North-Central",
+                    "id": 7
+                },
+                {
+                    "name": "Nasarawa",
+                    "zone": "North-Central",
+                    "id": 8
+                },
+                {
+                    "name": "Nasarawa Egon",
+                    "zone": "North-Central",
+                    "id": 9
+                },
+                {
+                    "name": "Obi",
+                    "zone": "North-Central",
+                    "id": 10
+                },
+                {
+                    "name": "Toto",
+                    "zone": "North-Central",
+                    "id": 11
+                },
+                {
+                    "name": "Wamba",
+                    "zone": "North-Central",
+                    "id": 12
+                },
+                {
+                    "name": "Agwara",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Bida",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Borgu",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Bosso",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Chanchaga",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Edati",
+                    "zone": "North-Central",
+                    "id": 6
+                },
+                {
+                    "name": "Gbako",
+                    "zone": "North-Central",
+                    "id": 7
+                },
+                {
+                    "name": "Gurara",
+                    "zone": "North-Central",
+                    "id": 8
+                },
+                {
+                    "name": "Katcha",
+                    "zone": "North-Central",
+                    "id": 9
+                },
+                {
+                    "name": "Kontagora",
+                    "zone": "North-Central",
+                    "id": 10
+                },
+                {
+                    "name": "Lapai",
+                    "zone": "North-Central",
+                    "id": 11
+                },
+                {
+                    "name": "Lavun",
+                    "zone": "North-Central",
+                    "id": 12
+                },
+                {
+                    "name": "Magama",
+                    "zone": "North-Central",
+                    "id": 13
+                },
+                {
+                    "name": "Mariga",
+                    "zone": "North-Central",
+                    "id": 14
+                },
+                {
+                    "name": "Mashegu",
+                    "zone": "North-Central",
+                    "id": 15
+                },
+                {
+                    "name": "Mokwa",
+                    "zone": "North-Central",
+                    "id": 16
+                },
+                {
+                    "name": "Moya",
+                    "zone": "North-Central",
+                    "id": 17
+                },
+                {
+                    "name": "Paikoro",
+                    "zone": "North-Central",
+                    "id": 18
+                },
+                {
+                    "name": "Rafi",
+                    "zone": "North-Central",
+                    "id": 19
+                },
+                {
+                    "name": "Rijau",
+                    "zone": "North-Central",
+                    "id": 20
+                },
+                {
+                    "name": "Shiroro",
+                    "zone": "North-Central",
+                    "id": 21
+                },
+                {
+                    "name": "Suleja",
+                    "zone": "North-Central",
+                    "id": 22
+                },
+                {
+                    "name": "Tafa",
+                    "zone": "North-Central",
+                    "id": 23
+                },
+                {
+                    "name": "Wushishi",
+                    "zone": "North-Central",
+                    "id": 24
+                },
+                {
+                    "name": "Abeokuta South",
+                    "zone": "South-West",
+                    "id": 1
+                },
+                {
+                    "name": "Ado-Odo/Ota",
+                    "zone": "South-West",
+                    "id": 2
+                },
+                {
+                    "name": "Egbado North",
+                    "zone": "South-West",
+                    "id": 3
+                },
+                {
+                    "name": "Egbado South",
+                    "zone": "South-West",
+                    "id": 4
+                },
+                {
+                    "name": "Ewekoro",
+                    "zone": "South-West",
+                    "id": 5
+                },
+                {
+                    "name": "Ifo",
+                    "zone": "South-West",
+                    "id": 6
+                },
+                {
+                    "name": "Ijebu East",
+                    "zone": "South-West",
+                    "id": 7
+                },
+                {
+                    "name": "Ijebu North",
+                    "zone": "South-West",
+                    "id": 8
+                },
+                {
+                    "name": "Ijebu North East",
+                    "zone": "South-West",
+                    "id": 9
+                },
+                {
+                    "name": "Ijebu Ode",
+                    "zone": "South-West",
+                    "id": 10
+                },
+                {
+                    "name": "Ikenne",
+                    "zone": "South-West",
+                    "id": 11
+                },
+                {
+                    "name": "Imeko Afon",
+                    "zone": "South-West",
+                    "id": 12
+                },
+                {
+                    "name": "Ipokia",
+                    "zone": "South-West",
+                    "id": 13
+                },
+                {
+                    "name": "Obafemi Owode",
+                    "zone": "South-West",
+                    "id": 14
+                },
+                {
+                    "name": "Odeda",
+                    "zone": "South-West",
+                    "id": 15
+                },
+                {
+                    "name": "Odogbolu",
+                    "zone": "South-West",
+                    "id": 16
+                },
+                {
+                    "name": "Ogun Waterside",
+                    "zone": "South-West",
+                    "id": 17
+                },
+                {
+                    "name": "Remo North",
+                    "zone": "South-West",
+                    "id": 18
+                },
+                {
+                    "name": "Shagamu",
+                    "zone": "South-West",
+                    "id": 19
+                },
+                {
+                    "name": "Akoko North-West",
+                    "zone": "South-West",
+                    "id": 1
+                },
+                {
+                    "name": "Akoko South-West",
+                    "zone": "South-West",
+                    "id": 2
+                },
+                {
+                    "name": "Akoko South-East",
+                    "zone": "South-West",
+                    "id": 3
+                },
+                {
+                    "name": "Akure North",
+                    "zone": "South-West",
+                    "id": 4
+                },
+                {
+                    "name": "Akure South",
+                    "zone": "South-West",
+                    "id": 5
+                },
+                {
+                    "name": "Ese Odo",
+                    "zone": "South-West",
+                    "id": 6
+                },
+                {
+                    "name": "Idanre",
+                    "zone": "South-West",
+                    "id": 7
+                },
+                {
+                    "name": "Ifedore",
+                    "zone": "South-West",
+                    "id": 8
+                },
+                {
+                    "name": "Ilaje",
+                    "zone": "South-West",
+                    "id": 9
+                },
+                {
+                    "name": "Ile Oluji/Okeigbo",
+                    "zone": "South-West",
+                    "id": 10
+                },
+                {
+                    "name": "Irele",
+                    "zone": "South-West",
+                    "id": 11
+                },
+                {
+                    "name": "Odigbo",
+                    "zone": "South-West",
+                    "id": 12
+                },
+                {
+                    "name": "Okitipupa",
+                    "zone": "South-West",
+                    "id": 13
+                },
+                {
+                    "name": "Ondo East",
+                    "zone": "South-West",
+                    "id": 14
+                },
+                {
+                    "name": "Ondo West",
+                    "zone": "South-West",
+                    "id": 15
+                },
+                {
+                    "name": "Ose",
+                    "zone": "South-West",
+                    "id": 16
+                },
+                {
+                    "name": "Owo",
+                    "zone": "South-West",
+                    "id": 17
+                },
+                {
+                    "name": "Atakunmosa West",
+                    "zone": "South-West",
+                    "id": 1
+                },
+                {
+                    "name": "Aiyedaade",
+                    "zone": "South-West",
+                    "id": 2
+                },
+                {
+                    "name": "Aiyedire",
+                    "zone": "South-West",
+                    "id": 3
+                },
+                {
+                    "name": "Boluwaduro",
+                    "zone": "South-West",
+                    "id": 4
+                },
+                {
+                    "name": "Boripe",
+                    "zone": "South-West",
+                    "id": 5
+                },
+                {
+                    "name": "Ede North",
+                    "zone": "South-West",
+                    "id": 6
+                },
+                {
+                    "name": "Ede South",
+                    "zone": "South-West",
+                    "id": 7
+                },
+                {
+                    "name": "Ife Central",
+                    "zone": "South-West",
+                    "id": 8
+                },
+                {
+                    "name": "Ife East",
+                    "zone": "South-West",
+                    "id": 9
+                },
+                {
+                    "name": "Ife North",
+                    "zone": "South-West",
+                    "id": 10
+                },
+                {
+                    "name": "Ife South",
+                    "zone": "South-West",
+                    "id": 11
+                },
+                {
+                    "name": "Egbedore",
+                    "zone": "South-West",
+                    "id": 12
+                },
+                {
+                    "name": "Ejigbo",
+                    "zone": "South-West",
+                    "id": 13
+                },
+                {
+                    "name": "Ifedayo",
+                    "zone": "South-West",
+                    "id": 14
+                },
+                {
+                    "name": "Ifelodun",
+                    "zone": "South-West",
+                    "id": 15
+                },
+                {
+                    "name": "Ila",
+                    "zone": "South-West",
+                    "id": 16
+                },
+                {
+                    "name": "Ilesa East",
+                    "zone": "South-West",
+                    "id": 17
+                },
+                {
+                    "name": "Ilesa West",
+                    "zone": "South-West",
+                    "id": 18
+                },
+                {
+                    "name": "Irepodun",
+                    "zone": "South-West",
+                    "id": 19
+                },
+                {
+                    "name": "Irewole",
+                    "zone": "South-West",
+                    "id": 20
+                },
+                {
+                    "name": "Isokan",
+                    "zone": "South-West",
+                    "id": 21
+                },
+                {
+                    "name": "Iwo",
+                    "zone": "South-West",
+                    "id": 22
+                },
+                {
+                    "name": "Obokun",
+                    "zone": "South-West",
+                    "id": 23
+                },
+                {
+                    "name": "Odo Otin",
+                    "zone": "South-West",
+                    "id": 24
+                },
+                {
+                    "name": "Ola Oluwa",
+                    "zone": "South-West",
+                    "id": 25
+                },
+                {
+                    "name": "Olorunda",
+                    "zone": "South-West",
+                    "id": 26
+                },
+                {
+                    "name": "Oriade",
+                    "zone": "South-West",
+                    "id": 27
+                },
+                {
+                    "name": "Orolu",
+                    "zone": "South-West",
+                    "id": 28
+                },
+                {
+                    "name": "Osogbo",
+                    "zone": "South-West",
+                    "id": 29
+                },
+                {
+                    "name": "Akinyele",
+                    "zone": "South-West",
+                    "id": 1
+                },
+                {
+                    "name": "Atiba",
+                    "zone": "South-West",
+                    "id": 2
+                },
+                {
+                    "name": "Atisbo",
+                    "zone": "South-West",
+                    "id": 3
+                },
+                {
+                    "name": "Egbeda",
+                    "zone": "South-West",
+                    "id": 4
+                },
+                {
+                    "name": "Ibadan North",
+                    "zone": "South-West",
+                    "id": 5
+                },
+                {
+                    "name": "Ibadan North-East",
+                    "zone": "South-West",
+                    "id": 6
+                },
+                {
+                    "name": "Ibadan North-West",
+                    "zone": "South-West",
+                    "id": 7
+                },
+                {
+                    "name": "Ibadan South-East",
+                    "zone": "South-West",
+                    "id": 8
+                },
+                {
+                    "name": "Ibadan South-West",
+                    "zone": "South-West",
+                    "id": 9
+                },
+                {
+                    "name": "Ibarapa Central",
+                    "zone": "South-West",
+                    "id": 10
+                },
+                {
+                    "name": "Ibarapa East",
+                    "zone": "South-West",
+                    "id": 11
+                },
+                {
+                    "name": "Ibarapa North",
+                    "zone": "South-West",
+                    "id": 12
+                },
+                {
+                    "name": "Ido",
+                    "zone": "South-West",
+                    "id": 13
+                },
+                {
+                    "name": "Irepo",
+                    "zone": "South-West",
+                    "id": 14
+                },
+                {
+                    "name": "Iseyin",
+                    "zone": "South-West",
+                    "id": 15
+                },
+                {
+                    "name": "Itesiwaju",
+                    "zone": "South-West",
+                    "id": 16
+                },
+                {
+                    "name": "Iwajowa",
+                    "zone": "South-West",
+                    "id": 17
+                },
+                {
+                    "name": "Kajola",
+                    "zone": "South-West",
+                    "id": 18
+                },
+                {
+                    "name": "Lagelu",
+                    "zone": "South-West",
+                    "id": 19
+                },
+                {
+                    "name": "Ogbomosho North",
+                    "zone": "South-West",
+                    "id": 20
+                },
+                {
+                    "name": "Ogbomosho South",
+                    "zone": "South-West",
+                    "id": 21
+                },
+                {
+                    "name": "Ogo Oluwa",
+                    "zone": "South-West",
+                    "id": 22
+                },
+                {
+                    "name": "Olorunsogo",
+                    "zone": "South-West",
+                    "id": 23
+                },
+                {
+                    "name": "Oluyole",
+                    "zone": "South-West",
+                    "id": 24
+                },
+                {
+                    "name": "Ona Ara",
+                    "zone": "South-West",
+                    "id": 25
+                },
+                {
+                    "name": "Orelope",
+                    "zone": "South-West",
+                    "id": 26
+                },
+                {
+                    "name": "Ori Ire",
+                    "zone": "South-West",
+                    "id": 27
+                },
+                {
+                    "name": "Oyo",
+                    "zone": "South-West",
+                    "id": 28
+                },
+                {
+                    "name": "Oyo East",
+                    "zone": "South-West",
+                    "id": 29
+                },
+                {
+                    "name": "Saki East",
+                    "zone": "South-West",
+                    "id": 30
+                },
+                {
+                    "name": "Saki West",
+                    "zone": "South-West",
+                    "id": 31
+                },
+                {
+                    "name": "Surulere",
+                    "zone": "South-West",
+                    "id": 32
+                },
+                {
+                    "name": "Barkin Ladi",
+                    "zone": "North-Central",
+                    "id": 1
+                },
+                {
+                    "name": "Bassa",
+                    "zone": "North-Central",
+                    "id": 2
+                },
+                {
+                    "name": "Jos East",
+                    "zone": "North-Central",
+                    "id": 3
+                },
+                {
+                    "name": "Jos North",
+                    "zone": "North-Central",
+                    "id": 4
+                },
+                {
+                    "name": "Jos South",
+                    "zone": "North-Central",
+                    "id": 5
+                },
+                {
+                    "name": "Kanam",
+                    "zone": "North-Central",
+                    "id": 6
+                },
+                {
+                    "name": "Kanke",
+                    "zone": "North-Central",
+                    "id": 7
+                },
+                {
+                    "name": "Langtang South",
+                    "zone": "North-Central",
+                    "id": 8
+                },
+                {
+                    "name": "Langtang North",
+                    "zone": "North-Central",
+                    "id": 9
+                },
+                {
+                    "name": "Mangu",
+                    "zone": "North-Central",
+                    "id": 10
+                },
+                {
+                    "name": "Mikang",
+                    "zone": "North-Central",
+                    "id": 11
+                },
+                {
+                    "name": "Pankshin",
+                    "zone": "North-Central",
+                    "id": 12
+                },
+                {
+                    "name": "Qua'an Pan",
+                    "zone": "North-Central",
+                    "id": 13
+                },
+                {
+                    "name": "Riyom",
+                    "zone": "North-Central",
+                    "id": 14
+                },
+                {
+                    "name": "Shendam",
+                    "zone": "North-Central",
+                    "id": 15
+                },
+                {
+                    "name": "Wase",
+                    "zone": "North-Central",
+                    "id": 16
+                },
+                {
+                    "name": "Ahoada East",
+                    "zone": "South-South",
+                    "id": 1
+                },
+                {
+                    "name": "Ahoada West",
+                    "zone": "South-South",
+                    "id": 2
+                },
+                {
+                    "name": "Akuku-Toru",
+                    "zone": "South-South",
+                    "id": 3
+                },
+                {
+                    "name": "Andoni",
+                    "zone": "South-South",
+                    "id": 4
+                },
+                {
+                    "name": "Asari-Toru",
+                    "zone": "South-South",
+                    "id": 5
+                },
+                {
+                    "name": "Bonny",
+                    "zone": "South-South",
+                    "id": 6
+                },
+                {
+                    "name": "Degema",
+                    "zone": "South-South",
+                    "id": 7
+                },
+                {
+                    "name": "Eleme",
+                    "zone": "South-South",
+                    "id": 8
+                },
+                {
+                    "name": "Emuoha",
+                    "zone": "South-South",
+                    "id": 9
+                },
+                {
+                    "name": "Etche",
+                    "zone": "South-South",
+                    "id": 10
+                },
+                {
+                    "name": "Gokana",
+                    "zone": "South-South",
+                    "id": 11
+                },
+                {
+                    "name": "Ikwerre",
+                    "zone": "South-South",
+                    "id": 12
+                },
+                {
+                    "name": "Khana",
+                    "zone": "South-South",
+                    "id": 13
+                },
+                {
+                    "name": "Obio/Akpor",
+                    "zone": "South-South",
+                    "id": 14
+                },
+                {
+                    "name": "Ogba/Egbema/Ndoni",
+                    "zone": "South-South",
+                    "id": 15
+                },
+                {
+                    "name": "Ogu/Bolo",
+                    "zone": "South-South",
+                    "id": 16
+                },
+                {
+                    "name": "Okrika",
+                    "zone": "South-South",
+                    "id": 17
+                },
+                {
+                    "name": "Omuma",
+                    "zone": "South-South",
+                    "id": 18
+                },
+                {
+                    "name": "Opobo/Nkoro",
+                    "zone": "South-South",
+                    "id": 19
+                },
+                {
+                    "name": "Oyigbo",
+                    "zone": "South-South",
+                    "id": 20
+                },
+                {
+                    "name": "Port Harcourt",
+                    "zone": "South-South",
+                    "id": 21
+                },
+                {
+                    "name": "Tai",
+                    "zone": "South-South",
+                    "id": 22
+                },
+                {
+                    "name": "Bodinga",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Dange Shuni",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Gada",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Goronyo",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Gudu",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Gwadabawa",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Illela",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Isa",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Kebbe",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Kware",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Rabah",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Sabon Birni",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Shagari",
+                    "zone": "North-West",
+                    "id": 13
+                },
+                {
+                    "name": "Silame",
+                    "zone": "North-West",
+                    "id": 14
+                },
+                {
+                    "name": "Sokoto North",
+                    "zone": "North-West",
+                    "id": 15
+                },
+                {
+                    "name": "Sokoto South",
+                    "zone": "North-West",
+                    "id": 16
+                },
+                {
+                    "name": "Tambuwal",
+                    "zone": "North-West",
+                    "id": 17
+                },
+                {
+                    "name": "Tangaza",
+                    "zone": "North-West",
+                    "id": 18
+                },
+                {
+                    "name": "Tureta",
+                    "zone": "North-West",
+                    "id": 19
+                },
+                {
+                    "name": "Wamako",
+                    "zone": "North-West",
+                    "id": 20
+                },
+                {
+                    "name": "Wurno",
+                    "zone": "North-West",
+                    "id": 21
+                },
+                {
+                    "name": "Yabo",
+                    "zone": "North-West",
+                    "id": 22
+                },
+                {
+                    "name": "Bali",
+                    "zone": "Nort-East",
+                    "id": 1
+                },
+                {
+                    "name": "Donga",
+                    "zone": "Nort-East",
+                    "id": 2
+                },
+                {
+                    "name": "Gashaka",
+                    "zone": "Nort-East",
+                    "id": 3
+                },
+                {
+                    "name": "Gassol",
+                    "zone": "Nort-East",
+                    "id": 4
+                },
+                {
+                    "name": "Ibi",
+                    "zone": "Nort-East",
+                    "id": 5
+                },
+                {
+                    "name": "Jalingo",
+                    "zone": "Nort-East",
+                    "id": 6
+                },
+                {
+                    "name": "Karim Lamido",
+                    "zone": "Nort-East",
+                    "id": 7
+                },
+                {
+                    "name": "Kumi",
+                    "zone": "Nort-East",
+                    "id": 8
+                },
+                {
+                    "name": "Lau",
+                    "zone": "Nort-East",
+                    "id": 9
+                },
+                {
+                    "name": "Sardauna",
+                    "zone": "Nort-East",
+                    "id": 10
+                },
+                {
+                    "name": "Takum",
+                    "zone": "Nort-East",
+                    "id": 11
+                },
+                {
+                    "name": "Ussa",
+                    "zone": "Nort-East",
+                    "id": 12
+                },
+                {
+                    "name": "Wukari",
+                    "zone": "Nort-East",
+                    "id": 13
+                },
+                {
+                    "name": "Yorro",
+                    "zone": "Nort-East",
+                    "id": 14
+                },
+                {
+                    "name": "Zing",
+                    "zone": "Nort-East",
+                    "id": 15
+                },
+                {
+                    "name": "Bursari",
+                    "zone": "Nort-East",
+                    "id": 1
+                },
+                {
+                    "name": "Damaturu",
+                    "zone": "Nort-East",
+                    "id": 2
+                },
+                {
+                    "name": "Fika",
+                    "zone": "Nort-East",
+                    "id": 3
+                },
+                {
+                    "name": "Fune",
+                    "zone": "Nort-East",
+                    "id": 4
+                },
+                {
+                    "name": "Geidam",
+                    "zone": "Nort-East",
+                    "id": 5
+                },
+                {
+                    "name": "Gujba",
+                    "zone": "Nort-East",
+                    "id": 6
+                },
+                {
+                    "name": "Gulani",
+                    "zone": "Nort-East",
+                    "id": 7
+                },
+                {
+                    "name": "Jakusko",
+                    "zone": "Nort-East",
+                    "id": 8
+                },
+                {
+                    "name": "Karasuwa",
+                    "zone": "Nort-East",
+                    "id": 9
+                },
+                {
+                    "name": "Machina",
+                    "zone": "Nort-East",
+                    "id": 10
+                },
+                {
+                    "name": "Nangere",
+                    "zone": "Nort-East",
+                    "id": 11
+                },
+                {
+                    "name": "Nguru",
+                    "zone": "Nort-East",
+                    "id": 12
+                },
+                {
+                    "name": "Potiskum",
+                    "zone": "Nort-East",
+                    "id": 13
+                },
+                {
+                    "name": "Tarmuwa",
+                    "zone": "Nort-East",
+                    "id": 14
+                },
+                {
+                    "name": "Yunusari",
+                    "zone": "Nort-East",
+                    "id": 15
+                },
+                {
+                    "name": "Yusufari",
+                    "zone": "Nort-East",
+                    "id": 16
+                },
+                {
+                    "name": "Bakura",
+                    "zone": "North-West",
+                    "id": 1
+                },
+                {
+                    "name": "Birnin Magaji/Kiyaw",
+                    "zone": "North-West",
+                    "id": 2
+                },
+                {
+                    "name": "Bukkuyum",
+                    "zone": "North-West",
+                    "id": 3
+                },
+                {
+                    "name": "Bungudu",
+                    "zone": "North-West",
+                    "id": 4
+                },
+                {
+                    "name": "Gummi",
+                    "zone": "North-West",
+                    "id": 5
+                },
+                {
+                    "name": "Gusau",
+                    "zone": "North-West",
+                    "id": 6
+                },
+                {
+                    "name": "Kaura Namoda",
+                    "zone": "North-West",
+                    "id": 7
+                },
+                {
+                    "name": "Maradun",
+                    "zone": "North-West",
+                    "id": 8
+                },
+                {
+                    "name": "Maru",
+                    "zone": "North-West",
+                    "id": 9
+                },
+                {
+                    "name": "Shinkafi",
+                    "zone": "North-West",
+                    "id": 10
+                },
+                {
+                    "name": "Talata Mafara",
+                    "zone": "North-West",
+                    "id": 11
+                },
+                {
+                    "name": "Chafe",
+                    "zone": "North-West",
+                    "id": 12
+                },
+                {
+                    "name": "Zurmi",
+                    "zone": "North-West",
+                    "id": 13
+                }
+
+
+    
+]

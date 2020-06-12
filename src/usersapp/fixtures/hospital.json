@@ -1,0 +1,964 @@
+[
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "1",
+        "fields":{
+            "name": "Abia State University Teaching Hospital",
+            "type": "Government",
+            "address": "Umueze Road Abayi, Aba, Abia State Nigeria",
+            "email": "info@absuthng.org",
+            "phone": "0806 500 000",
+            "mortuary": "available",
+            "id": "1"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "2",
+        "fields":{
+            "name": "Ekeoma Memorial Hospital",
+            "type": "Private",
+            "address": "15 Scotland Crescent, Aba, Abia State Nigeria",
+            "email": "ekeomamemorialhospital@yahoo.com",
+            "phone": "08037079432",
+            "mortuary": "available",
+            "id": "2"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "3",
+        "fields":{
+            "name": "Federal Medical Centre, Yola",
+            "type": "Government",
+            "address": "Lamido Zubairu Road, Yola-Town Bye Pass, Adamawa State, Nigeria",
+            "email": "info@fmcyola.com.ng",
+            "phone": "0803 928 1553",
+            "mortuary": "available",
+            "id": "3"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "4",
+        "fields":{
+            "name": "New Life Hospital",
+            "type": "private",
+            "address": "No 2 Lokuwa Ward, Mubi, Adamawa State Nigeria",
+            "email": "newlife@yahoo.com",
+            "phone": "0802 249 5449",
+            "mortuary": "available",
+            "id": "4"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "5",
+        "fields":{
+            "name": "University of Uyo Teaching Hospital",
+            "type": "Government",
+            "address": "Abak Road, before Ekom Iman junction, Uyo, Akwa-Ibom Nigeria",
+            "email": "info@uuthuyo.net",
+            "phone": "0806 011 1771",
+            "mortuary": "available",
+            "id": "5"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "6",
+        "fields":{
+            "name": "Samaritan Hospital",
+            "type": "Private",
+            "address": "7 Ekong Uko, Eket, Akwa Ibom State Nigeria",
+            "email": "support@samaritanclinics.com",
+            "phone": "0806 475 2204",
+            "mortuary": "available",
+            "id": "6"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "7",
+        "fields":{
+            "name": "Toronto Hospital Nigeria Ltd",
+            "type": "Private",
+            "address": "2 Upper Niger Bridge Road, Onitsha, Anambra Nigeria",
+            "email": "torontohospital@yahoo.com",
+            "phone": "0808 170 0700",
+            "mortuary": "available",
+            "id": "7"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "8",
+        "fields":{
+            "name": "Nnamdi Azikiwe Teaching Hospital",
+            "type": "Government",
+            "address": "Old Oba-Nnewi Road, Nnewi, Anambra State Nigeria",
+            "email": "info@nau.org",
+            "phone": "0806 850 6910",
+            "mortuary": "available",
+            "id": "8"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "9",
+        "fields":{
+            "name": "Abubakar Tafawa Balewa University Teaching Hospital",
+            "type": "Government",
+            "address": "Yelwa Dass Road, Bauchi, Bauchi State Nigeria",
+            "email": "info@atbuth.org.ng",
+            "phone": "077543500",
+            "mortuary": "available",
+            "id": "9"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "10",
+        "fields":{
+            "name": "Al-Ameen Hospital",
+            "type": "Private",
+            "address": "Nassarawa gate, Bauchi, Bauchi State Nigeria",
+            "email": "info@alameennigeria.com",
+            "phone": "08166601660",
+            "mortuary": "none",
+            "id": "10"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "11",
+        "fields":{
+            "name": "Federal Medical Centre, Yenagoa",
+            "type": "Government",
+            "address": "Hospital Road Ovom, Yenegoa, Bayelsa State Nigeria",
+            "email": "info@fmcyenagoa.org.ng",
+            "phone": "0906 000 1156",
+            "mortuary": "available",
+            "id": "11"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "12",
+        "fields":{
+            "name": "Niger Delta University Teaching Hospital",
+            "type": "Government",
+            "address": "Okolobiri, Gbarain-Ekpetiama Yenagoa, Bayelsa State Nigeria",
+            "email": "info@nduth.org.ng",
+            "phone": "0806 137 5047",
+            "mortuary": "available",
+            "id": "12"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "13",
+        "fields":{
+            "name": "Benue State University Teaching Hospital",
+            "type": "Government",
+            "address": "Kilometer 3, Makurdi-Gboko Road, Makurdi, Benue State Nigeria",
+            "email": "inquiries@bsuth.org.ng",
+            "phone": "08066841838",
+            "mortuary": "available",
+            "id": "13"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "14",
+        "fields":{
+            "name": "Royal Specialist Hospital",
+            "type": "Government",
+            "address": "1 Agatu Street, Behind UBA Bank, Otukpo, Benue State Nigeria",
+            "email": "info@royalspecialisthospital.com",
+            "phone": "0813 471 2000",
+            "mortuary": "available",
+            "id": "14"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "15",
+        "fields":{
+            "name": "University of Maiduguri Teaching Hospital",
+            "type": "Government",
+            "address": "Bama Road, Maiduguri, Borno State Nigeria",
+            "email": "info@umth.org",
+            "phone": "0909 305 0548",
+            "mortuary": "available",
+            "id": "15"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "16",
+        "fields":{
+            "name": "General Hospital",
+            "type": "Government",
+            "address": "Chibok Local Government Area, Chibok, Borno Nigeria",
+            "email": "governmenthospitalchibok@yahoo.com",
+            "phone": "0803 345 6077",
+            "mortuary": "available",
+            "id": "16"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "17",
+        "fields":{
+            "name": "Arubah Specialist Hospital & Diagnostics",
+            "type": "Private",
+            "address": "23 Nsefik Eyo Close, Off Fiesta Fries, Ndiden Usang Iso Road, Calabar, Cross River, Nigeria",
+            "email": "arubah@yahoo.com",
+            "phone": "0708 543 1093",
+            "mortuary": "info@arubahspecialisthospital.com",
+            "id": "17"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "18",
+        "fields":{
+            "name": "Victoria Medical Centre",
+            "type": "Private",
+            "address": "No 101, Ndidem Usang Iso/Marian Road, Calabar, Cross River State, Nigeria",
+            "email": "victorialmedicalcentre@gmail.com",
+            "phone": "0706 360 3463",
+            "mortuary": "available",
+            "id": "18"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "19",
+        "fields":{
+            "name": "Delta State University Teaching Hospital",
+            "type": "Government",
+            "address": "Otefe Road, off Benin-Warri Express Way, Oghara, Delta State Nigeria",
+            "email": "info@delsuth.com.ng",
+            "phone": "0813 270 7598",
+            "mortuary": "available",
+            "id": "19"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "20",
+        "fields":{
+            "name": "Bryants Hospital Limited",
+            "type": "Private",
+            "address": "No 13 Eti Street, Off Emebiren, Okumagba, Warri, Delta State, Nigeria",
+            "email": "bryantshospital@hotmail.com",
+            "phone": "0706 266 3989",
+            "mortuary": "available",
+            "id": "20"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "21",
+        "fields":{
+            "name": "Federal Teaching Hospital",
+            "type": "Government",
+            "address": "Aba Road, Opposite Police Barracks, Abakaliki, Ebonyi State, Nigeria",
+            "email": "fth@yahoo.com",
+            "phone": "0815 391 7440",
+            "mortuary": "available",
+            "id": "21"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "22",
+        "fields":{
+            "name": "Mater Misericordiae Hospital",
+            "type": "Government/private",
+            "address": "No 1 Mater Misericordiae Road, Afikpo, Ebonyi State Nigeria",
+            "email": "mmh@yahoo.com",
+            "phone": "0703 705 4713",
+            "mortuary": "available",
+            "id": "22"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "23",
+        "fields":{
+            "name": "University of Benin Teaching Hospital (UBTH)",
+            "type": "Government",
+            "address": "Ugbowo Lagos Road, Benin City, Edo State Nigeria",
+            "email": "info@ubth.org",
+            "phone": "0802 253 5595",
+            "mortuary": "available",
+            "id": "23"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "24",
+        "fields":{
+            "name": "St Philomena Catholic Hospital",
+            "type": "Private",
+            "address": "No 23, Dawson Road off Akpakpava Road, Oredo Benin City, Edo State Nigeria",
+            "email": "stphilomena@gmailcom",
+            "phone": "0807 159 3114",
+            "mortuary": "available",
+            "id": "24"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "25",
+        "fields":{
+            "name": "Ekiti State University Teaching Hospital",
+            "type": "Government",
+            "address": "No 1 Teaching Hospital Road, Ado Ekiti, Ekiti State, Nigeria",
+            "email": "info@eksuth.org",
+            "phone": "0803 453 1236",
+            "mortuary": "available",
+            "id": "25"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "26",
+        "fields":{
+            "name": "Federal Medical Center Ado-Ekiti",
+            "type": "Government",
+            "address": "Fayose Housing Estate, Ilawe Road, Ado-Ekiti, Ekiti State, Nigeria",
+            "email": "fmcado@hotmail.com",
+            "phone": "0806 312 4350",
+            "mortuary": "available",
+            "id": "26"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "27",
+        "fields":{
+            "name": "University of Nigeria Teaching Hospital",
+            "type": "Government",
+            "address": "Ituku-Ozalla, Ituku, Enugu, Nigeria",
+            "email": "info@unthenugu.com.ng",
+            "phone": "0708 662 8572",
+            "mortuary": "available",
+            "id": "27"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "28",
+        "fields":{
+            "name": "Annunciation Specialist Hospital",
+            "type": "Private",
+            "address": "Plot 27, Annunciation Hospital Road, Emene, Enugu State",
+            "email": "ashemene@yahoo.com",
+            "phone": "0803 666 3990",
+            "mortuary": "available",
+            "id": "28"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "29",
+        "fields":{
+            "name": "National Hospital Abuja",
+            "type": "Government",
+            "address": "Plot 132 Central Business District Phase, Garki, FCT, Nigeria",
+            "email": "contact@nationalhospital.gov.ng",
+            "phone": "0809 762 752 0012",
+            "mortuary": "available",
+            "id": "29"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "30",
+        "fields":{
+            "name": "Wellington Clinics Abuja",
+            "type": "Private",
+            "address": "10, Vanern Crescent, off Euphrate Street, Maitama, Abuja FCT Nigeria",
+            "email": "info@wellingtonclinicsabuja.com",
+            "phone": "0816 870 4327",
+            "mortuary": "available",
+            "id": "30"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "31",
+        "fields":{
+            "name": "Federal Medical Center Gombe",
+            "type": "Government",
+            "address": "Ashaka Road, Gombe, Gombe State",
+            "email": "fmcgombe@hotmail.com",
+            "phone": "07081456608",
+            "mortuary": "available",
+            "id": "31"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "32",
+        "fields":{
+            "name": "General Hospital",
+            "type": "Government",
+            "address": "Behind School Of Health Technology, Kaltungo, Gombe State Nigeria",
+            "email": "gh@yahoo.com",
+            "phone": "08039922355",
+            "mortuary": "available",
+            "id": "32"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "33",
+        "fields":{
+            "name": "Umezuruike Hospital",
+            "type": "Government",
+            "address": "Plot 21/22 Umezuruike Street, Owerri, Imo State Nigeria",
+            "email": "info@umezuruikehospital.com",
+            "phone": "0813 390 7095",
+            "mortuary": "available",
+            "id": "33"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "34",
+        "fields":{
+            "name": "Imo State University Teaching Hospital (IMSUTH)",
+            "type": "Government",
+            "address": "Imo State University Teaching Hospital (IMSUTH) Orlu, Owerri, Imo State Nigeria",
+            "email": "info@imsuth.org",
+            "phone": "0803 310 7758",
+            "mortuary": "available",
+            "id": "34"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "35",
+        "fields":{
+            "name": "General Hospital",
+            "type": "Government",
+            "address": "Kafin Hausa Road, Jahun, Dutse, Jigawa Nigeria",
+            "email": "ghjigawa@yahoo.com",
+            "phone": "08034229293",
+            "mortuary": "available",
+            "id": "35"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "36",
+        "fields":{
+            "name": "Federal Medical Center, Birnin-Kudu",
+            "type": "Government",
+            "address": "Birnin-Kudu, Dutse, Jigawa Nigeria",
+            "email": "fmckudu@hotmail.com",
+            "phone": "09088977655",
+            "mortuary": "available",
+            "id": "36"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "37",
+        "fields":{
+            "name": "Ahmadu Bello University Teaching Hospital, Zaria",
+            "type": "Government",
+            "address": "Zaria, Zaria, Kaduna, Nigeria",
+            "email": "info@abuth.org",
+            "phone": "08034521768",
+            "mortuary": "available",
+            "id": "37"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "38",
+        "fields":{
+            "name": "St. Gerard's Catholic Hospital",
+            "type": "Private",
+            "address": "Kachia Road, Kakuri Mekara Kaduna South, Kaduna Nigeria",
+            "email": "info@stgch.org",
+            "phone": "0905 396 4050",
+            "mortuary": "available",
+            "id": "38"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "39",
+        "fields":{
+            "name": "Aminu Kano Teaching Hospital",
+            "type": "Government",
+            "address": "1 Zaria Road, Kano, Kano Nigeria",
+            "email": "info@akth.org.ng",
+            "phone": "0706 829 7399",
+            "mortuary": "available",
+            "id": "39"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "40",
+        "fields":{
+            "name": "Murtala Mohammed Specialist Hospital",
+            "type": "Government",
+            "address": "Mohammed Abdulahi Wase Road, Kano Municipal, Kano Nigeria",
+            "email": "mmsh@hotmailcom",
+            "phone": "0803 643 0059",
+            "mortuary": "available",
+            "id": "40"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "41",
+        "fields":{
+            "name": "Federal Medical Center, Katsina",
+            "type": "Government",
+            "address": "Murtala Muhammad Way, Jibia Bypass, Katsina, Katsina Nigeria",
+            "email": "fmckatsina@yahoo.com",
+            "phone": "08077766655",
+            "mortuary": "available",
+            "id": "41"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "42",
+        "fields":{
+            "name": "General Hospital Katsina",
+            "type": "Government",
+            "address": "Dusima Street, Dutsin Ma, Katsina, Katsina State Nigeria",
+            "email": "ghkatsina@yahoo.com",
+            "phone": "08036284025",
+            "mortuary": "available",
+            "id": "42"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "43",
+        "fields":{
+            "name": "Federal Medical Centre",
+            "type": "Government",
+            "address": "Bukku Barrack Road, Birnin-Kebbi, Kebbi State, Nigeria",
+            "email": "fmckebbi@hotmail.com",
+            "phone": "08033053012",
+            "mortuary": "available",
+            "id": "43"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "44",
+        "fields":{
+            "name": "Sir Yahaya Memorial Hospital",
+            "type": "Private",
+            "address": "Haliru Abdu Road, Birnin Kebbi, Kebbi Nigeria",
+            "email": "symh@siryahayahospital.com",
+            "phone": "08035978511",
+            "mortuary": "not available",
+            "id": "44"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "45",
+        "fields":{
+            "name": "Federal Medical Centre, Lokoja",
+            "type": "Government",
+            "address": "No 1, Salihu Ibrahim Road, Lokoja, Kogi, Nigeria",
+            "email": "fmclokoja@gmail.com",
+            "phone": "0803 698 2781",
+            "mortuary": "available",
+            "id": "45"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "46",
+        "fields":{
+            "name": "ECWA Hospital",
+            "type": "Private",
+            "address": "5 Hospital Road, Egbe, Kogi State Nigeria",
+            "email": "ecwahospital@gmail.com",
+            "phone": "0815 740 6024",
+            "mortuary": "not available",
+            "id": "46"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "47",
+        "fields":{
+            "name": "University of Ilorin Teaching Hospital",
+            "type": "Government",
+            "address": "Umar Saro Road, Ilorin, Kwara State Nigeria",
+            "email": "info@uith.org",
+            "phone": "0803 730 1311",
+            "mortuary": "available",
+            "id": "47"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "48",
+        "fields":{
+            "name": "Anchormed Hospital",
+            "type": "Private",
+            "address": "Niyi Aniyikaiye Street, Tanke, Ilorin, Kwara State Nigeria",
+            "email": "info@anchormedhospital.com",
+            "phone": "0803 830 8465",
+            "mortuary": "not avalable",
+            "id": "48"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "49",
+        "fields":{
+            "name": "St. Nicholas Hospital",
+            "type": "Private",
+            "address": "57 Campbell Street, Lagos Island, Lagos, Nigeria",
+            "email": "info@saintnicholashospital.com",
+            "phone": "0803 525 1295",
+            "mortuary": "available",
+            "id": "49"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "50",
+        "fields":{
+            "name": "Lagos University Teaching Hospital",
+            "type": "Government",
+            "address": "Ishaga Road, Idi-Araba, Lagos Nigeria",
+            "email": "info@luth.org.ng",
+            "phone": "0807 059 1472",
+            "mortuary": "",
+            "id": "50"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "51",
+        "fields":{
+            "name": "The Chrane Hospital",
+            "type": "Private",
+            "address": "Opposite St. Paul's Anglican Church Junction, Lafia, Nasarawa Nigeria",
+            "email": "thechrane@yahoo.com",
+            "phone": "0803 450 0221",
+            "mortuary": "not available",
+            "id":"51"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "52",
+        "fields":{
+            "name": "Nagari Allah Magai Hospital",
+            "type": "Private",
+            "address": "No 10 Abubakar Burha Road, Keffi, Nasarawa State Nigeria",
+            "email": "namh@yahoo.com",
+            "phone": "0805 267 7816",
+            "mortuary": "not available",
+            "id": "52"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "53",
+        "fields":{
+            "name": "Berith Specialist Hospital",
+            "type": "Private",
+            "address": "Plot 16087 Minna Road Kwamba Layout, Suleja, Niger State Nigeria",
+            "email": "info@berithspecialisthospital.com",
+            "phone": "0705 869 4388",
+            "mortuary": "available",
+            "id": "53"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "54",
+        "fields":{
+            "name": "Federal Medical Centre",
+            "type": "Government",
+            "address": "4 Efu Etsu Yisa Ward, Bida, Minna, Niger State, Nigeria",
+            "email": "fmcminna@hotmail.com",
+            "phone": "08035951074",
+            "mortuary": "available",
+            "id": "54"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "55",
+        "fields":{
+            "name": "Olabisi Onabanjo University Teaching Hospital",
+            "type": "Government",
+            "address": "Hospital Road, Sagamu, Ogun State",
+            "email": "info@oouth.com",
+            "phone": "08058376736",
+            "mortuary": "available",
+            "id": "55"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "56",
+        "fields":{
+            "name": "Federal Medical Centre, Abeokuta",
+            "type": "Government",
+            "address": "Olabisi Onabanjo Way, Idi-Aba, Abeokuta, Ogun, Nigeria",
+            "email": "info@fmcabeokuta.org",
+            "phone": "0809 594 7913",
+            "mortuary": "available",
+            "id": "56"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "57",
+        "fields":{
+            "name": "St. Louis Catholic Specialist Hospital",
+            "type": "Private",
+            "address": "1043, Oke Ogun Street, Owo, Ondo State, Nigeria",
+            "email": "info@stlouishospitalowo.org",
+            "phone": "0806 696 2724",
+            "mortuary": "available",
+            "id": "57"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "58",
+        "fields":{
+            "name": "Federal Medical Centre, Owo",
+            "type": "Government",
+            "address": "Adekunle Ajasin Road, Owo, Ondo, Nigeria",
+            "email": "fmcowo@hotmail.com",
+            "phone": "0803 509 4545",
+            "mortuary": "available",
+            "id": "58"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "59",
+        "fields":{
+            "name": "Obafemi Awolowo University Teaching Hospital",
+            "type": "Government",
+            "address": "Ilesa Road, Ile-Ife, Osun State Nigeria",
+            "email": "info@oauthc.com",
+            "phone": "0815 209 2751",
+            "mortuary": "available",
+            "id": "59"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "60",
+        "fields":{
+            "name": "Lautech Teaching Hospital, Osogbo",
+            "type": "Government",
+            "address": "Oshogbo, , Osun Nigeria",
+            "email": "info@lth.org",
+            "phone": "07033328615",
+            "mortuary": "available",
+            "id": "60"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "61",
+        "fields":{
+            "name": "Bowen University Teaching Hospital",
+            "type": "Private",
+            "address": "Oyo - Ogbomoso Road, Ogbomoso, Oyo State Nigeria",
+            "email": "da_office@buth.edu.ng",
+            "phone": "0803 410 2152",
+            "mortuary": "available",
+            "id": "61"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "62",
+        "fields":{
+            "name": "Lanark Specialist Hospital",
+            "type": "Private",
+            "address": "8 Wuraola-Esan Close Off New Adeoyo State Hospital Road, Ring Road Ibadan,Oyo State",
+            "email": "info@Lanarkhospital.com",
+            "phone": "0803 364 3654",
+            "mortuary": "available",
+            "id": "62"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "63",
+        "fields":{
+            "name": "Jos University Teaching Hospital",
+            "type": "Government",
+            "address": "Jos University Teaching Hospital, Lamingo, Jos, Plateau State Nigeria",
+            "email": "info@juth.org",
+            "phone": "073454736",
+            "mortuary": "available",
+            "id": "63"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "64",
+        "fields":{
+            "name": "Chilas Specialist Hospital",
+            "type": "Private",
+            "address": "20, Zaria Bye Pass, Jos, Plateau State Nigeria",
+            "email": "chillasspecialist@yahoo.com",
+            "phone": "0803 320 0635",
+            "mortuary": "available",
+            "id": "64"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "65",
+        "fields":{
+            "name": "First Rivers Hospital",
+            "type": "Private",
+            "address": "7/9 Old Aba Road, Rumuomasi, Port Harcourt",
+            "email": "info@firstrivers.com",
+            "phone": "0803 747 2138",
+            "mortuary": "available",
+            "id": "65"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "66",
+        "fields":{
+            "name": "St Catherines Specialist Hospitals",
+            "type": "Private",
+            "address": "No 14 Trans Woji Road, Woji, Port Harcourt, Rivers State, Nigeria",
+            "email": "info@stcatherineshospital.net",
+            "phone": "0908 783 0739",
+            "mortuary": "available",
+            "id": "66"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "67",
+        "fields":{
+            "name": "Usman Dan Fodio University Teaching Hospital",
+            "type": "Government",
+            "address": "1 Garba Nadama Road, Sokoto, Sokoto State",
+            "email": "info@uduth.org",
+            "phone": "0703 650 5608",
+            "mortuary": "available",
+            "id": "67"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "68",
+        "fields":{
+            "name": "Murtala Muhammed Specialist Hospital",
+            "type": "Government",
+            "address": "131, Sultan Abubakar Road, Sokoto, Sokoto State Nigeria",
+            "email": "mmsh@gmail.com",
+            "phone": "0807 179 2222",
+            "mortuary": "available",
+            "id": "68"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "69",
+        "fields":{
+            "name": "General Hospital Bali",
+            "type": "Government",
+            "address": "Takum Road Bali, Bali, Taraba State, Nigeria",
+            "email": "ghbali@yahoo.com",
+            "phone": "08083491398",
+            "mortuary": "available",
+            "id": "69"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "70",
+        "fields":{
+            "name": "Federal Medical Centre",
+            "type": "Private",
+            "address": "57 Pound Road, Jalingo, Taraba State Nigeria",
+            "email": "fmcjalingo@hotmail.com",
+            "phone": "0802 479 1687",
+            "mortuary": "available",
+            "id": "70"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "71",
+        "fields":{
+            "name": "General Sani Abacha Specialist Hospital",
+            "type": "Government",
+            "address": "Km 3 Gujiba Road, Damaturu, Yobe State Nigeria",
+            "email": "gsashospital@yahoo.com",
+            "phone": "0803 680 3272",
+            "mortuary": "available",
+            "id": "71"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "72",
+        "fields":{
+            "name": "Ultra Modern Hospital",
+            "type": "Private",
+            "address": "Damaturu-Biu Road, Damaturu, Yobe State Nigeria",
+            "email": "ultramodernhospitaldamaturu200@gmail.com",
+            "phone": "08037079432",
+            "mortuary": "available",
+            "id": "72"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "73",
+        "fields":{
+            "name": "Rama Hospital",
+            "type": "Private",
+            "address": "15 Ahmadu Bello Way, Gasau, Zamfara State, Nigeria",
+            "email": "remahospital@yahoo.com",
+            "phone": "08036919425",
+            "mortuary": "available",
+            "id": "73"
+        }
+    },
+    {
+        "model": "Zoitapp.hospital",
+        "pk": "74",
+        "fields":{
+            "name": "Arewa Hospital",
+            "type": "Private",
+            "address": "5 Sani Abacha Way, Gasau, Zamfara Nigeria",
+            "email": "arewahospital@gmail.com",
+            "phone": "08065745495",
+            "mortuary": "available",
+            "id": "74"
+        }
+    }
+]
