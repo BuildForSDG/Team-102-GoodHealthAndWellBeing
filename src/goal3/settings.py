@@ -98,9 +98,11 @@ WSGI_APPLICATION = 'goal3.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'road_accidents',
+        #'NAME': 'road_accidents',
+        'NAME': 'road-accidents',
         'USER': 'postgres',
-        'PASSWORD': '223366',
+        #'PASSWORD': '223366',
+        'PASSWORD': 'password',
         'HOST': 'localhost'
     }
 }
