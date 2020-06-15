@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <style>
+        .team{
+        text-align: left;
+        background: url('/static/images/sea.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+
+        }
+        .main{
+        padding-top: 50px;
+        margin-left: 80px;
+        text-color:white;
+        font-size:20px;
+        font-weight:plain;
+        background-color:  #0f4991;
+        color:white;
+        padding: 10px;
+        width:60%;
+
+        display: inline-block;
+}
+        }
+        .zee{
+        text-align: left;
+        text-color:white;
+        border-size:2px;
+        }
+        .H{
+        margin-top: 50px;
+        margin-left: 80px;
+        font-size:20px;
+        text-align:left;
+        color:#ddeaed;
+        width:100%;
+        padding:2px;
+
+
+        }
+        .case{
+        background-color: #077282;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        float: right;
+        font-size:10px;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title>Non collision Responses</title>
+</head>
+<body  class="team" >
+<div class="H">
+<h2>Please Report What You Know About the Road </h2>
+    <p>It is our collective responsibilities to prevent further occurrences of road accident</p>
+</div>
+<div class="main">
+<form  action="/responsepage/" method="post">
+    {% csrf_token %}
+    <table class="zee">
+    {{form.as_table}}
+    </table>
+<div class="case">
+<input  type="submit" size="50" value="Submit" />
+</div>
+</form>
+</div>
+
+</body>
+</html>

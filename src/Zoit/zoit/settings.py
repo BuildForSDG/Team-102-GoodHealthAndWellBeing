@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django_admin_reset',
+
 ]
 
 MIDDLEWARE = [
@@ -63,7 +63,7 @@ TEMPLATES = [
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                'django.template.context_processors.request',
+                'django.template.context_processor s.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
@@ -80,9 +80,9 @@ WSGI_APPLICATION = 'zoit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'zoit',
+        'NAME': 'road-accidents',
         'USER': 'postgres',
-        'PASSWORD': '223366',
+        'PASSWORD': 'u11ee1052',
         'HOST': 'localhost',
         'PORT': '5432',
     }
