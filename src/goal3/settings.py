@@ -38,7 +38,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'usersapp.apps.UsersappConfig',
+   # 'usersapp.apps.UsersappConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -49,6 +49,9 @@ INSTALLED_APPS = [
     'bootstrap4',
     'bootstrap_datepicker_plus',
     'tz_detect',
+
+    #apps should be defined here
+    'projectapps.usersapp',
 ]
 
 # Creating Bootstrap4 block and turning jquery to true
@@ -98,9 +101,11 @@ WSGI_APPLICATION = 'goal3.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'road_accidents',
+        #'NAME': 'road_accidents',
+        'NAME': 'road-accidents',
         'USER': 'postgres',
-        'PASSWORD': '223366',
+        #'PASSWORD': '223366',
+        'PASSWORD': 'password',
         'HOST': 'localhost'
     }
 }
@@ -142,6 +147,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+
 
 #Media files
 MEDIA_ROOT= os.path.join(BASE_DIR, 'media/')
