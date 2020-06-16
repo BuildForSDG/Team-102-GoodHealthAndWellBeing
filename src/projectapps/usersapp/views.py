@@ -50,7 +50,6 @@ def incident_create(request):
 
 #this function generates users' report responses into a single table
 def responder(request):
-    #detail=Incident.objects.all().filter(accident_location__exact='Adamawa')
     detail=Incident.objects.all()
     return render(request,
     'responder.html',
