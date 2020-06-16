@@ -52,6 +52,7 @@ INSTALLED_APPS = [
 
     #apps should be defined here
     'projectapps.usersapp',
+    'projectapps.blog',
 ]
 
 # Creating Bootstrap4 block and turning jquery to true
@@ -72,7 +73,7 @@ MIDDLEWARE = [
     'tz_detect.middleware.TimezoneMiddleware',
 ]
 
-ROOT_URLCONF = 'goal3.urls'
+ROOT_URLCONF = 'project.urls'
 
 #Include templates into TEMPLATES 'DIRS' as a base directory
 TEMPLATES = [
@@ -92,7 +93,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'goal3.wsgi.application'
+WSGI_APPLICATION = 'project.wsgi.application'
 
 
 # Database

@@ -3,6 +3,10 @@ from .models import Post
 from .forms import CommentForm
 from django.shortcuts import render, get_object_or_404
 
+#Toni created the function blog whilst trying to link to the blog page
+def  blog (request):
+    return render(request, 'blogindex.html')
+
 class PostList(generic.ListView):
     queryset = Post.objects.filter(status=1).order_by('-created_on')
     template_name = 'blogindex.html'
