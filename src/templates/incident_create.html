@@ -3,6 +3,37 @@
 {% bootstrap_javascript jquery='full' %}  {# Embed Bootstrap JS+jQuery #}
 
 
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <title>Welcome to Emergency room!</title>
+  </head>
+  <body>
+    
+        <div class="menu-bar">
+            <ul class="mr-20">
+                <li><a href="{% url 'home' %}">Zoit</a></li>
+                
+                <li><a href="{% url 'incident_create' %}">ReportAccident</a></li>
+                <li><a href="./component/policepost.html">Emergencies</a></li>
+                <li><a href="./component/hospital.html">Data</a></li>    
+                <li><a href="./component/hotel.html">Location Finder</a></li>
+                <li><a href="./component/hotel.html">Directories</a></li>
+                <li><a href="./component/hotel.html">JoinUs</a></li>
+
+            </ul>
+            </div>
+    <br><br>
+
+
 <div class="container-fluid">
     <div class="container">
         <div>
@@ -25,3 +56,61 @@
 
     </div>
 <div>
+
+
+
+        <div class="footer-container">
+                <footer class="site-footer">
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-sm-12 col-md-6">
+                          <h6>About</h6>
+                          <p class="text-justify">ZOIT <i>Created for Accident Emergency purpose </i> 
+                            is a social road accident response web-based application and targets four main functionalities: To inform road users accident-prone areas as well as real-time dangers on the road.   
+                            Road users would be notified when approaching accident-prone areas or danger zones. Ability to locate and/ or report road injuries and death. Ability to analyse and visualize accident data to understand trends and causes of road injuries and deaths
+                          </p>
+                        </div>
+                       <div class="col-xs-6 col-md-3">
+                          <h6>Categories</h6>
+                          <ul class="footer-links">
+                            <li><a href="#">Report Accident</a></li>
+                            <li><a href="#">Emergencies</a></li>
+                            <li><a href="#">Data</a></li>
+                            <li><a href="#">Location Finder</a></li>
+                            <li><a href="#">Directories</a></li>
+                          </ul>
+                        </div>
+              
+                        <div class="col-xs-6 col-md-3">
+                          <h6>Quick Links</h6>
+                          <ul class="footer-links">
+                            <li><a href="http://scanfcode.com/about/">About Us</a></li>
+                            <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
+                            <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Volunteer</a></li>
+                            <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
+                            <li><a href="http://scanfcode.com/sitemap/">Data Visualization</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <hr>
+                    </div>
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-md-8 col-sm-6 col-xs-12">
+                          <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by 
+                       <a href="#">ZOIT</a>.
+                          </p>
+                        </div>
+              
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                          <ul class="social-icons">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-dribble"></i></a>
+                            <a href="#"><i class="fa fa-linkedln"></i></a>  
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+              </footer>
+              </div>
