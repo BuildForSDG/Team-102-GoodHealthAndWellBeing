@@ -1,5 +1,159 @@
-<h1>LIFESHIELDS</h1>
+{% load static %}
 
-<a href="{% url 'incident_create' %}">Make a Report</a>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+    <title>Welcome to Emergency room!</title>
+  </head>
+  <body>
+    
+    <div class="container-menu">
+        <div class="menu-bar">
+            <ul class="mr-20">
+                <li><a href="index.html"></a>ZOIT</a></li>
+                <a href="{% url 'incident_create' %}">ReportAccident</a>
+                <li><a href="./component/policepost.html">Emergencies</a></li>
+                <li><a href="./component/hospital.html">Data</a></li>    
+                <li><a href="./component/hotel.html">Location Finder</a></li>
+                <li><a href="./component/hotel.html">Directories</a></li>
+                <li><a href="./component/hotel.html">JoinUs</a></li>
 
-<a href="{% url 'blogindex' %}">blog</a>
+            </ul>
+            </div>
+    </div><br><br>
+
+    <marquee behavior="sliding" direction="left"><h2> Find for the Nearest Police Station, Hotel and Hospital </h2></marquee> <br>
+
+    <div class="container">
+        <div class="direction-container">
+        <div class="row">
+            <div class="col-md-6">
+               
+               <h3>A humanitarian link <br> between the digital world <br> and disaster response</h3><br>
+               <h5 id="help">NEED help <br> ZOIT HAS COME TO HELP</h5> <br>
+
+               <h4>Click the button below to find the nearest hospital, police station or Hotel</h4> <br>
+               <button class="btn btn-primary" type="submit">Search</button>
+               <button class="btn btn-primary" type="submit">Use Google Map</button>
+            </div>
+
+            <div class="col-md-6">
+                <img src="../ZoitTemplate/img/app2.png" alt="">
+            </div>
+        </div>
+    </div>
+    </div> <br><br><br><br>
+
+    <div class="blogtitle">
+      <h1>NEWSOOM</h1>
+  </div>
+  <section class="posts">
+      <div class="post">
+          <img src="../ProjectOne - Copy/img/app3.png" alt="">
+          <h1>19 Persons Die in Lagos</h1>
+          <p>No fewer than 19 persons yesterday lost their lives in a fatal accident involving a fuel- laden tanker and 18-seater-passenger. .</p>
+          <button>Read more</button>
+      </div>
+      <div class="post">
+          <img src="../ProjectOne - Copy/img/app4.png" alt="">
+          <h1>Senior Army Officer Dies In Auto crash</h1>
+          <p>The late army officer died in an auto accident in Makurdi, Benue State, on Tuesday.
+
+            “Until his death, he was the Commanding Officer, 2 Battalion Kaduna,” an official....</p>
+          <button>Read more</button>
+      </div>
+      <div class="post">
+          <img src="../ProjectOne - Copy/img/app5.png" alt="">
+          <h1>Lagos Traffic Wahala</h1>
+          <p>In Lagos, traffic is ingrained in the city's psyche: an unavoidable stencil on daily life..... </p>
+          <button>Read more</button>
+      </div>
+      <div class="post">
+          <img src="{% static 'img/app6.png.url' %} alt="">
+          <h1>Inside Abia’s Broken Roads</h1>
+          <p>From the central park in Aba south local government area, motor cars moved gently through a crowd of impatient traders.....</p>
+          <button>Read more</button>
+      </div>
+  </section>
+  <section class="newsletter">
+      <div class="newsdesc">
+          <p>Keep your newsletter consistent by cooking up recurring topics, updated with new info in each.</p>
+      </div>
+      <form class="newsletterinputs" action="">
+          <input type="text" placeholder="Your Name">
+          <input type="Email" placeholder="Your Email">
+          <div class="submitDiv">
+              <input type="submit" value="Subscribe">
+          </div>
+      </form>
+    <div class="footer-container">
+        <footer class="site-footer">
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12 col-md-6">
+                  <h6>About</h6>
+                  <p class="text-justify">ZOIT <i>Created for Accident Emergency purpose </i> 
+                    is a social road accident response web-based application and targets four main functionalities: To inform road users accident-prone areas as well as real-time dangers on the road.   
+                    Road users would be notified when approaching accident-prone areas or danger zones. Ability to locate and/ or report road injuries and death. Ability to analyse and visualize accident data to understand trends and causes of road injuries and deaths
+                  </p>
+                </div>
+               <div class="col-xs-6 col-md-3">
+                  <h6>Categories</h6>
+                  <ul class="footer-links">
+                    <li><a href="#">Report Accident</a></li>
+                    <li><a href="#">Emergencies</a></li>
+                    <li><a href="#">Data</a></li>
+                    <li><a href="#">Location Finder</a></li>
+                    <li><a href="#">Directories</a></li>
+                  </ul>
+                </div>
+      
+                <div class="col-xs-6 col-md-3">
+                  <h6>Quick Links</h6>
+                  <ul class="footer-links">
+                    <li><a href="http://scanfcode.com/about/">About Us</a></li>
+                    <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
+                    <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Volunteer</a></li>
+                    <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
+                    <li><a href="http://scanfcode.com/sitemap/">Data Visualization</a></li>
+                  </ul>
+                </div>
+              </div>
+              <hr>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                  <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by 
+               <a href="#">ZOIT</a>.
+                  </p>
+                </div>
+      
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <ul class="social-icons">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-dribble"></i></a>
+                    <a href="#"><i class="fa fa-linkedln"></i></a>  
+                  </ul>
+                </div>
+              </div>
+            </div>
+      </footer>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>

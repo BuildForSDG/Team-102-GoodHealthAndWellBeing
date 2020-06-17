@@ -38,7 +38,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-   # 'usersapp.apps.UsersappConfig',
+    'usersapp',
+    'account',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -49,10 +50,12 @@ INSTALLED_APPS = [
     'bootstrap4',
     'bootstrap_datepicker_plus',
     'tz_detect',
+    
+
 
     #apps should be defined here
-    'projectapps.usersapp',
-    'projectapps.blog',
+    
+    
 ]
 
 # Creating Bootstrap4 block and turning jquery to true
@@ -74,6 +77,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'project.urls'
+
 
 #Include templates into TEMPLATES 'DIRS' as a base directory
 TEMPLATES = [
@@ -154,3 +158,9 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 #Media files
 MEDIA_ROOT= os.path.join(BASE_DIR, 'media/')
 MEDIA_URL= "/media/"
+
+
+#User Authentication
+LOGIN_REDIRECT_URL = 'dashboard'
+LOGIN_URL = 'login'
+LOGOUT_URL = 'logout'
