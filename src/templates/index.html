@@ -7,10 +7,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' }}" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
     <title>Welcome to Emergency room!</title>
   </head>
   <body>
@@ -19,7 +20,7 @@
         <div class="menu-bar">
             <ul class="mr-20">
                 <li><a href="index.html"></a>ZOIT</a></li>
-                <a href="{% url 'incident_create' %}">ReportAccident</a>
+                <li><a href="{% url 'incident_create' %}">ReportAccident</a></li>
                 <li><a href="./component/policepost.html">Emergencies</a></li>
                 <li><a href="./component/hospital.html">Data</a></li>    
                 <li><a href="./component/hotel.html">Location Finder</a></li>
@@ -41,12 +42,13 @@
                <h5 id="help">NEED help <br> ZOIT HAS COME TO HELP</h5> <br>
 
                <h4>Click the button below to find the nearest hospital, police station or Hotel</h4> <br>
-               <button class="btn btn-primary" type="submit">Search</button>
-               <button class="btn btn-primary" type="submit">Use Google Map</button>
+               <button class="btn btn-primary" type="submit">Report Accident</button>
+               <button class="btn btn-primary" type="submit">Respond to Accident</button>
             </div>
 
             <div class="col-md-6">
-                <img src="../ZoitTemplate/img/app2.png" alt="">
+               
+                <img src="{% static 'img/app2.png' %}" alt="">
             </div>
         </div>
     </div>
